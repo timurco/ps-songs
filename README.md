@@ -73,7 +73,7 @@ Russian translation here
 - `place` - Where it was composed
 - `source_url` - Link to Sarkarverse or other source
 - `audio_recordings` - Array of audio recordings with url, source, and singer
-- `ai` - AI-generated metadata (mood, emotions, themes, keywords, etc.)
+- `ai` - AI-generated metadata. Common subfields: `mood`, `intensity`, `emotions`, `spiritual_themes`, `keywords`, `ai_tags`, `key_symbols`, `image_prompt`, `primary_colors`, `visual_mood`, `time_of_day`, `setting`
 
 ### Content Sections
 
@@ -138,21 +138,6 @@ Oh Abiding Friend, take me with.
 О верный Друг, веди меня.
 ```
 
-## Migration
-
-To migrate old format songs to new format, use the migration script:
-
-```bash
-python3 scripts/migrate-songs.py
-```
-
-This script automatically:
-- Merges old structure (content/songs) with new metadata (data/songs)
-- Converts `audio` field to `audio_recordings` array
-- Preserves manual text edits
-- Adds AI metadata and Bengali text when available
-
 ## Resources
 
 - [Sarkarverse Song List](https://sarkarverse.org/wiki/List_of_songs_of_Prabhat_Samgiita)
-- [Migration Script Documentation](../../scripts/README.md)
