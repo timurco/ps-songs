@@ -11,6 +11,11 @@ This repository contains the songs and background images used by the
 └── images/     # Background JPEGs (ps-XXXX.jpg)
 ```
 
+## Notes on Content
+
+- **Lyrics, music, and translations** are by Shrii Prabhat Ranjan Sarkar and protected by the original copyright. They are reproduced here for educational and devotional purposes only.
+- **Background images in `images/`** are AI-generated illustrations (created with ChatGPT) inspired by each song. They are not original artworks.
+
 ## Quick Start
 
 ### Adding a new song
