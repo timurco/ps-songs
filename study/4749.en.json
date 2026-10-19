@@ -1,0 +1,655 @@
+{
+ "number": 4749,
+ "lang": "en",
+ "title": "Beloved Lord of the Gopiis",
+ "lead": "A song addressed to the Supreme Beloved with a plea for grace and communion. It reveals the image of the inner Vrindavan: the divine dance unfolds not in distant sacred lands, but in the innermost depths of each human heart.",
+ "lines": [
+  {
+   "index": 0,
+   "words": [
+    {
+     "gloss": "of the gopiis",
+     "form": "first stem of a compound",
+     "role": "modifier of jana",
+     "etymology": "Skt. gopī"
+    },
+    {
+     "gloss": "people",
+     "form": "stem of a compound",
+     "role": "modifier"
+    },
+    {
+     "gloss": "Beloved,",
+     "form": "vocative case (vocative form)",
+     "role": "address",
+     "meaning_here": "Beloved Lord",
+     "etymology": "Skt. vallabha"
+    }
+   ],
+   "structure": "Address: Gopijanavallabha (Beloved Lord of the gopiis).",
+   "literal": "Of the gopii-people Beloved,",
+   "natural": "O beloved Lord of the gopiis,",
+   "image_note": "A classical Vaishnava address to Krishna, reinterpreted as an address to the Supreme Beloved of all devotee souls."
+  },
+  {
+   "index": 1,
+   "words": [
+    {
+     "gloss": "open wide",
+     "form": "imperative mood (familiar/intimate, 2nd person)",
+     "role": "predicate",
+     "meaning_here": "open, spread open"
+    },
+    {
+     "gloss": "of eye",
+     "form": "stem functioning as modifier",
+     "role": "modifier of pallava",
+     "etymology": "Skt. akṣi"
+    },
+    {
+     "gloss": "the petals [eyelids]",
+     "form": "direct object, unmarked",
+     "role": "object of melo",
+     "meaning_here": "eyelids (lit. tender shoots/petals of the eyes)",
+     "etymology": "Skt. pallava"
+    }
+   ],
+   "structure": "Predicate: melo; direct object: ánkhi pallava.",
+   "literal": "Open wide of the eyes shoots [eyelids],",
+   "natural": "Pray, open Your eyelids,",
+   "image_note": "Poetic comparison of eyelids and eyelashes to tender spring foliage and flower petals (pallava)."
+  },
+  {
+   "index": 2,
+   "words": [
+    {
+     "gloss": "You",
+     "form": "genitive case of tumi",
+     "role": "dependent of postposition"
+    },
+    {
+     "gloss": "for the sake of",
+     "form": "postposition of purpose/cause with genitive",
+     "role": "adverbial of purpose",
+     "meaning_here": "waiting for You, for Your sake"
+    },
+    {
+     "gloss": "seated",
+     "form": "perfective participle (conjunctive participle in -e)",
+     "role": "part of compound verb"
+    },
+    {
+     "gloss": "I am [waiting]",
+     "form": "present tense, 1st person",
+     "role": "predicate",
+     "meaning_here": "I sit waiting"
+    }
+   ],
+   "structure": "Adverbial modifier: tomár tare; compound verbal predicate: base áchi.",
+   "literal": "You for the sake of seated I am [waiting],",
+   "natural": "I sit and await You.",
+   "image_note": "Base áchi conveys the patient, concentrated expectation of a loving heart."
+  },
+  {
+   "index": 3,
+   "words": [
+    {
+     "gloss": "of the gopiis",
+     "form": "stem of a compound",
+     "role": "modifier"
+    },
+    {
+     "gloss": "people",
+     "form": "stem of a compound",
+     "role": "modifier"
+    },
+    {
+     "gloss": "Beloved,",
+     "form": "vocative form",
+     "role": "address"
+    }
+   ],
+   "structure": "Address: Gopijanavallabha.",
+   "literal": "Of the gopii-people Beloved,",
+   "natural": "O beloved Lord of the gopiis,",
+   "image_note": "Repetition of the refrain/leitmotif line of the song."
+  },
+  {
+   "index": 4,
+   "words": [
+    {
+     "gloss": "You [are]",
+     "form": "nominative case, 2nd person",
+     "role": "subject"
+    },
+    {
+     "gloss": "of the ocean",
+     "form": "genitive case of ságar",
+     "role": "modifier of maṇi",
+     "etymology": "Skt. sāgara"
+    },
+    {
+     "gloss": "the jewel,",
+     "form": "nominative case, nominal part of predicate",
+     "role": "predicate",
+     "meaning_here": "pearl, jewel of the deep",
+     "etymology": "Skt. maṇi"
+    }
+   ],
+   "structure": "Subject: tumi; nominal predicate: ságarer maṇi (copula omitted).",
+   "literal": "You of the ocean jewel,",
+   "natural": "You are the jewel of the ocean,",
+   "image_note": "An image of a treasure hidden in the boundless depths of existence."
+  },
+  {
+   "index": 5,
+   "words": [
+    {
+     "gloss": "in the heart",
+     "form": "locative case (suffix -e) of marma",
+     "role": "adverbial of place",
+     "meaning_here": "in the innermost depth of the soul",
+     "etymology": "Skt. marman"
+    },
+    {
+     "gloss": "You raised [awakened]",
+     "form": "perfect (present perfect), 2nd person",
+     "role": "predicate",
+     "meaning_here": "raised a wave of sound, awakened a vibration"
+    },
+    {
+     "gloss": "a resonance,",
+     "form": "direct object, unmarked",
+     "role": "object of tulecho",
+     "meaning_here": "divine resonance, vibration",
+     "etymology": "Skt. dhvani"
+    }
+   ],
+   "structure": "Adverbial modifier: marme; predicate: tulecho; object: dhvani.",
+   "literal": "In the core You raised sound,",
+   "natural": "You have stirred a resonance deep in my heart,",
+   "image_note": "Marma - the innermost spiritual core of a human being."
+  },
+  {
+   "index": 6,
+   "words": [
+    {
+     "gloss": "of Your",
+     "form": "genitive case, poetic/Sanskrit form",
+     "role": "modifier of karuṇár",
+     "etymology": "Skt. tava"
+    },
+    {
+     "gloss": "grace",
+     "form": "genitive case (suffix -ár) of karuṇá",
+     "role": "modifier of kaṇá",
+     "etymology": "Skt. karuṇā"
+    },
+    {
+     "gloss": "a drop [particle]",
+     "form": "direct object, unmarked",
+     "role": "object of jáci",
+     "meaning_here": "a grain, the tiniest drop",
+     "etymology": "Skt. kaṇā"
+    },
+    {
+     "gloss": "I pray for",
+     "form": "present tense, 1st person (poetic form)",
+     "role": "predicate",
+     "meaning_here": "humbly beg, plead for",
+     "etymology": "Skt. yāc"
+    }
+   ],
+   "structure": "Modifier: tava karuṇár; object: kaṇá; predicate: jáci.",
+   "literal": "Your grace's particle I beg,",
+   "natural": "I pray for a drop of Your grace,",
+   "image_note": "The motif of absolute humility in a devotee: even the smallest particle of grace can transform life."
+  },
+  {
+   "index": 7,
+   "words": [
+    {
+     "gloss": "You",
+     "form": "genitive case",
+     "role": "dependent of postposition"
+    },
+    {
+     "gloss": "for the sake of",
+     "form": "postposition of purpose with genitive",
+     "role": "adverbial"
+    },
+    {
+     "gloss": "seated",
+     "form": "participle denoting state",
+     "role": "part of predicate"
+    },
+    {
+     "gloss": "I am [waiting]",
+     "form": "present tense, 1st person",
+     "role": "predicate"
+    }
+   ],
+   "structure": "Adverbial modifier: tomár tare; predicate: base áchi.",
+   "literal": "You for the sake of seated I am [waiting],",
+   "natural": "And I sit waiting for You.",
+   "image_note": "Choral refrain."
+  },
+  {
+   "index": 8,
+   "words": [
+    {
+     "gloss": "of Your",
+     "form": "genitive case",
+     "role": "modifier of liilár"
+    },
+    {
+     "gloss": "divine play's",
+     "form": "genitive case (suffix -r) of liilá",
+     "role": "modifier of sthāna",
+     "meaning_here": "mystical divine play (līlā)",
+     "etymology": "Skt. līlā"
+    },
+    {
+     "gloss": "place",
+     "form": "nominative case",
+     "role": "subject",
+     "etymology": "Skt. sthāna"
+    }
+   ],
+   "structure": "Subject: Tomár liilár sthāna (the full sentence continues into the next line).",
+   "literal": "Your lila's abode",
+   "natural": "Is the place of Your divine play",
+   "image_note": "The question expands the traditional concept of holy places to the entire universe and the human heart."
+  },
+  {
+   "index": 9,
+   "words": [
+    {
+     "gloss": "only",
+     "form": "restrictive particle",
+     "role": "adverbial of degree/restriction"
+    },
+    {
+     "gloss": "is it really",
+     "form": "interrogative particle",
+     "role": "interrogative modal particle"
+    },
+    {
+     "gloss": "in Vrindavan?",
+     "form": "locative case of Vrindávan",
+     "role": "adverbial of place",
+     "meaning_here": "in historical or geographical Vrindavan",
+     "etymology": "Skt. vṛndāvana"
+    }
+   ],
+   "structure": "Interrogative adverbial of place: shudhu ki Vrindávane.",
+   "literal": "Only is it really in Vrindavan?",
+   "natural": "Only in Vrindavan?",
+   "image_note": "A rhetorical question denying the geographical limitation of God."
+  },
+  {
+   "index": 10,
+   "words": [
+    {
+     "gloss": "dancing",
+     "form": "participle expressing manner of action",
+     "role": "part of compound verb"
+    },
+    {
+     "gloss": "You continue to go",
+     "form": "perfect, 2nd person",
+     "role": "predicate",
+     "meaning_here": "You dance continuously (nece calecho)"
+    },
+    {
+     "gloss": "You",
+     "form": "nominative case, 2nd person",
+     "role": "subject"
+    },
+    {
+     "gloss": "of man",
+     "form": "genitive case of mánuś",
+     "role": "modifier of mane mane",
+     "meaning_here": "of all people, of humanity",
+     "etymology": "Skt. mānuṣa"
+    },
+    {
+     "gloss": "in the heart",
+     "form": "locative case of man",
+     "role": "adverbial of place"
+    },
+    {
+     "gloss": "[every] heart,",
+     "form": "reduplication (distributive meaning: 'in every mind')",
+     "role": "adverbial of place",
+     "meaning_here": "in the heart of every human being"
+    }
+   ],
+   "structure": "Subject: tumi; predicate: nece calecho; adverbial modifier: mánuśer mane mane.",
+   "literal": "Dancing You go on of man in mind-mind,",
+   "natural": "You keep dancing in the depths of every human heart,",
+   "image_note": "The reduplication 'mane mane' conveys omnipresence: in every mind without exception."
+  },
+  {
+   "index": 11,
+   "words": [
+    {
+     "gloss": "sometimes",
+     "form": "indefinite temporal adverb",
+     "role": "adverbial of time"
+    },
+    {
+     "gloss": "openly,",
+     "form": "locative case of the adjective prakáshya",
+     "role": "adverbial of manner",
+     "meaning_here": "openly, visibly",
+     "etymology": "Skt. prakāśya"
+    },
+    {
+     "gloss": "and sometimes",
+     "form": "poetic synonym of kakhano",
+     "role": "adverbial of time"
+    },
+    {
+     "gloss": "in secret,",
+     "form": "locative case functioning as an adverb",
+     "role": "adverbial of manner",
+     "meaning_here": "covertly, unnoticed",
+     "etymology": "Skt. saṁgopana"
+    }
+   ],
+   "structure": "Coordinate adverbials of manner: kakhano prakáshye, kabhu saḿgopane.",
+   "literal": "Sometimes overtly, sometimes secretly,",
+   "natural": "Now openly, now in deep secret,",
+   "image_note": "God reveals Himself either by visible inspiration or by an unheard inner stirring of the heart."
+  },
+  {
+   "index": 12,
+   "words": [
+    {
+     "gloss": "everyone",
+     "form": "universal pronoun with emphatic particle -i",
+     "role": "subject",
+     "meaning_here": "every living being"
+    },
+    {
+     "gloss": "You",
+     "form": "accusative case, poetic suffix -re",
+     "role": "direct object"
+    },
+    {
+     "gloss": "we seek,",
+     "form": "present tense, 1st person plural (agreeing with sabái as collective 'we')",
+     "role": "predicate",
+     "meaning_here": "we look for, yearn to find"
+    }
+   ],
+   "structure": "Subject: sabái; object: tomáre; predicate: khuñji.",
+   "literal": "Everyone You we seek,",
+   "natural": "We all search for You,",
+   "image_note": "The search for the Supreme is recognized as the fundamental urge of every consciousness."
+  },
+  {
+   "index": 13,
+   "words": [
+    {
+     "gloss": "You",
+     "form": "genitive case",
+     "role": "dependent of postposition"
+    },
+    {
+     "gloss": "for the sake of",
+     "form": "postposition of purpose",
+     "role": "adverbial"
+    },
+    {
+     "gloss": "seated",
+     "form": "participle",
+     "role": "part of predicate"
+    },
+    {
+     "gloss": "I am [waiting]",
+     "form": "present tense, 1st person",
+     "role": "predicate"
+    }
+   ],
+   "structure": "Adverbial modifier: tomár tare; predicate: base áchi.",
+   "literal": "You for the sake of seated I am [waiting],",
+   "natural": "And I sit waiting for You.",
+   "image_note": "Refrain."
+  },
+  {
+   "index": 14,
+   "words": [
+    {
+     "gloss": "of mind's",
+     "form": "stem functioning as modifier",
+     "role": "modifier of Vrindávane",
+     "meaning_here": "of the inner mind/soul",
+     "etymology": "Skt. manas"
+    },
+    {
+     "gloss": "Vrindavan",
+     "form": "locative case",
+     "role": "adverbial of place",
+     "meaning_here": "in the Vrindavan of the mind"
+    },
+    {
+     "gloss": "You abide,",
+     "form": "present tense / stative perfect, 2nd person",
+     "role": "predicate",
+     "meaning_here": "You dwell, reside"
+    },
+    {
+     "gloss": "of mind's",
+     "form": "stem functioning as modifier",
+     "role": "modifier of Gokule"
+    },
+    {
+     "gloss": "in Gokul,",
+     "form": "locative case",
+     "role": "adverbial of place",
+     "meaning_here": "in the Gokul of the soul",
+     "etymology": "Skt. gokula"
+    }
+   ],
+   "structure": "Adverbials of place: man Vrndávane, man Gokule; predicate: rayecho.",
+   "literal": "Mind's in Vrindavan You dwell, mind's in Gokul,",
+   "natural": "You dwell in the Vrindavan and Gokul of our mind,",
+   "image_note": "Vrindavan and Gokul are not past geographical spots, but levels of spiritualized human consciousness."
+  },
+  {
+   "index": 15,
+   "words": [
+    {
+     "gloss": "of Your",
+     "form": "genitive case",
+     "role": "modifier"
+    },
+    {
+     "gloss": "ankle bells'",
+     "form": "stem functioning as modifier",
+     "role": "modifier of tále",
+     "meaning_here": "ringing anklets",
+     "etymology": "Skt. nūpura"
+    },
+    {
+     "gloss": "to the rhythm",
+     "form": "locative case of tál",
+     "role": "adverbial of manner",
+     "meaning_here": "in time, to the rhythm of the dance",
+     "etymology": "Skt. tāla"
+    }
+   ],
+   "structure": "Adverbial modifier of manner modifying dole (in the next line): Tomár núpur tále.",
+   "literal": "Your ankle bells in the rhythm",
+   "natural": "To the rhythm of the bells upon Your feet,",
+   "image_note": "The rhythm of the Lord's cosmic dance stirs and sets the whole universe in motion."
+  },
+  {
+   "index": 16,
+   "words": [
+    {
+     "gloss": "the bottomless",
+     "form": "qualitative adjective",
+     "role": "modifier of niiradhi",
+     "meaning_here": "unfathomably deep",
+     "etymology": "Skt. atala (a- + tala)"
+    },
+    {
+     "gloss": "ocean",
+     "form": "nominative case",
+     "role": "subject",
+     "meaning_here": "ocean of existence/the cosmos",
+     "etymology": "Skt. nīradhi (nīra + dhi)"
+    },
+    {
+     "gloss": "sways,",
+     "form": "present tense, 3rd person",
+     "role": "predicate",
+     "meaning_here": "heaves with waves, rocks"
+    }
+   ],
+   "structure": "Subject: atal niiradhi; predicate: dole.",
+   "literal": "Bottomless ocean sways,",
+   "natural": "The bottomless ocean sways.",
+   "image_note": "Niiradhi - the ocean of infinite consciousness, responding to the steps of the Lord."
+  },
+  {
+   "index": 17,
+   "words": [
+    {
+     "gloss": "of Your",
+     "form": "genitive case",
+     "role": "modifier of adhar"
+    },
+    {
+     "gloss": "lips'",
+     "form": "stem functioning as modifier",
+     "role": "modifier of veṇu",
+     "meaning_here": "resting against the lips",
+     "etymology": "Skt. adhara"
+    },
+    {
+     "gloss": "flute [and]",
+     "form": "direct object, unmarked",
+     "role": "coordinate object of pete cáy",
+     "meaning_here": "the flute (symbol of the divine call)",
+     "etymology": "Skt. veṇu"
+    }
+   ],
+   "structure": "Coordinate object: tomár adhar veńu (to the verb pete cáy).",
+   "literal": "Your lips' flute",
+   "natural": "The flute upon Your lips,",
+   "image_note": "Krishna's flute embodies the call of the Infinite resounding for every soul."
+  },
+  {
+   "index": 18,
+   "words": [
+    {
+     "gloss": "of feet",
+     "form": "stem functioning as modifier",
+     "role": "modifier of dhúlir",
+     "etymology": "Skt. caraṇa"
+    },
+    {
+     "gloss": "of dust",
+     "form": "genitive case of dhúli",
+     "role": "modifier of reṇu",
+     "etymology": "Skt. dhūli"
+    },
+    {
+     "gloss": "pollen [particles]",
+     "form": "direct object, unmarked",
+     "role": "coordinate object of pete cáy",
+     "meaning_here": "the tiniest blessed particles of dust from the feet",
+     "etymology": "Skt. reṇu"
+    }
+   ],
+   "structure": "Coordinate object: caraṇ dhulir reṇu (to pete cáy).",
+   "literal": "Feet dust's pollen",
+   "natural": "And the pollen-dust of Your feet,",
+   "image_note": "Caraṇa-reṇu - a mark of supreme devotion and the sanctification of the spirit."
+  },
+  {
+   "index": 19,
+   "words": [
+    {
+     "gloss": "to receive",
+     "form": "infinitive of purpose in -te from páoyá",
+     "role": "complement of cáy",
+     "meaning_here": "to obtain, to touch"
+    },
+    {
+     "gloss": "[the soul] longs",
+     "form": "present tense, 3rd person",
+     "role": "predicate",
+     "meaning_here": "longs, yearns"
+    }
+   ],
+   "structure": "Infinitive phrase: pete cáy (subject is implied: the heart/soul).",
+   "literal": "To attain longs",
+   "natural": "The soul longs to receive,",
+   "image_note": "An unquenchable thirst for closeness to the Divine."
+  },
+  {
+   "index": 20,
+   "words": [
+    {
+     "gloss": "very close.",
+     "form": "paired reduplicated adverb from kách",
+     "role": "adverbial of place",
+     "meaning_here": "in closest proximity"
+    }
+   ],
+   "structure": "Adverbial modifier of place to the predicate: káchákáchi.",
+   "literal": "Close-close.",
+   "natural": "Drawn closer and closer.",
+   "image_note": "Káchákáchi conveys the most intimate closeness, dissolving all distance between the soul and God."
+  },
+  {
+   "index": 21,
+   "words": [
+    {
+     "gloss": "You",
+     "form": "genitive case",
+     "role": "dependent of postposition"
+    },
+    {
+     "gloss": "for the sake of",
+     "form": "postposition of purpose with genitive",
+     "role": "adverbial"
+    },
+    {
+     "gloss": "seated",
+     "form": "participle",
+     "role": "part of predicate"
+    },
+    {
+     "gloss": "I am [waiting]",
+     "form": "present tense, 1st person",
+     "role": "predicate"
+    }
+   ],
+   "structure": "Adverbial modifier: tomár tare; predicate: base áchi.",
+   "literal": "You for the sake of seated I am [waiting],",
+   "natural": "I sit and wait for You.",
+   "image_note": "The final chord of waiting."
+  }
+ ],
+ "heard": [
+  "In the subtitles and singing in lines 10 and 14: in line 10 the subtitles write 'manujer', sung as 'manujer' / 'mánuśer'; in line 14 it is written 'Mana Vrinda'vane', sung as 'mano bṛndábane'",
+  "In line 6 it is sung as 'tava karuṇár kaṇá jáci' (with a distinct clear long vowel at the end), while the subtitles give 'kan'a' ja'ci'",
+  "In lines 19-20 the subtitles merge them as 'Pete ca'i ka'cha' ka'chi', which is also sung as a single unbroken musical phrase"
+ ],
+ "uncertain": [],
+ "interpretation": "The song is a mystical interpretation of Vaishnava motifs. Here, the Lord of the gopiis (Gopiijanavallabha) is not merely a cowherd from historical legend, but Parama Puruśa - the Supreme Consciousness, whose abode (Vrindavan and Gokula) lies not in geographical space, but inside the mind of every creature. He dances incessantly in the hearts of all human beings (mánuśer mane mane), revealing Himself openly or remaining concealed. The ocean of cosmic creation sways to the rhythm of His footsteps, and the supreme goal and longing of the individual soul (jiiva) is to feel the closest intimacy with Him, to merge into the melodies of His beckoning flute, and to attain the blessing of humility at His lotus feet.",
+ "generated": {
+  "by": "gemini",
+  "model": "gemini-flash-latest",
+  "date": "2026-10-19",
+  "verified": false,
+  "from": "ru"
+ },
+ "problems": []
+}
