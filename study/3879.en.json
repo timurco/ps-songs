@@ -1,0 +1,404 @@
+{
+ "number": 3879,
+ "lang": "en",
+ "title": "O Lord, King of My Mind",
+ "lead": "A solemn hymn of self-surrender to the Supreme, combining images of cosmic scale with an intimately trusting personal address. The key grammatical topic for the student is the gentle imperative forms of the polite \"tumi\" register (mānio, dio).",
+ "lines": [
+  {
+   "index": 0,
+   "words": [
+    {
+     "gloss": "King,",
+     "form": "nominative singular",
+     "parts": "রাজা",
+     "role": "address / nominal predicate",
+     "meaning_here": "King, Sovereign",
+     "note": "Sanskrit rājan"
+    },
+    {
+     "gloss": "You [are]",
+     "form": "personal pronoun 2nd person, familiar/polite, nominative",
+     "parts": "তুমি",
+     "role": "subject",
+     "meaning_here": "You"
+    },
+    {
+     "gloss": "of [my] heart",
+     "form": "genitive singular",
+     "parts": "মন + এর",
+     "role": "modifier of রাজা",
+     "meaning_here": "of heart, mind, soul"
+    },
+    {
+     "gloss": "the King,",
+     "form": "nominative singular",
+     "parts": "রাজা",
+     "role": "nominal predicate",
+     "meaning_here": "King, Sovereign"
+    }
+   ],
+   "structure": "তুমি (subject) - [হও] মনের রাজা (compound nominal predicate), রাজা (address)",
+   "literal": "King, You heart's King",
+   "natural": "O Lord, King of my mind,"
+  },
+  {
+   "index": 1,
+   "words": [
+    {
+     "gloss": "the universe",
+     "form": "nominative singular",
+     "parts": "বিশ্ব",
+     "role": "subject",
+     "meaning_here": "the entire world, the universe"
+    },
+    {
+     "gloss": "under Your",
+     "form": "possessive pronoun 2nd person, genitive",
+     "parts": "তোমার",
+     "role": "modifier of অধীনে",
+     "meaning_here": "under Your"
+    },
+    {
+     "gloss": "control [is].",
+     "form": "locative of adjective/noun অধীন",
+     "parts": "অধীন + এ",
+     "role": "adverbial / predicative phrase",
+     "meaning_here": "under control, under dominion",
+     "note": "Sanskrit adhi + īna"
+    }
+   ],
+   "structure": "বিশ্ব (subject) তোমার অধীনে [রয়েছে] (adverbial-predicative group)",
+   "literal": "The universe Your under control",
+   "natural": "The universe is under Your control."
+  },
+  {
+   "index": 2,
+   "words": [
+    {
+     "gloss": "from nebulae",
+     "form": "stem before postposition",
+     "parts": "নীহারিকা",
+     "role": "dependent on থেকে",
+     "meaning_here": "cosmic nebula"
+    },
+    {
+     "gloss": "to",
+     "form": "ablative postposition",
+     "parts": "থাকা + এ (conjunctive participle)",
+     "role": "postposition",
+     "meaning_here": "from, starting from"
+    },
+    {
+     "gloss": "molecules [and]",
+     "form": "nominative, as part of the pair অণু-পরমাণু",
+     "parts": "অণু",
+     "role": "coordinate object",
+     "meaning_here": "molecule, minute particle"
+    }
+   ],
+   "structure": "নীহারিকা থেকে অণু (part of the comparative-spatial chain leading into the next line)",
+   "literal": "Nebulae from [to] molecule",
+   "natural": "Right from nebulae to molecules"
+  },
+  {
+   "index": 3,
+   "words": [
+    {
+     "gloss": "[and] atoms -",
+     "form": "nominative, second member of the pair",
+     "parts": "পরম + অণু",
+     "role": "object of শাসনে",
+     "meaning_here": "atom, subtle particle"
+    },
+    {
+     "gloss": "in [Your] governance.",
+     "form": "locative singular",
+     "parts": "শাসন + এ",
+     "role": "adverbial",
+     "meaning_here": "under governance, under control"
+    }
+   ],
+   "structure": "[সবই তোমার] শাসনে (adverbial to the implied predicate)",
+   "literal": "atoms in [Your] governance",
+   "natural": "And atoms, all are governed by You."
+  },
+  {
+   "index": 4,
+   "words": [
+    {
+     "gloss": "By Your",
+     "form": "genitive",
+     "parts": "তোমার",
+     "role": "modifier of আদেশে",
+     "meaning_here": "by Your"
+    },
+    {
+     "gloss": "order",
+     "form": "locative, conditional/causal meaning",
+     "parts": "আদেশ + এ",
+     "role": "adverbial of cause/manner",
+     "meaning_here": "by order, by will"
+    },
+    {
+     "gloss": "flowers",
+     "form": "nominative, collective/singular",
+     "parts": "ফুল",
+     "role": "subject",
+     "meaning_here": "flowers"
+    },
+    {
+     "gloss": "bloom,",
+     "form": "simple present, 3rd person",
+     "parts": "ফোট্ + এ",
+     "role": "predicate",
+     "meaning_here": "blooms, blossoms"
+    }
+   ],
+   "structure": "তোমার আদেশে (adverbial) ফুল (subject) ফোটে (predicate)",
+   "literal": "Your by order flower blooms",
+   "natural": "By Your order the flowers bloom,"
+  },
+  {
+   "index": 5,
+   "words": [
+    {
+     "gloss": "a sign",
+     "form": "nominative, subject of the participial clause",
+     "parts": "ইঙ্গিত",
+     "role": "subject of the participial clause",
+     "meaning_here": "hint, sign, gesture of will"
+    },
+    {
+     "gloss": "as soon as comes,",
+     "form": "conditional participle (এলে) + emphatic particle -ই",
+     "parts": "আস্ (এল-) + এ + ই",
+     "role": "temporal condition adverbial",
+     "meaning_here": "as soon as it appears"
+    },
+    {
+     "gloss": "a meteor",
+     "form": "nominative singular",
+     "parts": "উল্কা",
+     "role": "subject",
+     "meaning_here": "meteors, shooting stars"
+    },
+    {
+     "gloss": "rushes down,",
+     "form": "simple present, 3rd person",
+     "parts": "ছোট্ + এ",
+     "role": "predicate",
+     "meaning_here": "rushes swiftly"
+    }
+   ],
+   "structure": "ইঙ্গিত এলেই (temporal condition subordinate clause) উল্কা (subject) ছোটে (predicate)",
+   "literal": "A sign as soon as appears - a meteor rushes",
+   "natural": "At Your gesture, the meteors rush down,"
+  },
+  {
+   "index": 6,
+   "words": [
+    {
+     "gloss": "high mountain peaks",
+     "form": "nominative plural/singular",
+     "parts": "তুঙ্গ + অদ্রি",
+     "role": "subject",
+     "meaning_here": "highest mountain peaks",
+     "note": "Sanskrit tuṅga (high) + adri (mountain)"
+    },
+    {
+     "gloss": "at the feet",
+     "form": "locative singular",
+     "parts": "চরণ + এ",
+     "role": "adverbial of place / direction",
+     "meaning_here": "at Your feet"
+    },
+    {
+     "gloss": "wallow / bow down,",
+     "form": "simple present, 3rd person",
+     "parts": "লোট্ + এ",
+     "role": "predicate",
+     "meaning_here": "fall prostrate, roll in the dust"
+    }
+   ],
+   "structure": "তুঙ্গাদ্রি (subject) চরণে (adverbial) লোটে (predicate)",
+   "literal": "Mountain peaks at the feet bow down",
+   "natural": "The high peaks of mountains wallow at Your feet,"
+  },
+  {
+   "index": 7,
+   "words": [
+    {
+     "gloss": "the wind",
+     "form": "nominative singular",
+     "parts": "পবন",
+     "role": "subject",
+     "meaning_here": "the wind"
+    },
+    {
+     "gloss": "blows",
+     "form": "simple present, 3rd person",
+     "parts": "বह् + এ",
+     "role": "predicate",
+     "meaning_here": "blows, flows"
+    },
+    {
+     "gloss": "with resonance.",
+     "form": "locative singular functioning as adverbial of manner",
+     "parts": "স্বনন + এ",
+     "role": "adverbial of manner",
+     "meaning_here": "with humming sound, with resonant whistling",
+     "note": "Sanskrit svanana (sounding, ringing, noise)"
+    }
+   ],
+   "structure": "পবন (subject) স্বননে (adverbial) বহে (predicate)",
+   "literal": "The wind blows with noise",
+   "natural": "And the wind blows with resonance."
+  },
+  {
+   "index": 8,
+   "words": [
+    {
+     "gloss": "of all [beings]",
+     "form": "genitive singular/plural",
+     "parts": "সব + আর",
+     "role": "modifier / object",
+     "meaning_here": "of all creatures"
+    },
+    {
+     "gloss": "Lord,",
+     "form": "nominative / address",
+     "parts": "প্রভু",
+     "role": "address / nominal predicate",
+     "meaning_here": "Lord, Master"
+    },
+    {
+     "gloss": "venerable [You are],",
+     "form": "verbal adjective of obligation",
+     "parts": "বরণ + ঈয়",
+     "role": "nominal predicate",
+     "meaning_here": "worthy of worship and adoration",
+     "note": "Sanskrit root vṛ + anīya"
+    }
+   ],
+   "structure": "[তুমি] সবার বরণীয় প্রভু (compound predicate / address)",
+   "literal": "Of all the Lord, worthy of choosing",
+   "natural": "You are the most Venerable Lord of all beings,"
+  },
+  {
+   "index": 9,
+   "words": [
+    {
+     "gloss": "everyone",
+     "form": "nominative, with emphatic/generalizing -ই",
+     "parts": "সব + আই",
+     "role": "subject",
+     "meaning_here": "all without exception"
+    },
+    {
+     "gloss": "indeed",
+     "form": "corroborative/emphatic particle",
+     "parts": "যে",
+     "role": "connective/accent particle",
+     "meaning_here": "indeed, surely"
+    },
+    {
+     "gloss": "to You also",
+     "form": "genitive + connective particle -ও",
+     "parts": "তোমার + ও",
+     "role": "indirect object of প্রিয়",
+     "meaning_here": "also to You",
+     "note": "in text transliterated Tomáreo/Tomáro"
+    },
+    {
+     "gloss": "dear [is].",
+     "form": "predicative adjective",
+     "parts": "প্রিয়",
+     "role": "nominal predicate",
+     "meaning_here": "beloved, dear"
+    }
+   ],
+   "structure": "সবাই (subject) যে তোমারও প্রিয় [হয়] (predicate)",
+   "literal": "All indeed Yours too dear",
+   "natural": "And all are dear to You."
+  },
+  {
+   "index": 10,
+   "words": [
+    {
+     "gloss": "my",
+     "form": "poetic genitive form of 1st person (আমার)",
+     "parts": "মোর",
+     "role": "modifier",
+     "meaning_here": "my"
+    },
+    {
+     "gloss": "this",
+     "form": "demonstrative pronoun",
+     "parts": "এ",
+     "role": "modifier of অনুরোধ",
+     "meaning_here": "this"
+    },
+    {
+     "gloss": "request",
+     "form": "accusative (direct object)",
+     "parts": "অনুরোধ",
+     "role": "direct object",
+     "meaning_here": "plea, request"
+    },
+    {
+     "gloss": "please accept,",
+     "form": "polite imperative future tense (2nd person tumi)",
+     "parts": "মান্ + ইও",
+     "role": "predicate",
+     "meaning_here": "heed, honor, grant"
+    }
+   ],
+   "structure": "[তুমি] (subject) মোর এ অনুরোধ (object) মানিও (predicate)",
+   "literal": "My this request honor",
+   "natural": "Please accept this request of mine,"
+  },
+  {
+   "index": 11,
+   "words": [
+    {
+     "gloss": "shelter",
+     "form": "accusative",
+     "parts": "শরণ",
+     "role": "object of verb",
+     "meaning_here": "protection, refuge"
+    },
+    {
+     "gloss": "grant",
+     "form": "polite imperative future tense (2nd person tumi)",
+     "parts": "দে- + ইও",
+     "role": "predicate",
+     "meaning_here": "grant, give"
+    },
+    {
+     "gloss": "at [Your] feet.",
+     "form": "locative singular",
+     "parts": "চরণ + এ",
+     "role": "adverbial of place",
+     "meaning_here": "at Your lotus feet"
+    }
+   ],
+   "structure": "[তুমি] (subject) চরণে (adverbial) শরণ (object) দিও (predicate)",
+   "literal": "Refuge grant at feet",
+   "natural": "To grant me shelter at Your feet."
+  }
+ ],
+ "heard": [
+  "In the video subtitles, line 8 is given with an elongation 'Saba'r Prabhu varan'iiya aaaaa', which conveys the vocalise in the melody.",
+  "In line 9, 'Saba'i je Toma'reo priya' is heard on screen and in singing (with epenthesis or connector 'reo'), while the traditional text often writes 'Tomáro'."
+ ],
+ "uncertain": [],
+ "interpretation": "The song conveys the contrast between the cosmic grandeur of Parama Puruśa, who directs the movement of galaxies and the elements, and His intimate, personal love for each creature. The devotee acknowledges the Lord's absolute mastery over both macrocosm and microcosm, yet appeals to Him as the loving Sovereign of his own heart with a single prayer - for unconditional spiritual refuge (sharańágati).",
+ "generated": {
+  "by": "gemini",
+  "model": "gemini-flash-latest",
+  "date": "2026-10-19",
+  "verified": false,
+  "from": "ru"
+ },
+ "problems": []
+}

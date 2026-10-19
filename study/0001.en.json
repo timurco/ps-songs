@@ -1,0 +1,297 @@
+{
+ "number": 1,
+ "lang": "en",
+ "title": "O Friend, lead me on",
+ "lead": "The historic first song of Prabhat Samgiita, opening the entire collection with a devotional call of the soul to the True Friend. Important for the student are the compound verb of motion niye calo (\"take and lead\") and the reduplication gáne gáne (\"song after song\").",
+ "lines": [
+  {
+   "index": 0,
+   "words": [
+    {
+     "gloss": "Friend",
+     "form": "sing., vocative case (direct form)",
+     "parts": "বন্ধু",
+     "role": "address",
+     "meaning_here": "true Friend (Parama Puruśa)",
+     "etymology": "Skt. बन्धु (bandhu) - relative, friend; from the root बन्ध् (bandh) - to bind"
+    },
+    {
+     "gloss": "O",
+     "form": "vocative particle",
+     "parts": "হে",
+     "role": "vocative particle"
+    },
+    {
+     "gloss": "having taken",
+     "form": "conjunctive participle from নেওয়া (newa)",
+     "parts": "নি- + -য়ে",
+     "role": "part of compound verb",
+     "meaning_here": "having taken (me)"
+    },
+    {
+     "gloss": "go",
+     "form": "imperative mood, 2nd person (neut./intimate, tumi)",
+     "parts": "চল- + -ও",
+     "role": "predicate (main verb of compound motion niye calo)",
+     "meaning_here": "lead, guide, carry away with You"
+    }
+   ],
+   "structure": "address (bandhu he) + compound verb of motion (niye calo = take and go / lead)",
+   "literal": "Friend O, having taken go",
+   "natural": "O dearest Friend, lead me on!"
+  },
+  {
+   "index": 1,
+   "words": [
+    {
+     "gloss": "of light",
+     "form": "genitive case, sing. (-র)",
+     "parts": "আলো + -র",
+     "role": "attribute to jharna-dharar"
+    },
+    {
+     "gloss": "of that / toward that",
+     "form": "demonstrative pronoun (distal)",
+     "parts": "ওই",
+     "role": "attribute to jharna-dharar"
+    },
+    {
+     "gloss": "of the waterfall stream",
+     "form": "genitive case, sing. (-র); compound word (tatpuruśa)",
+     "parts": "ঝর্ণা (waterfall/spring) + ধারা (stream, flow) + -র (gen. case)",
+     "role": "object with postposition pane",
+     "meaning_here": "toward the flowing stream of the spring/waterfall"
+    },
+    {
+     "gloss": "toward",
+     "form": "postposition with genitive case",
+     "parts": "পানে",
+     "role": "postposition of direction",
+     "meaning_here": "toward, in the direction of"
+    }
+   ],
+   "structure": "adverbial of direction (alor oi jharna-dharar pane), modifies the predicate niye calo",
+   "literal": "Of light of that stream-waterfall toward",
+   "natural": "Lead me unto that fountain of effulgence!"
+  },
+  {
+   "index": 2,
+   "words": [
+    {
+     "gloss": "Friend",
+     "form": "sing., vocative case",
+     "parts": "বন্ধু",
+     "role": "address",
+     "meaning_here": "true Friend",
+     "etymology": "Skt. बन्धु (bandhu)"
+    },
+    {
+     "gloss": "O",
+     "form": "vocative particle",
+     "parts": "হে",
+     "role": "vocative particle"
+    },
+    {
+     "gloss": "having taken",
+     "form": "conjunctive participle",
+     "parts": "নি- + -য়ে",
+     "role": "part of predicate",
+     "meaning_here": "having taken"
+    },
+    {
+     "gloss": "go",
+     "form": "imperative mood, 2nd person",
+     "parts": "চল- + -ও",
+     "role": "predicate",
+     "meaning_here": "lead"
+    }
+   ],
+   "structure": "repetition of the refrain line (address + predicate)",
+   "literal": "Friend O, having taken go",
+   "natural": "O dearest Friend, lead me on!"
+  },
+  {
+   "index": 3,
+   "words": [
+    {
+     "gloss": "of darkness",
+     "form": "genitive case, sing. (-এর)",
+     "parts": "আঁধার + -এর",
+     "role": "attribute to vyatha",
+     "meaning_here": "of darkness, of ignorance",
+     "etymology": "Skt. अंधकार (andhakāra) -> Prakrit -> Beng. আঁধার"
+    },
+    {
+     "gloss": "the pain",
+     "form": "nominative case, sing.",
+     "parts": "ব্যথা",
+     "role": "subject",
+     "meaning_here": "pain, agony"
+    },
+    {
+     "gloss": "longer",
+     "form": "adverb of time with negation (no longer)",
+     "parts": "আর",
+     "role": "adverbial modifier",
+     "meaning_here": "anymore, no longer"
+    },
+    {
+     "gloss": "is borne / tolerated",
+     "form": "present tense, 3rd person (intransitive/passive meaning)",
+     "parts": "স- + -য়",
+     "role": "predicate",
+     "meaning_here": "is endured, is tolerated"
+    },
+    {
+     "gloss": "not",
+     "form": "negative particle with verb",
+     "parts": "না",
+     "role": "negation with predicate"
+    },
+    {
+     "gloss": "in the heart",
+     "form": "locative case, sing. (-এ)",
+     "parts": "প্রাণ + -এ",
+     "role": "indirect object / locative of experience",
+     "meaning_here": "in the soul, in the life-force",
+     "etymology": "Skt. प्राण (prāṇa) - breath, life"
+    }
+   ],
+   "structure": "subject (andharer vyatha) + adverbial of time (ar) + locative (prane) + predicate with negation (say na)",
+   "literal": "Of darkness the pain longer is borne not in the heart",
+   "natural": "I can no longer bear the pain of darkness in my heart."
+  },
+  {
+   "index": 4,
+   "words": [
+    {
+     "gloss": "Friend",
+     "form": "sing., vocative case",
+     "parts": "বন্ধু",
+     "role": "address",
+     "meaning_here": "true Friend",
+     "etymology": "Skt. बन्धु (bandhu)"
+    },
+    {
+     "gloss": "O",
+     "form": "vocative particle",
+     "parts": "হে",
+     "role": "vocative particle"
+    },
+    {
+     "gloss": "having taken",
+     "form": "conjunctive participle",
+     "parts": "নি- + -য়ে",
+     "role": "part of predicate",
+     "meaning_here": "having taken"
+    },
+    {
+     "gloss": "go",
+     "form": "imperative mood, 2nd person",
+     "parts": "চল- + -ও",
+     "role": "predicate",
+     "meaning_here": "lead"
+    }
+   ],
+   "structure": "repetition of the refrain line (address + predicate)",
+   "literal": "Friend O, having taken go",
+   "natural": "O dearest Friend, lead me on!"
+  },
+  {
+   "index": 5,
+   "words": [
+    {
+     "gloss": "of sleep",
+     "form": "genitive case, sing. (-এর)",
+     "parts": "ঘুম + -এর",
+     "role": "attribute to ghor",
+     "meaning_here": "of sleep, of slumber"
+    },
+    {
+     "gloss": "stupor / illusion",
+     "form": "nominative/accusative case, sing. (direct object of the verbal noun bhanganor)",
+     "parts": "ঘোর",
+     "role": "object of bhanganor",
+     "meaning_here": "stupor, deep slumber, trance"
+    },
+    {
+     "gloss": "shattering / dispelling",
+     "form": "causative verbal noun, genitive case (-র)",
+     "parts": "ভাঙ- + -আনো + -র",
+     "role": "attribute to gane gane",
+     "meaning_here": "breaking, awakening from sleep"
+    },
+    {
+     "gloss": "with song",
+     "form": "instrumental/locative case (-এ)",
+     "parts": "গান + -এ",
+     "role": "adverbial of manner / means",
+     "meaning_here": "with song",
+     "etymology": "Skt. गान (gāna)"
+    },
+    {
+     "gloss": "with song (again and again)",
+     "form": "repetition of noun in instrumental/locative case (reduplication: song after song)",
+     "parts": "গান + -এ",
+     "role": "adverbial of manner / continuity",
+     "meaning_here": "with each new song, with unceasing songs",
+     "etymology": "Skt. गान (gāna)"
+    }
+   ],
+   "structure": "adverbial of means/manner: attribute (ghumer ghor bhanganor) + reduplication (gane gane), modifies niye calo",
+   "literal": "Of sleep stupor breaking with songs-songs",
+   "natural": "With Your songs, break the deep slumber of sleep and lead me on!"
+  },
+  {
+   "index": 6,
+   "words": [
+    {
+     "gloss": "Friend",
+     "form": "sing., vocative case",
+     "parts": "বন্ধু",
+     "role": "address",
+     "meaning_here": "true Friend",
+     "etymology": "Skt. बन्धु (bandhu)"
+    },
+    {
+     "gloss": "O",
+     "form": "vocative particle",
+     "parts": "হে",
+     "role": "vocative particle"
+    },
+    {
+     "gloss": "having taken",
+     "form": "conjunctive participle",
+     "parts": "নি- + -য়ে",
+     "role": "part of predicate",
+     "meaning_here": "having taken"
+    },
+    {
+     "gloss": "go",
+     "form": "imperative mood, 2nd person",
+     "parts": "চল- + -ও",
+     "role": "predicate",
+     "meaning_here": "lead"
+    }
+   ],
+   "structure": "repetition of the refrain line (address + predicate)",
+   "literal": "Friend O, having taken go",
+   "natural": "O dearest Friend, lead me on!"
+  }
+ ],
+ "heard": [
+  "In the video captions, it is written 'A'lor oi jharan'a' dha'ra'ra pa'ne' (separating jharna and dharar)",
+  "In line 3, the captions show 'A'ndha'rer vyatha' a'r saye na' pra'n'e' (with the verb form saye instead of say, although the standard shoy is sung)",
+  "In line 5, the captions show 'Bha'm'ga'nor' with anusvara, pronounced bhanganor"
+ ],
+ "uncertain": [],
+ "interpretation": "The first song of the Prabhat Samgiita collection expresses the primordial call of the jiiva to the Supreme Entity (Parama Puruśa). The spiritual aspirant recognizes the burden of staticity and ignorance (darkness) and implores the Divine Friend to awaken them from the sleep of maya through the melodies of songs and lead them away toward the eternal source of spiritual light.",
+ "generated": {
+  "by": "gemini",
+  "model": "gemini-flash-latest",
+  "date": "2026-10-19",
+  "verified": false,
+  "from": "ru"
+ },
+ "problems": []
+}

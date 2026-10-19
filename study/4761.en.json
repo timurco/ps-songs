@@ -1,0 +1,610 @@
+{
+ "number": 4761,
+ "lang": "en",
+ "title": "You are my meditation, You are my knowledge",
+ "lead": "A song of all-encompassing love, where Supreme Consciousness replaces the entire worldly sphere of mundane concerns. The key image is the unfolding of the day and human life from dawn to the evening union with the Beloved.",
+ "lines": [
+  {
+   "index": 0,
+   "words": [
+    {
+     "gloss": "You",
+     "form": "personal 2nd person, ordinary, nominative",
+     "parts": "tumi",
+     "role": "subject",
+     "meaning_here": "You"
+    },
+    {
+     "gloss": "my",
+     "form": "personal 1st person, singular, genitive",
+     "parts": "ām-ār",
+     "role": "modifier",
+     "meaning_here": "my"
+    },
+    {
+     "gloss": "meditation",
+     "form": "singular, nominative",
+     "parts": "dhyān",
+     "role": "nominal predicate",
+     "meaning_here": "meditation, object of contemplation",
+     "etymology": "Sanskrit dhyāna"
+    },
+    {
+     "gloss": "You",
+     "form": "personal 2nd person, ordinary, nominative",
+     "parts": "tumi",
+     "role": "subject",
+     "meaning_here": "You"
+    },
+    {
+     "gloss": "my",
+     "form": "personal 1st person, singular, genitive",
+     "parts": "ām-ār",
+     "role": "modifier",
+     "meaning_here": "my"
+    },
+    {
+     "gloss": "knowledge,",
+     "form": "singular, nominative (poetic form jinān)",
+     "parts": "jinān / jñān",
+     "role": "nominal predicate",
+     "meaning_here": "knowledge, spiritual wisdom",
+     "etymology": "Sanskrit jñāna",
+     "note": "In the text, jinān is a vocalized poetic variant of jñān."
+    }
+   ],
+   "structure": "Two parallel verbless clauses with an omitted copula: tumi āmār dhyān (You are my meditation) and tumi āmār jinān (You are my knowledge).",
+   "literal": "You [are] my contemplation, You [are] my knowledge,",
+   "natural": "You are my meditation, You are my knowledge,"
+  },
+  {
+   "index": 1,
+   "words": [
+    {
+     "gloss": "You alone",
+     "form": "personal 2nd person, nominative + emphatic particle -i",
+     "parts": "tumi-i",
+     "role": "subject",
+     "meaning_here": "only You, You indeed"
+    },
+    {
+     "gloss": "my",
+     "form": "personal 1st person, singular, genitive",
+     "parts": "ām-ār",
+     "role": "modifier",
+     "meaning_here": "my"
+    },
+    {
+     "gloss": "whole world.",
+     "form": "singular, nominative",
+     "parts": "saṁsāra",
+     "role": "nominal predicate",
+     "meaning_here": "world, family, universe, whole life",
+     "etymology": "Sanskrit saṁsāra"
+    }
+   ],
+   "structure": "Verbless statement with logical emphasis on the subject tumi-i (You alone) and predicate saṁsār (my world).",
+   "literal": "Only You [are] my world.",
+   "natural": "You alone are my entire world."
+  },
+  {
+   "index": 2,
+   "words": [
+    {
+     "gloss": "You",
+     "form": "personal 2nd person, accusative-dative",
+     "parts": "tomā-y",
+     "role": "object",
+     "meaning_here": "You"
+    },
+    {
+     "gloss": "losing,",
+     "form": "conjunctive participle (asampanna kriyā)",
+     "parts": "hāri-ye",
+     "role": "adverbial modifier of manner",
+     "meaning_here": "having lost, losing"
+    },
+    {
+     "gloss": "I weep,",
+     "form": "present tense, 1st person",
+     "parts": "kā̃d-i",
+     "role": "predicate",
+     "meaning_here": "I weep"
+    },
+    {
+     "gloss": "You",
+     "form": "personal 2nd person, accusative-dative",
+     "parts": "tomā-y",
+     "role": "object",
+     "meaning_here": "You"
+    },
+    {
+     "gloss": "regaining,",
+     "form": "conjunctive participle",
+     "parts": "phiri-e",
+     "role": "adverbial modifier of manner",
+     "meaning_here": "having regained [You], getting back"
+    },
+    {
+     "gloss": "I smile,",
+     "form": "present tense, 1st person",
+     "parts": "hās-i",
+     "role": "predicate",
+     "meaning_here": "I smile, rejoice"
+    }
+   ],
+   "structure": "Two antithetical clauses: [āmi] tomāy hāriye kā̃di (Losing You, I weep) + [āmi] tomāy phiriye hāsi (Regaining You, I smile). The 1st person subject is implied by verb endings.",
+   "literal": "Losing You [I] weep, regaining You [I] smile,",
+   "natural": "Losing You - I weep, regaining You - I smile,"
+  },
+  {
+   "index": 3,
+   "words": [
+    {
+     "gloss": "You [are]",
+     "form": "personal 2nd person, nominative",
+     "parts": "tumi",
+     "role": "subject",
+     "meaning_here": "You"
+    },
+    {
+     "gloss": "my",
+     "form": "poetic genitive 1st person singular",
+     "parts": "mor",
+     "role": "modifier",
+     "meaning_here": "my"
+    },
+    {
+     "gloss": "life's",
+     "form": "singular, genitive",
+     "parts": "jīvan-er",
+     "role": "modifier",
+     "meaning_here": "life's"
+    },
+    {
+     "gloss": "essence,",
+     "form": "singular, nominative",
+     "parts": "sār",
+     "role": "nominal predicate",
+     "meaning_here": "essence, quintessence, foundation",
+     "etymology": "Sanskrit sāra"
+    }
+   ],
+   "structure": "Nominative sentence: tumi (subject) mor jīvaner sār (predicate with genitive modifiers).",
+   "literal": "You [are] my life's essence,",
+   "natural": "You are the very essence of my life,"
+  },
+  {
+   "index": 4,
+   "words": [
+    {
+     "gloss": "You alone",
+     "form": "personal 2nd person, nominative + emphatic particle -i",
+     "parts": "tumi-i",
+     "role": "subject",
+     "meaning_here": "only You"
+    },
+    {
+     "gloss": "my",
+     "form": "personal 1st person, singular, genitive",
+     "parts": "ām-ār",
+     "role": "modifier",
+     "meaning_here": "my"
+    },
+    {
+     "gloss": "whole world.",
+     "form": "singular, nominative",
+     "parts": "saṁsāra",
+     "role": "nominal predicate",
+     "meaning_here": "world, universe",
+     "etymology": "Sanskrit saṁsāra"
+    }
+   ],
+   "structure": "Refrain: repetition of line 1.",
+   "literal": "Only You [are] my world.",
+   "natural": "You alone are my entire world."
+  },
+  {
+   "index": 5,
+   "words": [
+    {
+     "gloss": "On the eastern horizon",
+     "form": "singular, locative in -e",
+     "parts": "pūrva (east) + āsya (face/firmament) + -e",
+     "role": "adverbial modifier of place",
+     "meaning_here": "on the eastern horizon / face of the east",
+     "etymology": "Sanskrit pūrva + āsya"
+    },
+    {
+     "gloss": "I see",
+     "form": "present tense, 1st person",
+     "parts": "dekh-i",
+     "role": "predicate",
+     "meaning_here": "I see, behold"
+    },
+    {
+     "gloss": "Your also",
+     "form": "genitive + particle -o (also / even)",
+     "parts": "tomār-o",
+     "role": "modifier",
+     "meaning_here": "Your [very]"
+    },
+    {
+     "gloss": "crimson dawn,",
+     "form": "singular, nominative/accusative",
+     "parts": "aruṇa + suffix -imā",
+     "role": "direct object",
+     "meaning_here": "crimson of the morning dawn",
+     "etymology": "Sanskrit aruṇiman"
+    }
+   ],
+   "structure": "Pūrvāsye (adverbial modifier) dekhi (predicate, 1st person) tomāro aruṇimā (object with modifier).",
+   "literal": "On the eastern face I see Your very morning crimson,",
+   "natural": "On the eastern horizon I see Your crimson dawn,"
+  },
+  {
+   "index": 6,
+   "words": [
+    {
+     "gloss": "On the western horizon",
+     "form": "singular, locative in -e",
+     "parts": "paścima (west) + āsya (face) + -e",
+     "role": "adverbial modifier of place",
+     "meaning_here": "on the western horizon / sunset",
+     "etymology": "Sanskrit paścima + āsya"
+    },
+    {
+     "gloss": "I behold",
+     "form": "poetic present tense, 1st person",
+     "parts": "her-i",
+     "role": "predicate",
+     "meaning_here": "I see, behold"
+    },
+    {
+     "gloss": "Your very",
+     "form": "genitive + emphatic particle -i",
+     "parts": "tomār-i",
+     "role": "modifier",
+     "meaning_here": "Your [own] unique"
+    },
+    {
+     "gloss": "scarlet glow,",
+     "form": "singular, nominative/accusative",
+     "parts": "lāla + suffix -imā",
+     "role": "direct object",
+     "meaning_here": "evening purple, redness of sunset",
+     "etymology": "Sanskrit lāliman"
+    }
+   ],
+   "structure": "Paścimāsye (adverbial modifier) heri (predicate, 1st person) tomāri lālimā (object with modifier).",
+   "literal": "On the western face I behold Your very scarlet glow,",
+   "natural": "In the west I behold Your purple sunset,"
+  },
+  {
+   "index": 7,
+   "words": [
+    {
+     "gloss": "In the middle",
+     "form": "indeclinable qualitative",
+     "parts": "madhya",
+     "role": "modifier",
+     "meaning_here": "middle, zenith",
+     "etymology": "Sanskrit madhya"
+    },
+    {
+     "gloss": "of the sky",
+     "form": "singular, locative in -e",
+     "parts": "gagan-e",
+     "role": "adverbial modifier of place",
+     "meaning_here": "in the sky",
+     "etymology": "Sanskrit gagana"
+    },
+    {
+     "gloss": "You [are]",
+     "form": "personal 2nd person, nominative",
+     "parts": "tumi",
+     "role": "subject",
+     "meaning_here": "You"
+    },
+    {
+     "gloss": "the intensely piercing",
+     "form": "qualitative",
+     "parts": "su- (very, well) + tīvra (sharp, burning)",
+     "role": "modifier",
+     "meaning_here": "dazzling, fiery, scorching",
+     "etymology": "Sanskrit su + tīvra"
+    },
+    {
+     "gloss": "ray [of the meridian],",
+     "form": "singular, nominative",
+     "parts": "dīrgha + suffix -imā (length/longitude)",
+     "role": "nominal predicate",
+     "meaning_here": "height of the zenith, length of the ray of light, longitude",
+     "etymology": "Sanskrit drāghiman",
+     "note": "Drāghimā literally means \"longitude/length\". Here it conveys the vertical, direct light of the midday sun."
+    }
+   ],
+   "structure": "Madhya gagane (adverbial modifier) tumi (subject) sutīvra drāghimā (predicate phrase).",
+   "literal": "In the middle of the sky You [are] the fiercely burning longitude,",
+   "natural": "At the zenith of the sky You are the dazzling midday beam,"
+  },
+  {
+   "index": 8,
+   "words": [
+    {
+     "gloss": "Your",
+     "form": "genitive 2nd person",
+     "parts": "tomā-r",
+     "role": "modifier",
+     "meaning_here": "Your"
+    },
+    {
+     "gloss": "play",
+     "form": "singular, nominative",
+     "parts": "līlā",
+     "role": "subject",
+     "meaning_here": "divine play",
+     "etymology": "Sanskrit līlā"
+    },
+    {
+     "gloss": "boundless,",
+     "form": "qualitative, predicative",
+     "parts": "a- (without) + pāra (shore)",
+     "role": "nominal predicate",
+     "meaning_here": "shoreless, immeasurable",
+     "etymology": "Sanskrit apāra"
+    }
+   ],
+   "structure": "Tomār līlā (subject with modifier) apār (predicate without copula).",
+   "literal": "Your play [is] shoreless,",
+   "natural": "Your divine play is boundless,"
+  },
+  {
+   "index": 9,
+   "words": [
+    {
+     "gloss": "You alone",
+     "form": "personal 2nd person, nominative + emphatic particle -i",
+     "parts": "tumi-i",
+     "role": "subject",
+     "meaning_here": "only You"
+    },
+    {
+     "gloss": "my",
+     "form": "personal 1st person, singular, genitive",
+     "parts": "ām-ār",
+     "role": "modifier",
+     "meaning_here": "my"
+    },
+    {
+     "gloss": "whole world.",
+     "form": "singular, nominative",
+     "parts": "saṁsāra",
+     "role": "nominal predicate",
+     "meaning_here": "whole world",
+     "etymology": "Sanskrit saṁsāra"
+    }
+   ],
+   "structure": "Refrain: repetition of line 1.",
+   "literal": "Only You [are] my world.",
+   "natural": "You alone are my entire world."
+  },
+  {
+   "index": 10,
+   "words": [
+    {
+     "gloss": "Life's",
+     "form": "singular, genitive",
+     "parts": "jīvan-er",
+     "role": "modifier",
+     "meaning_here": "life's"
+    },
+    {
+     "gloss": "at dawn",
+     "form": "singular, locative in -e",
+     "parts": "prabhāt-e",
+     "role": "adverbial modifier of time",
+     "meaning_here": "at dawn (in youth)",
+     "etymology": "Sanskrit prabhāta"
+    },
+    {
+     "gloss": "You [are]",
+     "form": "personal 2nd person, nominative",
+     "parts": "tumi",
+     "role": "subject",
+     "meaning_here": "You"
+    },
+    {
+     "gloss": "the beloved",
+     "form": "qualitative (or address \"O Beloved\")",
+     "parts": "priya",
+     "role": "modifier",
+     "meaning_here": "cherished, delightful",
+     "etymology": "Sanskrit priya"
+    },
+    {
+     "gloss": "festival,",
+     "form": "singular, nominative",
+     "parts": "utsava",
+     "role": "nominal predicate",
+     "meaning_here": "festivity, celebration, rejoicing",
+     "etymology": "Sanskrit utsava"
+    }
+   ],
+   "structure": "Jīvaner prabhāte (adverbial modifier of time) tumi (subject) priya utsava (predicative).",
+   "literal": "At the dawn of life You [are] a delightful festival,",
+   "natural": "At the dawn of life You are a joyous festival,"
+  },
+  {
+   "index": 11,
+   "words": [
+    {
+     "gloss": "At noon",
+     "form": "singular, locative in -e",
+     "parts": "madhya + ahna + -e",
+     "role": "adverbial modifier of time",
+     "meaning_here": "at noon (in the prime of active maturity)",
+     "etymology": "Sanskrit madhyāhna"
+    },
+    {
+     "gloss": "You [are]",
+     "form": "personal 2nd person, nominative",
+     "parts": "tumi",
+     "role": "subject",
+     "meaning_here": "You"
+    },
+    {
+     "gloss": "action's indeed",
+     "form": "genitive + emphatic particle -i",
+     "parts": "karmer-i",
+     "role": "modifier",
+     "meaning_here": "of action itself, of work",
+     "etymology": "Sanskrit karman"
+    },
+    {
+     "gloss": "nectar,",
+     "form": "singular, nominative",
+     "parts": "āsava",
+     "role": "nominal predicate",
+     "meaning_here": "nectar, intoxicating drink of inspiration",
+     "etymology": "Sanskrit āsava"
+    }
+   ],
+   "structure": "Madhyāhne (adverbial modifier of time) tumi (subject) karmer-i āsava (predicative with modifier).",
+   "literal": "At noon You [are] action's very nectar,",
+   "natural": "At life's midday You are the inspiring nectar of action,"
+  },
+  {
+   "index": 12,
+   "words": [
+    {
+     "gloss": "In the evening",
+     "form": "singular, locative in -e",
+     "parts": "sāya + ahna + -e",
+     "role": "adverbial modifier of time",
+     "meaning_here": "in the evening (in the twilight of years)",
+     "etymology": "Sanskrit sāyāhna"
+    },
+    {
+     "gloss": "You,",
+     "form": "personal 2nd person, nominative",
+     "parts": "tumi",
+     "role": "subject",
+     "meaning_here": "You"
+    },
+    {
+     "gloss": "O Beloved,",
+     "form": "vocative / address",
+     "parts": "priya",
+     "role": "address",
+     "meaning_here": "O Beloved"
+    },
+    {
+     "gloss": "assuming",
+     "form": "conjunctive participle (dhore)",
+     "parts": "dhar-e",
+     "role": "adverbial modifier of manner",
+     "meaning_here": "assuming, manifesting"
+    },
+    {
+     "gloss": "a form",
+     "form": "singular, accusative",
+     "parts": "rūpa",
+     "role": "object of participle",
+     "meaning_here": "appearance, form",
+     "etymology": "Sanskrit rūpa"
+    },
+    {
+     "gloss": "ever-new,",
+     "form": "qualitative",
+     "parts": "abhi- + nava",
+     "role": "modifier",
+     "meaning_here": "completely new, unfathomed",
+     "etymology": "Sanskrit abhinava"
+    }
+   ],
+   "structure": "Sāyāhne (adverbial modifier of time) tumi (subject), priya (address), [abhinava rūpa dhare] (participial phrase). The predicate follows in the next line.",
+   "literal": "At sunset You, O Beloved, assuming an unprecedented form,",
+   "natural": "In the twilight of life You, O Beloved, manifesting an ever-new form,"
+  },
+  {
+   "index": 13,
+   "words": [
+    {
+     "gloss": "drawing",
+     "form": "participle as part of a compound verb",
+     "parts": "ṭen-e",
+     "role": "main part of compound verb",
+     "meaning_here": "attracting, pulling"
+    },
+    {
+     "gloss": "take",
+     "form": "imperative, 2nd person ordinary",
+     "parts": "nā-o",
+     "role": "auxiliary verb of predicate ṭene nāo",
+     "meaning_here": "take to Yourself, draw"
+    },
+    {
+     "gloss": "close",
+     "form": "locative in -e",
+     "parts": "kāch-e",
+     "role": "adverbial modifier of place",
+     "meaning_here": "closer to Yourself"
+    },
+    {
+     "gloss": "to You.",
+     "form": "genitive 2nd person",
+     "parts": "tomā-r",
+     "role": "dependent word of postposition",
+     "meaning_here": "to Yourself"
+    }
+   ],
+   "structure": "Predicate of compound verbal type: ṭene nāo (draw) with dependent spatial phrase kāche tomār (close to You). The direct object [me / all] is implied by context.",
+   "literal": "Draw close to Yourself.",
+   "natural": "Draw ever closer to You."
+  },
+  {
+   "index": 14,
+   "words": [
+    {
+     "gloss": "You alone",
+     "form": "personal 2nd person, nominative + emphatic particle -i",
+     "parts": "tumi-i",
+     "role": "subject",
+     "meaning_here": "only You"
+    },
+    {
+     "gloss": "my",
+     "form": "personal 1st person, singular, genitive",
+     "parts": "ām-ār",
+     "role": "modifier",
+     "meaning_here": "my"
+    },
+    {
+     "gloss": "whole world.",
+     "form": "singular, nominative",
+     "parts": "saṁsāra",
+     "role": "nominal predicate",
+     "meaning_here": "whole world",
+     "etymology": "Sanskrit saṁsāra"
+    }
+   ],
+   "structure": "Refrain: repetition of line 1.",
+   "literal": "Only You [are] my world.",
+   "natural": "You alone are my entire world."
+  }
+ ],
+ "heard": [
+  "In line 12, the word order varies in singing: sáyáhne tumi priya rúpa dhare abhinava (in the audio) instead of the base text priya dhare rúpa abhinava."
+ ],
+ "uncertain": [],
+ "interpretation": "The word saṁsāra usually signifies worldly turmoil, the wheel of rebirths, or the household life from which a spiritual seeker turns away. In this song, a complete re-envisioning occurs: Supreme Consciousness is acknowledged as the devotee's only true saṁsāra - their all-encompassing reality. The metaphor of the sun's daily journey (sunrise, zenith, sunset) parallels the stages of human life (the morning of youth, the midday of active service, and the evening of life's reflection), where at every stage the Divine reveals Itself anew, drawing the soul toward final absorption in Him.",
+ "generated": {
+  "by": "gemini",
+  "model": "gemini-flash-latest",
+  "date": "2026-10-19",
+  "verified": false,
+  "from": "ru"
+ },
+ "problems": []
+}

@@ -1,0 +1,424 @@
+{
+ "number": 4682,
+ "lang": "en",
+ "title": "Bábá, this time I shall no more set off",
+ "lead": "A disciple's prayer and vow renouncing the call of the material world for the sake of the spiritual path. The central images are the worthless, colorful toys of máyá and the fear of the thorns along life's way.",
+ "lines": [
+  {
+   "index": 0,
+   "words": [
+    {
+     "gloss": "Bábá,",
+     "form": "vocative",
+     "parts": "bábá",
+     "role": "address",
+     "meaning_here": "Father, Supreme Consciousness"
+    },
+    {
+     "gloss": "this time",
+     "form": "indeclinable",
+     "parts": "e + bár",
+     "role": "adverbial of time",
+     "meaning_here": "now, this time"
+    },
+    {
+     "gloss": "shall go",
+     "form": "future tense, 1st person",
+     "parts": "já- + -ba",
+     "role": "predicate",
+     "meaning_here": "shall go, shall respond"
+    },
+    {
+     "gloss": "not",
+     "form": "negative particle",
+     "parts": "ná",
+     "role": "negation of the predicate",
+     "meaning_here": "not"
+    },
+    {
+     "gloss": "anymore",
+     "form": "indeclinable",
+     "parts": "ár",
+     "role": "adverbial of time",
+     "meaning_here": "anymore, again"
+    },
+    {
+     "gloss": "of crudeness",
+     "form": "genitive + emphatic particle -i",
+     "parts": "jaŕ + -er + -i",
+     "role": "modifier of d́áke",
+     "meaning_here": "specifically of inanimate matter, the crude world"
+    },
+    {
+     "gloss": "to the call",
+     "form": "locative-dative, suffix -e",
+     "parts": "d́ák + -e",
+     "role": "adverbial of purpose / direction",
+     "meaning_here": "to the call, at the summons"
+    }
+   ],
+   "structure": "address (Bábá) + subject ([I]) + adverbial of time (ebár ár) + negation (ná) + predicate (jába) + dependent adverbial of purpose (jaŕeri d́áke)",
+   "literal": "Bábá, this time [I] shall go not anymore crudeness's indeed to the call",
+   "natural": "Bábá, this time I shall no more set off to the call of crudeness."
+  },
+  {
+   "index": 1,
+   "words": [
+    {
+     "gloss": "multi-colored",
+     "form": "genitive (functioning as qualitative adjective), suffix -er",
+     "parts": "rauṋ + be- + rauṋ + -er",
+     "role": "modifier of khelná",
+     "meaning_here": "variegated, multi-colored"
+    },
+    {
+     "gloss": "playthings",
+     "form": "nominative plural (inanimate)",
+     "parts": "khel- + -ná",
+     "role": "subject to the next line",
+     "meaning_here": "toys, material allurements"
+    },
+    {
+     "gloss": "worthless",
+     "form": "qualitative adjective",
+     "parts": "a- + sár",
+     "role": "modifier of khelná",
+     "meaning_here": "devoid of essence, transient, illusory"
+    }
+   ],
+   "structure": "modifiers (rauṋ-berauṋer, asár) to the subject (khelná), action continues in the next line",
+   "literal": "Multi-colored playthings worthless",
+   "natural": "Worthless, multi-colored playthings"
+  },
+  {
+   "index": 2,
+   "words": [
+    {
+     "gloss": "call",
+     "form": "simple present, 3rd person, suffix -e",
+     "parts": "d́ák- + -e",
+     "role": "predicate to the subject khelná",
+     "meaning_here": "call, beckon"
+    },
+    {
+     "gloss": "me.",
+     "form": "accusative-dative, suffix -ke",
+     "parts": "ámá- + -ke",
+     "role": "direct object",
+     "meaning_here": "me"
+    }
+   ],
+   "structure": "predicate (d́áke) + direct object (ámáke); agrees with the subject khelná from line 1",
+   "literal": "call me.",
+   "natural": "beckon me."
+  },
+  {
+   "index": 3,
+   "words": [
+    {
+     "gloss": "some",
+     "form": "indefinite pronoun",
+     "parts": "ke + -u",
+     "role": "subject",
+     "meaning_here": "some, certain ones"
+    },
+    {
+     "gloss": "or",
+     "form": "disjunctive particle / conjunction",
+     "parts": "vá",
+     "role": "connective of alternatives",
+     "meaning_here": "or, rather"
+    },
+    {
+     "gloss": "stars",
+     "form": "nominative",
+     "parts": "tárá",
+     "role": "comparative / descriptive apposition to keu",
+     "meaning_here": "stars"
+    },
+    {
+     "gloss": "by clouds",
+     "form": "instrumental-locative, suffix -e",
+     "parts": "megh + -e",
+     "role": "instrumental complement to gherá",
+     "meaning_here": "by storm clouds, by clouds"
+    },
+    {
+     "gloss": "encircled,",
+     "form": "participle as predicate / predicative",
+     "parts": "gher- + -á",
+     "role": "predicative (predicate)",
+     "meaning_here": "surrounded, shrouded"
+    }
+   ],
+   "structure": "subject (keu vá tárá) + instrumental complement (meghe) + predicative (gherá)",
+   "literal": "Some or [like] stars by clouds encircled,",
+   "natural": "Some stars are encircled by clouds,"
+  },
+  {
+   "index": 4,
+   "words": [
+    {
+     "gloss": "some",
+     "form": "indefinite pronoun",
+     "parts": "ke + -u",
+     "role": "subject",
+     "meaning_here": "others, certain ones"
+    },
+    {
+     "gloss": "or",
+     "form": "disjunctive particle",
+     "parts": "vá",
+     "role": "connective of alternatives",
+     "meaning_here": "or, rather"
+    },
+    {
+     "gloss": "of moon",
+     "form": "genitive, suffix -er",
+     "parts": "cáṋd + -er",
+     "role": "modifier of áloy",
+     "meaning_here": "moon's"
+    },
+    {
+     "gloss": "in the light",
+     "form": "locative, suffix -y",
+     "parts": "álo + -y",
+     "role": "adverbial of place / cause",
+     "meaning_here": "in the radiance"
+    },
+    {
+     "gloss": "lost,",
+     "form": "verbal adjective / predicative",
+     "parts": "hár- + -á",
+     "role": "predicative (predicate)",
+     "meaning_here": "lost, faded"
+    }
+   ],
+   "structure": "subject (keu vá) + dependents (cáṋder áloy) + predicative (hárá)",
+   "literal": "some or moon's in the light lost,",
+   "natural": "others have faded into the moonlight,"
+  },
+  {
+   "index": 5,
+   "words": [
+    {
+     "gloss": "some",
+     "form": "indefinite pronoun",
+     "parts": "ke + -u",
+     "role": "subject",
+     "meaning_here": "others still"
+    },
+    {
+     "gloss": "have become",
+     "form": "present perfect, 3rd person",
+     "parts": "ha- + -eche",
+     "role": "link verb predicate",
+     "meaning_here": "have ended up, have become"
+    },
+    {
+     "gloss": "ruined",
+     "form": "compound word as predicative part of predicate",
+     "parts": "channa + cháŕá",
+     "role": "predicative",
+     "meaning_here": "homeless, scattered, led astray, ruined"
+    }
+   ],
+   "structure": "subject (keu) + predicate (hayeche channacháŕá), adverbial unfolds in line 6",
+   "literal": "some have become astray / ruined",
+   "natural": "and some have been ruined"
+  },
+  {
+   "index": 6,
+   "words": [
+    {
+     "gloss": "of delusion",
+     "form": "genitive + particle -i",
+     "parts": "pháṋki + -r + -i",
+     "role": "modifier of páke",
+     "meaning_here": "of illusion, deceit, falsehood"
+    },
+    {
+     "gloss": "in whirlpool",
+     "form": "locative, suffix -e",
+     "parts": "pák + -e",
+     "role": "adverbial of place to hayeche channacháŕá",
+     "meaning_here": "in the eddy, in the coils"
+    }
+   ],
+   "structure": "modifier (pháṋkiri) + adverbial of place (páke), relates to predicate of line 5",
+   "literal": "of delusion in the whirlpool.",
+   "natural": "in the whirlpool of delusion."
+  },
+  {
+   "index": 7,
+   "words": [
+    {
+     "gloss": "of the path",
+     "form": "genitive, suffix -er",
+     "parts": "path + -er",
+     "role": "modifier of hadis",
+     "meaning_here": "of the spiritual path"
+    },
+    {
+     "gloss": "direction",
+     "form": "nominative / accusative",
+     "parts": "hadis",
+     "role": "direct object",
+     "meaning_here": "trace, true direction, secret, truth"
+    },
+    {
+     "gloss": "anyone",
+     "form": "indefinite pronoun",
+     "parts": "ke + -u",
+     "role": "subject",
+     "meaning_here": "no one (together with ná)"
+    },
+    {
+     "gloss": "knows",
+     "form": "simple present, 3rd person, suffix -e",
+     "parts": "ján- + -e",
+     "role": "predicate",
+     "meaning_here": "knows"
+    },
+    {
+     "gloss": "not,",
+     "form": "negative particle",
+     "parts": "ná",
+     "role": "negation of the predicate",
+     "meaning_here": "not"
+    }
+   ],
+   "structure": "object (pather hadis) + subject (keu) + negated predicate (jáne ná)",
+   "literal": "Of the path direction anyone knows not,",
+   "natural": "No one knows the truths of the path,"
+  },
+  {
+   "index": 8,
+   "words": [
+    {
+     "gloss": "path",
+     "form": "nominative",
+     "parts": "path",
+     "role": "topic of the clause / subordinate subject",
+     "meaning_here": "path"
+    },
+    {
+     "gloss": "why",
+     "form": "interrogative adverb",
+     "parts": "kena",
+     "role": "adverbial of purpose / cause",
+     "meaning_here": "why, for what purpose"
+    },
+    {
+     "gloss": "that",
+     "form": "demonstrative pronoun, accusative",
+     "parts": "tá",
+     "role": "object of bojhe",
+     "meaning_here": "that"
+    },
+    {
+     "gloss": "anyone",
+     "form": "indefinite pronoun",
+     "parts": "ke + -u",
+     "role": "subject",
+     "meaning_here": "no one (with ná)"
+    },
+    {
+     "gloss": "understands",
+     "form": "simple present, 3rd person, suffix -e",
+     "parts": "bojh- + -e",
+     "role": "predicate",
+     "meaning_here": "understands"
+    },
+    {
+     "gloss": "not,",
+     "form": "negative particle",
+     "parts": "ná",
+     "role": "negation of the predicate",
+     "meaning_here": "not"
+    }
+   ],
+   "structure": "subordinate clause content (path kena) + object (tá) + subject (keu) + negated predicate (bojhe ná)",
+   "literal": "the path why [exists] - that anyone understands not,",
+   "natural": "neither do they understand why the path exists,"
+  },
+  {
+   "index": 9,
+   "words": [
+    {
+     "gloss": "of thorns",
+     "form": "genitive, suffix -r",
+     "parts": "káṋt́á + -r",
+     "role": "modifier of bhaye",
+     "meaning_here": "of prickles, of hardships"
+    },
+    {
+     "gloss": "for fear",
+     "form": "instrumental-locative, suffix -e",
+     "parts": "bhay + -e",
+     "role": "adverbial of cause",
+     "meaning_here": "out of fear, out of dread"
+    },
+    {
+     "gloss": "anyone",
+     "form": "indefinite pronoun",
+     "parts": "ke + -u",
+     "role": "subject",
+     "meaning_here": "no one (with ná)"
+    },
+    {
+     "gloss": "walks",
+     "form": "simple present, 3rd person, suffix -e",
+     "parts": "cal- + -e",
+     "role": "predicate",
+     "meaning_here": "walks, advances"
+    },
+    {
+     "gloss": "not",
+     "form": "negative particle",
+     "parts": "ná",
+     "role": "negation of the predicate",
+     "meaning_here": "not"
+    }
+   ],
+   "structure": "adverbial of cause (káṋt́ár bhaye) + subject (keu) + negated predicate (cale ná)",
+   "literal": "thorns out of fear anyone walks not",
+   "natural": "for fear of thorns, no one walks"
+  },
+  {
+   "index": 10,
+   "words": [
+    {
+     "gloss": "towards their own",
+     "form": "reflexive-possessive pronoun, genitive + particle -i",
+     "parts": "nij + -er + -i",
+     "role": "modifier of lakśye",
+     "meaning_here": "their very own true"
+    },
+    {
+     "gloss": "goal.",
+     "form": "locative-dative, suffix -e",
+     "parts": "lakśya + -e",
+     "role": "adverbial of purpose to cale ná",
+     "meaning_here": "towards the supreme spiritual goal"
+    }
+   ],
+   "structure": "modifier (nijeri) + adverbial of direction / purpose (lakśye), relates to the verb cale ná of line 9",
+   "literal": "their own indeed towards goal.",
+   "natural": "towards their goal."
+  }
+ ],
+ "heard": [],
+ "uncertain": [
+  "bn: Bengali text reconstructed from Roman transliteration and psbot phonetics"
+ ],
+ "interpretation": "The song reflects the sádhaka's resolve to overcome the pull of máyá (the material world). The attractive sensory objects are characterized as worthless playthings (asár khelná). People in the world wander in ignorance: some are concealed by the darkness of ignorance (meghe gherá), others are blinded by the appeal of the transient light of máyá (cáṋder áloy hárá), while others are entangled in the coils of egotism and delusion. The majority fear the hardships of the path and forget the true spiritual goal of their existence.",
+ "generated": {
+  "by": "gemini",
+  "model": "gemini-flash-latest",
+  "date": "2026-10-19",
+  "verified": false,
+  "from": "ru"
+ },
+ "problems": []
+}

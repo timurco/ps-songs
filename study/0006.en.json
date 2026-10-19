@@ -1,0 +1,381 @@
+{
+ "number": 6,
+ "lang": "en",
+ "title": "My Friend, Covered with Golden Light",
+ "lead": "A song about the mystical awakening of the soul and meeting the Supreme as an eternal, close Friend. The central image is the dawn bird of the heart spreading new wings in the golden radiance of illumination.",
+ "lines": [
+  {
+   "index": 0,
+   "words": [
+    {
+     "gloss": "Friend",
+     "form": "sing., dir. case",
+     "parts": "বন্ধু",
+     "role": "address",
+     "meaning_here": "friend, close one",
+     "note": "Sanskrit bandhu (relative, friend, bond)."
+    },
+    {
+     "gloss": "my",
+     "form": "1st pers., sing., gen. case",
+     "parts": "আম + ার",
+     "role": "attribute",
+     "meaning_here": "my"
+    },
+    {
+     "gloss": "Friend",
+     "form": "sing., dir. case",
+     "parts": "বন্ধু",
+     "role": "address",
+     "meaning_here": "friend"
+    },
+    {
+     "gloss": "my,",
+     "form": "1st pers., sing., gen. case",
+     "parts": "আম + ার",
+     "role": "attribute",
+     "meaning_here": "my"
+    }
+   ],
+   "structure": "Repeated poetic address with possessive pronoun: [O] my Friend, my Friend.",
+   "literal": "Friend my, friend my,",
+   "natural": "O my Friend, my Friend,",
+   "image_note": "Addressing the Supreme principle as the closest and most intimate Friend (Bandhu)."
+  },
+  {
+   "index": 1,
+   "words": [
+    {
+     "gloss": "with golden",
+     "form": "sing., gen. case",
+     "parts": "সোনা + র",
+     "role": "attribute",
+     "meaning_here": "golden, of gold",
+     "note": "From Sanskr. suvarṇa (gold)."
+    },
+    {
+     "gloss": "light",
+     "form": "sing., instr./loc. case (-য়)",
+     "parts": "আলো + য়",
+     "role": "adverbial / object",
+     "meaning_here": "with light, in light",
+     "note": "From Sanskr. āloka (light, radiance)."
+    },
+    {
+     "gloss": "covered,",
+     "form": "participle / verbal adj.",
+     "parts": "ঢাক্ + আ",
+     "role": "nominal part of predicate",
+     "meaning_here": "covered, veiled"
+    }
+   ],
+   "structure": "Nominal sentence: [You are] covered (predicate dháká) with golden light (adverbial/object sonár áloy).",
+   "literal": "with golden light covered,",
+   "natural": "Covered with golden light,",
+   "image_note": "The golden light of dawn symbolizes divine illumination and the awakening of consciousness."
+  },
+  {
+   "index": 2,
+   "words": [
+    {
+     "gloss": "Friend",
+     "form": "sing., dir. case",
+     "parts": "বন্ধু",
+     "role": "address",
+     "meaning_here": "friend"
+    },
+    {
+     "gloss": "my.",
+     "form": "1st pers., sing., gen. case",
+     "parts": "আম + ার",
+     "role": "attribute",
+     "meaning_here": "my"
+    }
+   ],
+   "structure": "Refrain address: [O] my Friend.",
+   "literal": "friend my.",
+   "natural": "O my Friend.",
+   "image_note": "Conclusion of the first stanza and affirmation of the personal bond."
+  },
+  {
+   "index": 3,
+   "words": [
+    {
+     "gloss": "Of dawn",
+     "form": "sing., gen. case with poetic extension (-era/-ere)",
+     "parts": "ভোর + এর + এ",
+     "role": "attribute",
+     "meaning_here": "of morning, of dawn",
+     "note": "In the text Bhorera (sung bhorere) - poetic vocalization of the suffix -er."
+    },
+    {
+     "gloss": "the bird",
+     "form": "sing., dir. case",
+     "parts": "পাখী",
+     "role": "subject",
+     "meaning_here": "bird",
+     "note": "From Sanskr. pakṣin (winged, bird)."
+    },
+    {
+     "gloss": "began",
+     "form": "past tense, 3rd pers., ending -lo",
+     "parts": "উঠ্ + লো",
+     "role": "auxiliary verb in compound predicate",
+     "meaning_here": "set to, began to sing (as part of compound verb)"
+    },
+    {
+     "gloss": "to call,",
+     "form": "conjunctive participle in -i/-ii",
+     "parts": "ডাক্ + ই",
+     "role": "main verb of predicate",
+     "meaning_here": "calling, singing out",
+     "note": "Construction d́ákii ut́hlo (compound verb denoting sudden onset of action: burst into song, cried out)."
+    }
+   ],
+   "structure": "Subject - bhorera pákhii (bird of dawn), compound verbal predicate - d́ákii ut́hlo (burst into song, started to call).",
+   "literal": "Of morning the bird rose calling,",
+   "natural": "The bird of dawn begins to sing,",
+   "image_note": "The image of a bird singing at dawn conveys the soul's thrilling awakening from a long slumber."
+  },
+  {
+   "index": 4,
+   "words": [
+    {
+     "gloss": "of life",
+     "form": "sing., gen. case (-er)",
+     "parts": "প্রাণ + এর",
+     "role": "attribute",
+     "meaning_here": "of life force, of breath of life",
+     "note": "Sanskrit prāṇa (vital breath, spirit)."
+    },
+    {
+     "gloss": "with pollen",
+     "form": "sing., dir. case (in instr. meaning)",
+     "parts": "পরাগ",
+     "role": "object",
+     "meaning_here": "floral pollen",
+     "note": "Sanskrit parāga (pollen)."
+    },
+    {
+     "gloss": "smeared,",
+     "form": "verbal adj. / participle",
+     "parts": "মাখ্ + আ",
+     "role": "detached attribute",
+     "meaning_here": "smeared, covered, dusted"
+    }
+   ],
+   "structure": "Attributive phrase modifying 'bird' (pákhii): [all] dusted (mákhá) with life's pollen (práńer parág).",
+   "literal": "of life with pollen smeared,",
+   "natural": "Vibrant with the pollen of life,",
+   "image_note": "«Pollen of life» - an image of freshness, vitality, and spiritual renewal, like the nectar of a blossomed flower."
+  },
+  {
+   "index": 5,
+   "words": [
+    {
+     "gloss": "Friend",
+     "form": "sing., dir. case",
+     "parts": "বন্ধু",
+     "role": "address",
+     "meaning_here": "friend"
+    },
+    {
+     "gloss": "my.",
+     "form": "1st pers., sing., gen. case",
+     "parts": "আম + ার",
+     "role": "attribute",
+     "meaning_here": "my"
+    }
+   ],
+   "structure": "Refrain address.",
+   "literal": "friend my.",
+   "natural": "O my Friend.",
+   "image_note": "Return to the image of the Beloved after the scene of dawn."
+  },
+  {
+   "index": 6,
+   "words": [
+    {
+     "gloss": "For what",
+     "form": "interrog., sing., gen. case (-er)",
+     "parts": "কিস + এর",
+     "role": "dependent word of postposition",
+     "meaning_here": "what, which"
+    },
+    {
+     "gloss": "sake,",
+     "form": "indecl. (governs gen. case)",
+     "parts": "তরে",
+     "role": "adverbial of purpose",
+     "meaning_here": "for the sake of, why"
+    },
+    {
+     "gloss": "to whose",
+     "form": "interrog., sing., gen. case (-er)",
+     "parts": "কিস + এর",
+     "role": "attribute",
+     "meaning_here": "whose, which"
+    },
+    {
+     "gloss": "call,",
+     "form": "sing., loc. case (-e)",
+     "parts": "ডাক + এ",
+     "role": "adverbial of cause",
+     "meaning_here": "to the call, by the call"
+    }
+   ],
+   "structure": "A series of coordinate interrogative adverbials: for what sake (kiser tare), in answer to what call (kiser d́áke).",
+   "literal": "For what sake, whose call [following],",
+   "natural": "Why all this? In answer to whose call,",
+   "image_note": "Bewilderment and wonder of the seeking mind before the soul's irresistible pull toward the Infinite."
+  },
+  {
+   "index": 7,
+   "words": [
+    {
+     "gloss": "by day",
+     "form": "sing., loc. case (-e)",
+     "parts": "দিন + এ",
+     "role": "adverbial of time",
+     "meaning_here": "by day",
+     "note": "Sanskrit dina (day)."
+    },
+    {
+     "gloss": "[and] by night",
+     "form": "sing., loc. case (-e)",
+     "parts": "রাত + এ",
+     "role": "adverbial of time",
+     "meaning_here": "by night",
+     "note": "From Sanskr. rātri (night)."
+    },
+    {
+     "gloss": "seek I",
+     "form": "pres. tense, 1st pers., ending -i",
+     "parts": "খুঁজ্ + ই",
+     "role": "predicate",
+     "meaning_here": "I search, I seek",
+     "note": "The nasal sound candrabindu is pronounced as slight nasalization or similar to 'n'."
+    },
+    {
+     "gloss": "Him?",
+     "form": "3rd pers., sing., acc./dat. case (-ke)",
+     "parts": "তা + কে",
+     "role": "direct object",
+     "meaning_here": "Him"
+    }
+   ],
+   "structure": "Main clause: Subject [I] is implied; predicate - khuṊji (I seek); object - táke (Him); adverbials - dine ráte (day and night).",
+   "literal": "by day [and] by night seek [I] Him?",
+   "natural": "Day and night, do I seek Him?",
+   "image_note": "Unceasing inner search, independent of the external schedule of the day."
+  },
+  {
+   "index": 8,
+   "words": [
+    {
+     "gloss": "A new",
+     "form": "indecl. qualitative adj.",
+     "parts": "নোতুন",
+     "role": "attribute",
+     "meaning_here": "new, fresh",
+     "note": "From Sanskr. nūtana (new). Spelling with 'o' reflects pronunciation."
+    },
+    {
+     "gloss": "light",
+     "form": "sing., loc./instr. case (-y)",
+     "parts": "আলো + য়",
+     "role": "adverbial",
+     "meaning_here": "in light, with light"
+    },
+    {
+     "gloss": "a blaze",
+     "form": "sing., dir. case",
+     "parts": "ঝলক + আনি",
+     "role": "object of compound predicate",
+     "meaning_here": "flash, radiant glow, blaze"
+    },
+    {
+     "gloss": "sends forth,",
+     "form": "pres. tense, 3rd pers., ending -y",
+     "parts": "দে + য়",
+     "role": "predicate",
+     "meaning_here": "emits, gives (jhalkáni dey = flashes forth, shines)"
+    }
+   ],
+   "structure": "Compound predicate jhalkáni dey (gives a flash / blazes forth), adverbial - notun áloy (in new light). Subject is implied (\"He\" or \"dawn\").",
+   "literal": "In new light radiance emits,",
+   "natural": "The new light sends forth a blaze of effulgence,",
+   "image_note": "Sudden burst of mystical light illuminating the entire consciousness."
+  },
+  {
+   "index": 9,
+   "words": [
+    {
+     "gloss": "flutters",
+     "form": "pres. tense, 3rd pers., ending -y",
+     "parts": "দোলা + য়",
+     "role": "predicate",
+     "meaning_here": "sways, flaps, beats",
+     "note": "Connected with Sanskr. dola (swinging, swing)."
+    },
+    {
+     "gloss": "new",
+     "form": "indecl.",
+     "parts": "নোতুন",
+     "role": "attribute",
+     "meaning_here": "new"
+    },
+    {
+     "gloss": "wings,",
+     "form": "plur. (in collective sing. form), dir. case",
+     "parts": "পাখা",
+     "role": "direct object",
+     "meaning_here": "wings",
+     "note": "From Sanskr. pakṣa (wing)."
+    }
+   ],
+   "structure": "Predicate - doláy (flaps / sways); direct object - notun pákhá (new wings). Subject - the bird of the soul (pákhii).",
+   "literal": "sways new wings,",
+   "natural": "And beats its new wings of joy,",
+   "image_note": "«New wings» - symbol of acquiring a new spiritual capacity to fly toward the Infinite."
+  },
+  {
+   "index": 10,
+   "words": [
+    {
+     "gloss": "Friend",
+     "form": "sing., dir. case",
+     "parts": "বন্ধু",
+     "role": "address",
+     "meaning_here": "friend"
+    },
+    {
+     "gloss": "my.",
+     "form": "1st pers., sing., gen. case",
+     "parts": "আম + ার",
+     "role": "attribute",
+     "meaning_here": "my"
+    }
+   ],
+   "structure": "Final refrain address.",
+   "literal": "friend my.",
+   "natural": "O my Friend.",
+   "image_note": "Final return to the contemplation of the Supreme Friend."
+  }
+ ],
+ "heard": [
+  "In line 0, the refrain is performed with a twofold repetition of the phrase: 'Bandhu a'ma'r, bandhu a'ma'r'.",
+  "In line 3, the poetic extension of the genitive case ending is clearly heard: 'Bhorere pakhii' instead of the strict literary 'Bhorer'.",
+  "In the stanzas, the lines are sung with repetition of half-lines before transitioning to the refrain."
+ ],
+ "uncertain": [],
+ "interpretation": "The song expresses an ecstatic state of the awakening of the soul (samádhi/enlightenment or the state after initiation). The Supreme Entity appears not as a stern master, but as the closest, most intimate Friend (Bandhu), enveloped in the golden light of supreme love. The soul is likened to a bird of dawn which, having cast off the shackles of ignorance, becomes dusted with the blessed «pollen of life» and spreads radiant wings for an endless flight across the ocean of divine joy.",
+ "generated": {
+  "by": "gemini",
+  "model": "gemini-flash-latest",
+  "date": "2026-10-19",
+  "verified": false,
+  "from": "ru"
+ },
+ "problems": []
+}

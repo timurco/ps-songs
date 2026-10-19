@@ -1,0 +1,349 @@
+{
+ "number": 4,
+ "lang": "en",
+ "title": "Today the Lyre of Every Mind Plays in a Single Tune",
+ "lead": "A song about the transformative arrival of the Beloved and complete surrender. The central imagery is the lyre of the mind and the flower garland of devotion, which the disciple asks to be accepted as a whole.",
+ "lines": [
+  {
+   "index": 0,
+   "words": [
+    {
+     "gloss": "of all",
+     "form": "direct form, modifier",
+     "role": "modifier to maner"
+    },
+    {
+     "gloss": "hearts' (minds')",
+     "form": "genitive singular (-er)",
+     "parts": "mon + -er",
+     "role": "uninflected attribute to viińá"
+    },
+    {
+     "gloss": "lyre (viina)",
+     "form": "nominative singular",
+     "role": "subject"
+    },
+    {
+     "gloss": "in one",
+     "form": "modifier to sure",
+     "role": "modifier to sure"
+    },
+    {
+     "gloss": "tune (melody)",
+     "form": "locative singular (-e)",
+     "parts": "sur + -e",
+     "role": "adverbial of manner"
+    },
+    {
+     "gloss": "plays",
+     "form": "simple present, 3rd person (baje)",
+     "parts": "baj- + -e",
+     "role": "predicate"
+    },
+    {
+     "gloss": "today",
+     "form": "invariable",
+     "role": "adverbial of time"
+    }
+   ],
+   "structure": "Subject: viińá (\"lyre\"); modifier: sakal maner (\"of all minds\"); predicate: baje (\"plays\"); adverbials: ek sure (\"in one tune\"), áj (\"today\").",
+   "literal": "Of all minds the lyre in one melody plays today,",
+   "natural": "The lyres of all minds play the same tune today,"
+  },
+  {
+   "index": 1,
+   "words": [
+    {
+     "gloss": "in all",
+     "form": "direct form, modifier",
+     "role": "modifier to hrdaye"
+    },
+    {
+     "gloss": "hearts",
+     "form": "locative singular (-e)",
+     "parts": "hrday + -e",
+     "role": "adverbial of place"
+    },
+    {
+     "gloss": "[is] fragrance",
+     "form": "nominative singular",
+     "role": "subject of a nominal sentence",
+     "meaning_here": "fragrance, sweet aroma"
+    }
+   ],
+   "structure": "Nominal/existential sentence with omitted copula. Adverbial of place: sakal hrdaye (\"in all hearts\"); subject: saorabh (\"fragrance\").",
+   "literal": "in all hearts [there is] fragrance.",
+   "natural": "There is fragrance in all hearts."
+  },
+  {
+   "index": 2,
+   "words": [
+    {
+     "gloss": "heavenly (exquisite)",
+     "form": "first part of compound / modifier",
+     "role": "modifier within phrase",
+     "meaning_here": "heavenly, delightful, joy-giving"
+    },
+    {
+     "gloss": "in sweet attire",
+     "form": "locative (-e)",
+     "parts": "madhu + saj + -e",
+     "role": "adverbial of manner to ele",
+     "meaning_here": "in sweet, enchanting adornment"
+    }
+   ],
+   "structure": "Adverbial of manner to the predicate ele (from line 3): nandana madhusáje (\"in exquisite, sweet attire\").",
+   "literal": "In heavenly honey-sweet attire",
+   "natural": "With Your exquisite appearance"
+  },
+  {
+   "index": 3,
+   "words": [
+    {
+     "gloss": "came",
+     "form": "simple past, 2nd person familiar (tumi)",
+     "parts": "as- / el- + -e",
+     "role": "predicate"
+    },
+    {
+     "gloss": "You",
+     "form": "nominative, 2nd person familiar",
+     "role": "subject"
+    },
+    {
+     "gloss": "of the Earth",
+     "form": "direct form in the role of genitive",
+     "role": "dependent noun before postposition",
+     "meaning_here": "the Earth, world"
+    },
+    {
+     "gloss": "into (midst)",
+     "form": "locative form (-e)",
+     "parts": "majh + -e",
+     "role": "spatial postposition with dhará"
+    }
+   ],
+   "structure": "Subject: tumi (\"You\"); predicate: ele (\"came\"); adverbial of place: dhará májhe (\"onto the Earth\").",
+   "literal": "came You into the Earth,",
+   "natural": "You came onto this Earth"
+  },
+  {
+   "index": 4,
+   "words": [
+    {
+     "gloss": "gave",
+     "form": "simple past, 2nd person familiar (tumi)",
+     "parts": "de- / dil- + -e",
+     "role": "predicate"
+    },
+    {
+     "gloss": "to all",
+     "form": "dative-locative form (-e)",
+     "parts": "sab + -e",
+     "role": "indirect object"
+    },
+    {
+     "gloss": "the same",
+     "form": "modifier to anubhav",
+     "role": "modifier"
+    },
+    {
+     "gloss": "feeling (realization)",
+     "form": "accusative (direct form)",
+     "parts": "anu- + bhu + -a",
+     "role": "direct object"
+    }
+   ],
+   "structure": "Predicate: dile (\"gave\"); subject: tumi (implied); indirect object: sabe (\"to all\"); direct object: ek anubhav (\"the same feeling\").",
+   "literal": "gave to all one feeling.",
+   "natural": "And gave the same feeling to all."
+  },
+  {
+   "index": 5,
+   "words": [
+    {
+     "gloss": "tear",
+     "form": "imperative, 2nd person familiar (tumi)",
+     "parts": "chinr- + -o",
+     "role": "predicate"
+    },
+    {
+     "gloss": "do not",
+     "form": "negative particle after verb",
+     "role": "negation to chiṊŕo"
+    },
+    {
+     "gloss": "tear",
+     "form": "imperative, 2nd person familiar (tumi)",
+     "parts": "chinr- + -o",
+     "role": "predicate (repetition)"
+    },
+    {
+     "gloss": "do not",
+     "form": "negative particle after verb",
+     "role": "negation to chiṊŕo"
+    }
+   ],
+   "structure": "Coordinate predicates of prohibition: chiṊŕo ná, chiṊŕo ná (\"do not tear, do not tear\"); the direct object is in line 6.",
+   "literal": "Do not tear, do not tear",
+   "natural": "Do not tear, do not break"
+  },
+  {
+   "index": 6,
+   "words": [
+    {
+     "gloss": "this",
+     "form": "demonstrative pronoun, direct form",
+     "role": "modifier to kusumamálákháni"
+    },
+    {
+     "gloss": "flower garland this",
+     "form": "accusative with definitive suffix -kháni",
+     "parts": "kusuma + mala + -khani",
+     "role": "direct object to chiṊŕo ná (line 5)"
+    }
+   ],
+   "structure": "Direct object to the verb chiṊŕo ná of line 5: e kusumamálákháni (\"this flower garland\").",
+   "literal": "this flower garland,",
+   "natural": "This flower garland of mine,"
+  },
+  {
+   "index": 7,
+   "words": [
+    {
+     "gloss": "of love (affection)",
+     "form": "genitive singular (-r)",
+     "parts": "mamata + -r",
+     "role": "uninflected attribute to vaebhav",
+     "meaning_here": "tender love, devotion, heartfelt warmth"
+    },
+    {
+     "gloss": "entire (all)",
+     "form": "direct form, modifier",
+     "role": "modifier to vaebhav"
+    },
+    {
+     "gloss": "wealth",
+     "form": "nominative singular",
+     "parts": "vibhu + -a (Skt. derivative)",
+     "role": "apposition to kusumamálákháni (line 6)",
+     "meaning_here": "wealth, treasure, abundance"
+    }
+   ],
+   "structure": "Detached apposition to kusumamálákháni: mamátár sárá vaebhav (\"the entire wealth of [my] love\").",
+   "literal": "[my] love's entire wealth.",
+   "natural": "My entire wealth of compassion."
+  },
+  {
+   "index": 8,
+   "words": [
+    {
+     "gloss": "come",
+     "form": "imperative, 2nd person familiar (tumi)",
+     "parts": "as- + -o",
+     "role": "predicate"
+    },
+    {
+     "gloss": "You",
+     "form": "nominative, 2nd person",
+     "role": "subject"
+    },
+    {
+     "gloss": "more (still)",
+     "form": "comparative-intensifying adverb",
+     "role": "adverbial of measure before káche"
+    },
+    {
+     "gloss": "closer",
+     "form": "locative form (-e)",
+     "parts": "kach + -e",
+     "role": "adverbial of place / direction"
+    }
+   ],
+   "structure": "Subject: tumi (\"You\"); predicate: eśo (\"come\"); adverbial of direction: áro káche (\"still closer\").",
+   "literal": "Come You still closer,",
+   "natural": "Come You closer to me,"
+  },
+  {
+   "index": 9,
+   "words": [
+    {
+     "gloss": "still",
+     "form": "invariable",
+     "role": "adverbial of degree"
+    },
+    {
+     "gloss": "closer,",
+     "form": "locative form (-e)",
+     "parts": "kach + -e",
+     "role": "adverbial of direction"
+    },
+    {
+     "gloss": "still",
+     "form": "invariable",
+     "role": "adverbial of degree"
+    },
+    {
+     "gloss": "closer,",
+     "form": "locative form (-e)",
+     "parts": "kach + -e",
+     "role": "adverbial of direction (repetition)"
+    }
+   ],
+   "structure": "Repeated adverbial of direction to the predicate eśo (from line 8): áro káche, áro káche (\"still closer, still closer\").",
+   "literal": "still closer, still closer,",
+   "natural": "Come closer, still closer,"
+  },
+  {
+   "index": 10,
+   "words": [
+    {
+     "gloss": "taking",
+     "form": "imperfective/perfective conjunctive participle",
+     "parts": "ne- + -ye",
+     "role": "part of the compound verb niye jáo"
+    },
+    {
+     "gloss": "take away (go)",
+     "form": "imperative, 2nd person familiar (tumi)",
+     "parts": "ja- + -o",
+     "role": "auxiliary verb in the compound predicate niye jáo",
+     "meaning_here": "take away with You, carry off"
+    },
+    {
+     "gloss": "what",
+     "form": "relative pronoun, archaic/poetic form (sádhu bháśá)",
+     "role": "object within the pronominal phrase"
+    },
+    {
+     "gloss": "ever",
+     "form": "indefinite pronoun",
+     "role": "intensifier to jáhá"
+    },
+    {
+     "gloss": "all",
+     "form": "direct form, summarizing word",
+     "role": "summarizing word to jáhá kichu"
+    }
+   ],
+   "structure": "Predicate: niye jáo (\"take away / carry off\"); subject: tumi (implied); direct object: jáhá kichu sab (\"absolutely everything that is\").",
+   "literal": "take away with You all that there is.",
+   "natural": "Take all that I have."
+  }
+ ],
+ "heard": [
+  "In the subtitles, lines 2 and 3, 5 and 6, as well as 8 and 9 are combined in pairs on a single slide.",
+  "In line 5, the word chiṊŕo is sung with a distinct nasalized sound (as required by the candrabindu).",
+  "The performance strictly follows the classical alternation of stanzas and refrain."
+ ],
+ "uncertain": [],
+ "interpretation": "The song conveys the mood of complete surrender to the Divine (sharańágati). The arrival of the Beloved attunes all minds to a single chord and awakens the same fragrance of devotion in all hearts. The soul offers Him the garland of its love (mamátár sárá vaebhav) and implores Him not to break this bond, but rather to come even closer and take away entirely the individual ego along with all its belongings.",
+ "generated": {
+  "by": "gemini",
+  "model": "gemini-flash-latest",
+  "date": "2026-10-19",
+  "verified": false,
+  "from": "ru"
+ },
+ "problems": []
+}

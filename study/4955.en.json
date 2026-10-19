@@ -1,0 +1,393 @@
+{
+ "number": 4955,
+ "lang": "en",
+ "title": "Come, O Vaeshákha",
+ "lead": "A song calling for humanity's awakening from centuries-old inertia and fear of relentless time. For the language student, the imperative forms ending in -io (সারিও, ভাঙিও), archaic verb forms (sádhu-bháśá), and vivid figurative phrases like \"the cheek of time\" are noteworthy.",
+ "lines": [
+  {
+   "index": 0,
+   "words": [
+    {
+     "gloss": "O Vaeshákh,",
+     "form": "sing., vocative",
+     "parts": "বৈশাখ",
+     "role": "address",
+     "meaning_here": "the month of Vaeshákh (symbol of renewal and awakening)",
+     "etymology": "from Sanskrit viśákhá (name of a constellation)"
+    },
+    {
+     "gloss": "You",
+     "form": "2nd person, sing., nominative",
+     "parts": "তুমি",
+     "role": "subject"
+    },
+    {
+     "gloss": "come,",
+     "form": "imperative, 2nd person (neutral/familiar)",
+     "parts": "এসো",
+     "role": "predicate"
+    },
+    {
+     "gloss": "torpor",
+     "form": "sing., accusative (direct object)",
+     "parts": "জড় + ইমা",
+     "role": "direct object",
+     "meaning_here": "inertia, lethargy, numbness",
+     "etymology": "Sanskrit jád́iman (heaviness, dullness, immobility)"
+    },
+    {
+     "gloss": "dispel.",
+     "form": "imperative (future/request), 2nd person",
+     "parts": "সার্ + ইও",
+     "role": "predicate",
+     "meaning_here": "remove, banish, dispel"
+    }
+   ],
+   "structure": "Address (বৈশাখ), subject (তুমি), two parallel imperative predicates (এসো and সারিও) with an object (জড়িমা).",
+   "literal": "Vaeshákh, You come, torpor dispel.",
+   "natural": "Come, O Vaeshákha, dispel lethargy."
+  },
+  {
+   "index": 1,
+   "words": [
+    {
+     "gloss": "in age",
+     "form": "sing., locative",
+     "parts": "যুগ + এ",
+     "role": "adverbial of time (in repetition)"
+    },
+    {
+     "gloss": "after age,",
+     "form": "sing., locative",
+     "parts": "যুগ + এ",
+     "role": "adverbial of time",
+     "meaning_here": "from age to age, age after age"
+    },
+    {
+     "gloss": "those who",
+     "form": "relative, pl., nominative",
+     "parts": "যারা",
+     "role": "subject of subordinate clause"
+    },
+    {
+     "gloss": "having slept",
+     "form": "conjunctive participle (sádhu-bháśá)",
+     "parts": "ঘুমা + ইয়া",
+     "role": "auxiliary component of compound verb"
+    },
+    {
+     "gloss": "were,",
+     "form": "past, 3rd person",
+     "parts": "ছিল",
+     "role": "predicate (past continuous in combination with ঘুমাইয়া)"
+    }
+   ],
+   "structure": "Relative clause of time/state: adverbial modifier (যুগে যুগে), subject (যারা), predicate in past continuous (ঘুমাইয়া ছিল).",
+   "literal": "Age after age those who were sleeping,",
+   "natural": "Those who have been sleeping for age after age -"
+  },
+  {
+   "index": 2,
+   "words": [
+    {
+     "gloss": "their",
+     "form": "demonstrative, pl., genitive",
+     "parts": "তা + দের",
+     "role": "attribute"
+    },
+    {
+     "gloss": "slumber",
+     "form": "sing., accusative",
+     "parts": "ঘুম",
+     "role": "direct object"
+    },
+    {
+     "gloss": "break.",
+     "form": "imperative (future/request), 2nd person",
+     "parts": "ভাঙ্ + ইও",
+     "role": "predicate",
+     "meaning_here": "break, shatter, interrupt (sleep)"
+    }
+   ],
+   "structure": "Main clause to line 1: predicate in the imperative (ভাঙিও), direct object with attribute (তাদের ঘুম).",
+   "literal": "Their sleep break.",
+   "natural": "Break their slumber."
+  },
+  {
+   "index": 3,
+   "words": [
+    {
+     "gloss": "many",
+     "form": "indeclinable",
+     "parts": "অন + এক",
+     "role": "attribute",
+     "etymology": "Sanskrit an + eka (not one)"
+    },
+    {
+     "gloss": "years",
+     "form": "sing. (in collective sense), nominative",
+     "parts": "বরষ",
+     "role": "subject",
+     "meaning_here": "years (poetic form of বর্ষ)",
+     "etymology": ""
+    },
+    {
+     "gloss": "having departed",
+     "form": "conjunctive participle (sádhu-bháśá)",
+     "parts": "চল্ + ইয়া",
+     "role": "component of compound verb"
+    },
+    {
+     "gloss": "have passed,",
+     "form": "present perfect, 3rd person (sádhu-bháśá)",
+     "parts": "গিয়া + আছে",
+     "role": "predicate",
+     "meaning_here": "gone by, elapsed"
+    }
+   ],
+   "structure": "Subject with attribute (অনেক বরষ), predicate in the perfect of a compound verb (চলিয়া গিয়াছে).",
+   "literal": "Many years having departed have passed,",
+   "natural": "Many years have gone by"
+  },
+  {
+   "index": 4,
+   "words": [
+    {
+     "gloss": "humanity",
+     "form": "sing. (in collective sense \"humanity\"), nominative",
+     "parts": "মানুষ",
+     "role": "subject",
+     "meaning_here": "",
+     "etymology": "Sanskrit manuśya"
+    },
+    {
+     "gloss": "this",
+     "form": "demonstrative, indeclinable",
+     "parts": "এ",
+     "role": "attribute"
+    },
+    {
+     "gloss": "to Earth",
+     "form": "sing., locative",
+     "parts": "বসুধা + তে",
+     "role": "adverbial of place",
+     "meaning_here": "Earth, the mortal world",
+     "etymology": "Sanskrit vasu (wealth) + dhá (holding)"
+    },
+    {
+     "gloss": "has come,",
+     "form": "present perfect, 3rd person (calit)",
+     "parts": "এসে + ছে",
+     "role": "predicate"
+    }
+   ],
+   "structure": "Subject (মানুষ), adverbial of place with attribute (এ বসুধাতে), predicate in the perfect (এসেছে). Semantic link to line 3: \"since...\".",
+   "literal": "Humanity to this Earth has come,",
+   "natural": "[Since] humans came to this earth."
+  },
+  {
+   "index": 5,
+   "words": [
+    {
+     "gloss": "of time",
+     "form": "sing., genitive",
+     "parts": "কাল + এর",
+     "role": "attribute",
+     "etymology": "Sanskrit kála (time, death)"
+    },
+    {
+     "gloss": "down cheek",
+     "form": "sing., locative",
+     "parts": "কপোল + এ",
+     "role": "adverbial of place",
+     "meaning_here": "down the cheek of time (image of flowing tears of history)",
+     "etymology": "Sanskrit kapola (cheek)"
+    },
+    {
+     "gloss": "much",
+     "form": "indeclinable",
+     "parts": "অনেক",
+     "role": "adverbial of degree"
+    },
+    {
+     "gloss": "they wept,",
+     "form": "present perfect, 3rd person",
+     "parts": "কেঁদে + ছে",
+     "role": "predicate",
+     "etymology": "Sanskrit krandana"
+    }
+   ],
+   "structure": "Adverbial of place with attribute (কালের কপোলে), adverbial of degree (অনেক), predicate (কেঁদেছে), subject is implied (\"humanity\").",
+   "literal": "Of time down the cheek much they wept,",
+   "natural": "They've shed many a tear down the cheek of time,"
+  },
+  {
+   "index": 6,
+   "words": [
+    {
+     "gloss": "wept",
+     "form": "present perfect, 3rd person",
+     "parts": "কেঁদে + ছে",
+     "role": "predicate"
+    },
+    {
+     "gloss": "even in sleep.",
+     "form": "sing., locative + emphatic particle -ও",
+     "parts": "নিদ্রা + তে + ও",
+     "role": "adverbial of condition/time",
+     "meaning_here": "even in sleep, even in oblivion",
+     "etymology": "Sanskrit nidrá"
+    }
+   ],
+   "structure": "Predicate (কেঁদেছে), adverbial of state with emphatic particle (নিদ্রাতেও).",
+   "literal": "Wept even in sleep.",
+   "natural": "Weeping even in their sleep."
+  },
+  {
+   "index": 7,
+   "words": [
+    {
+     "gloss": "light-showering",
+     "form": "compound word, indeclinable",
+     "parts": "আলো (light) + ঝরা (showering/flowing)",
+     "role": "attribute"
+    },
+    {
+     "gloss": "today",
+     "form": "indeclinable",
+     "parts": "আজ",
+     "role": "adverbial of time",
+     "etymology": "Sanskrit adhya (today)"
+    },
+    {
+     "gloss": "full moon",
+     "form": "sing., nominative",
+     "parts": "পূর্ণিমা",
+     "role": "subject",
+     "meaning_here": "full moon night",
+     "etymology": "Sanskrit púrńa (full) + más (moon)"
+    },
+    {
+     "gloss": "arrived,",
+     "form": "past, 3rd person",
+     "parts": "এলো",
+     "role": "predicate"
+    }
+   ],
+   "structure": "Attribute (আলোঝরা), adverbial of time (আজ), subject (পূর্ণিমা), predicate (এলো).",
+   "literal": "Light-showering today full moon arrived,",
+   "natural": "Today the light-showering full-moon night has arrived."
+  },
+  {
+   "index": 8,
+   "words": [
+    {
+     "gloss": "of the new",
+     "form": "sing., genitive (substantivized adj.)",
+     "parts": "নূতন + এর",
+     "role": "attribute",
+     "etymology": "Sanskrit nútana"
+    },
+    {
+     "gloss": "dawn",
+     "form": "sing., nominative",
+     "parts": "ঊষা",
+     "role": "subject",
+     "etymology": "Sanskrit uśas (dawn)"
+    },
+    {
+     "gloss": "direction",
+     "form": "sing., accusative",
+     "parts": "দিশা",
+     "role": "direct object",
+     "meaning_here": "way, the right direction",
+     "etymology": "Sanskrit dish"
+    },
+    {
+     "gloss": "showed,",
+     "form": "past, 3rd person (sádhu-bháśá)",
+     "parts": "দেখা + ইল",
+     "role": "predicate"
+    }
+   ],
+   "structure": "Attribute (নূতনের), subject (ঊষা), direct object (দিশা), predicate (দেখাইল).",
+   "literal": "Of the new dawn direction showed,",
+   "natural": "The dawn of the new shows the way."
+  },
+  {
+   "index": 9,
+   "words": [
+    {
+     "gloss": "of time",
+     "form": "sing., genitive",
+     "parts": "কাল + এর",
+     "role": "attribute",
+     "etymology": "Sanskrit kála"
+    },
+    {
+     "gloss": "frown",
+     "form": "sing., nominative",
+     "parts": "ভ্রু + কুটি",
+     "role": "subject",
+     "meaning_here": "furrowed brows, threatening scowl",
+     "etymology": "Sanskrit bhrukút́i (knitted brows)"
+    },
+    {
+     "gloss": "far away",
+     "form": "locative as adverb",
+     "parts": "দূর + এ",
+     "role": "adverbial of place"
+    },
+    {
+     "gloss": "having shifted,",
+     "form": "conjunctive participle",
+     "parts": "সরিয়া -> সরে'",
+     "role": "component of compound verb"
+    },
+    {
+     "gloss": "went,",
+     "form": "past, 3rd person",
+     "parts": "গেল",
+     "role": "predicate (compound verb সরে গেল - receded)"
+    }
+   ],
+   "structure": "Attribute (কালের), subject (ভ্রুকুটি), adverbial (দূরে), predicate of compound verb (সরে গেল).",
+   "literal": "Of time frown far away moved away,",
+   "natural": "Death's frown receded into the distance"
+  },
+  {
+   "index": 10,
+   "words": [
+    {
+     "gloss": "smiled",
+     "form": "past, 3rd person (poetic/sádhu)",
+     "parts": "হাস্ + ইল",
+     "role": "predicate",
+     "etymology": "Sanskrit hasa"
+    },
+    {
+     "gloss": "even the horizon.",
+     "form": "sing., nominative + emphatic particle -ও",
+     "parts": "দিশ্ + বলয় + ও",
+     "role": "subject",
+     "meaning_here": "circle of horizon, entire horizon",
+     "etymology": "Sanskrit dik (directions/cardinal points) + valaya (ring/circle)"
+    }
+   ],
+   "structure": "Predicate (হাসিল), subject with emphatic particle (দিগ্বলয়ও).",
+   "literal": "Smiled horizon too.",
+   "natural": "And even the horizons smiled."
+  }
+ ],
+ "heard": [],
+ "uncertain": [],
+ "interpretation": "Vaeshákh (the first month of the Bengali calendar) symbolizes the arrival of Divine renewal, sweeping away stagnation and spiritual slumber (jad́imá). For centuries, humanity wandered in ignorance and suffered under the blows of relentless time (kála), weeping even in the illusory sleep of máyá. But with the advent of spiritual light (the image of the Vaeshákha full moon - Buddha Púrńimá), the fear of doom dissolves, the dawn of a new era shows humanity the path, and all creation (the horizon) is transfigured in joy.",
+ "generated": {
+  "by": "gemini",
+  "model": "gemini-flash-latest",
+  "date": "2026-10-19",
+  "verified": false,
+  "from": "ru"
+ },
+ "problems": []
+}

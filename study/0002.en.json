@@ -1,0 +1,335 @@
+{
+ "number": 2,
+ "lang": "en",
+ "title": "This song of mine is a flowing fountain of light",
+ "lead": "The second song of the cycle is dedicated to unbending determination. It is important for the student to pay attention to compound verbs of motion (\"bahe jai\", \"bhenge jai\") signifying continuous ongoing action, and the imagery of a mountain stream sweeping away all obstacles.",
+ "lines": [
+  {
+   "index": 0,
+   "words": [
+    {
+     "gloss": "this",
+     "form": "demonstrative pron., nominative",
+     "role": "modifier to \"gan\"",
+     "meaning_here": "this",
+     "note": "Points to the song of the singer"
+    },
+    {
+     "gloss": "song",
+     "form": "inanimate, sing., nominative",
+     "role": "subject",
+     "meaning_here": "song",
+     "note": "From Sanskrit root gai / gāna"
+    },
+    {
+     "gloss": "of mine",
+     "form": "personal 1st person sing., genitive (-r)",
+     "role": "modifier",
+     "meaning_here": "my, of mine"
+    },
+    {
+     "gloss": "of light",
+     "form": "sing., genitive (-r)",
+     "role": "modifier to \"jharnadhara\"",
+     "meaning_here": "of light, of effulgence"
+    },
+    {
+     "gloss": "fountain's",
+     "form": "first part of compound",
+     "parts": "ঝর্ণা (spring/waterfall) + ধারা (stream)",
+     "role": "compound nominal predicate",
+     "meaning_here": "spring-like, fountain"
+    },
+    {
+     "gloss": "stream",
+     "form": "second part of compound, nominative",
+     "role": "compound nominal predicate",
+     "meaning_here": "stream, flow"
+    }
+   ],
+   "structure": "\"E gan amar\" (subject with modifiers) + \"alor jharnadhara\" (nominal part of predicate with copula [is])",
+   "literal": "This song of mine light's fountain stream.",
+   "natural": "This song of mine is a flowing fountain of light."
+  },
+  {
+   "index": 1,
+   "words": [
+    {
+     "gloss": "rocky",
+     "form": "stem functioning as modifier",
+     "role": "modifier to \"pathe\"",
+     "meaning_here": "rocky, pebbled",
+     "note": "Sanskrit word for \"pebble, stone\""
+    },
+    {
+     "gloss": "on path",
+     "form": "sing., locative (-e)",
+     "role": "adverbial of place",
+     "meaning_here": "along the way, on the trail"
+    },
+    {
+     "gloss": "by day",
+     "form": "sing., locative (-e)",
+     "role": "adverbial of time",
+     "meaning_here": "by day"
+    },
+    {
+     "gloss": "[and] by night",
+     "form": "sing., locative (-e)",
+     "role": "adverbial of time",
+     "meaning_here": "by night"
+    }
+   ],
+   "structure": "\"Upala pathe\" (adverbial of place) + \"dine rate\" (paired adverbial of time: day and night)",
+   "literal": "Along rocky path by day [and] by night,",
+   "natural": "Along the rocky path, both day and night,"
+  },
+  {
+   "index": 2,
+   "words": [
+    {
+     "gloss": "flowing",
+     "form": "imperfective participle (-e)",
+     "role": "main verb in verbal combination",
+     "meaning_here": "streaming, flowing"
+    },
+    {
+     "gloss": "I keep on [flowing]",
+     "form": "pres. tense, 1st person (-i), auxiliary verb of continuous action",
+     "role": "auxiliary verb of predicate",
+     "meaning_here": "I go, I keep on moving"
+    }
+   ],
+   "structure": "Compound verbal predicate \"bahe jai\" (I keep flowing), subject \"I\" implied by 1st-person form",
+   "literal": "I flow [continuously],",
+   "natural": "I keep on flowing,"
+  },
+  {
+   "index": 3,
+   "words": [
+    {
+     "gloss": "flowing",
+     "form": "imperfective participle (-e)",
+     "role": "main verb in predicate",
+     "meaning_here": "flowing"
+    },
+    {
+     "gloss": "I keep on [flowing]",
+     "form": "pres. tense, 1st person (-i)",
+     "role": "auxiliary verb",
+     "meaning_here": "I go, I surge forward"
+    },
+    {
+     "gloss": "free from bonds",
+     "form": "compound word, nominative",
+     "parts": "বাঁধন (bonds, shackles) + হারা (lost, devoid of)",
+     "role": "predicative modifier to subject [I]",
+     "meaning_here": "unrestrained by obstacles, unbound"
+    }
+   ],
+   "structure": "Predicate \"bahe jai\" + predicative modifier \"bandhana hara\" to 1st person pronoun",
+   "literal": "I flow unrestrained, having lost all bonds,",
+   "natural": "I keep on flowing forward, free from all bonds,"
+  },
+  {
+   "index": 4,
+   "words": [
+    {
+     "gloss": "of light",
+     "form": "sing., genitive (-r)",
+     "role": "modifier",
+     "meaning_here": "of light"
+    },
+    {
+     "gloss": "fountain's",
+     "form": "compound stem",
+     "parts": "ঝর্ণা + ধারা",
+     "role": "apposition / noun phrase",
+     "meaning_here": "spring-like"
+    },
+    {
+     "gloss": "stream",
+     "form": "sing., nominative",
+     "role": "apposition / refrain-address",
+     "meaning_here": "stream, waterfall"
+    }
+   ],
+   "structure": "Nominative phrase-refrain repeating key image of first line",
+   "literal": "Light's fountain stream.",
+   "natural": "a fountain of effulgence."
+  },
+  {
+   "index": 5,
+   "words": [
+    {
+     "gloss": "this",
+     "form": "demonstrative pron., nominative",
+     "role": "modifier to \"path\"",
+     "meaning_here": "this"
+    },
+    {
+     "gloss": "path",
+     "form": "inanimate, sing., nominative",
+     "role": "subject",
+     "meaning_here": "path, way"
+    },
+    {
+     "gloss": "my",
+     "form": "1st person sing., genitive (-r)",
+     "role": "modifier to \"path\"",
+     "meaning_here": "my"
+    },
+    {
+     "gloss": "uneven",
+     "form": "qualitative adj., nominative",
+     "role": "first part of compound nominal predicate",
+     "meaning_here": "rugged, rough, uneven",
+     "note": "Sanskrit bandhura (uneven, hilly). Not to be confused with \"bandhu\" (friend)"
+    },
+    {
+     "gloss": "with thorns",
+     "form": "first part of compound",
+     "parts": "কণ্টক (thorn, brier) + ভরা (full of)",
+     "role": "second part of compound predicate",
+     "meaning_here": "with thorns, prickles"
+    },
+    {
+     "gloss": "full",
+     "form": "deverbal adj. / stem",
+     "role": "part of predicate",
+     "meaning_here": "filled, covered"
+    }
+   ],
+   "structure": "\"E path amar\" (subject with modifiers) + \"bandhura kantakabhara\" (homogeneous nominal predicates with copula [is])",
+   "literal": "This path of mine rugged, with thorns full.",
+   "natural": "This path of mine is rugged and full of thorns."
+  },
+  {
+   "index": 6,
+   "words": [
+    {
+     "gloss": "source",
+     "form": "stem before postposition",
+     "role": "adverbial of source",
+     "meaning_here": "origin, supreme source"
+    },
+    {
+     "gloss": "from",
+     "form": "postposition of ablative case (hote / poetic h'te)",
+     "role": "functional word",
+     "meaning_here": "from"
+    },
+    {
+     "gloss": "of life",
+     "form": "sing., genitive (-era)",
+     "role": "modifier to \"srote\"",
+     "meaning_here": "of vital force, of breath of life"
+    },
+    {
+     "gloss": "in stream",
+     "form": "sing., locative/instrumental (-e)",
+     "role": "adverbial of manner / means",
+     "meaning_here": "in stream, by force of stream"
+    }
+   ],
+   "structure": "\"Utsa hate\" (adverbial of source) + \"pranera srote\" (adverbial of instrument/manner, relates to predicate \"bhenge jai\")",
+   "literal": "From source by stream of life",
+   "natural": "From the very source, in a surging stream of life,"
+  },
+  {
+   "index": 7,
+   "words": [
+    {
+     "gloss": "shattering",
+     "form": "perfective/imperfective participle (-e)",
+     "role": "main verb of predicate",
+     "meaning_here": "breaking, shattering, destroying",
+     "note": "Form bhenge (traditional spelling ভে৲ঙ্গে / ভেঙ্গে)"
+    },
+    {
+     "gloss": "I keep [shattering]",
+     "form": "pres. tense, 1st person (-i)",
+     "role": "auxiliary verb of predicate",
+     "meaning_here": "I continue action"
+    }
+   ],
+   "structure": "Compound verbal predicate of intensive/continuous action with implied subject \"I\"",
+   "literal": "I shatter [on the way],",
+   "natural": "I keep shattering on my way,"
+  },
+  {
+   "index": 8,
+   "words": [
+    {
+     "gloss": "shattering",
+     "form": "participle (-e)",
+     "role": "main verb of predicate",
+     "meaning_here": "destroying"
+    },
+    {
+     "gloss": "I keep",
+     "form": "pres. tense, 1st person (-i)",
+     "role": "auxiliary verb",
+     "meaning_here": "I go, I keep on shattering"
+    },
+    {
+     "gloss": "stone",
+     "form": "stem functioning as modifier",
+     "role": "modifier to \"kara\"",
+     "meaning_here": "stone, granite"
+    },
+    {
+     "gloss": "prison",
+     "form": "sing., accusative/nominative (inanimate direct object)",
+     "role": "direct object to predicate",
+     "meaning_here": "prison, dungeon",
+     "note": "Sanskrit kārā (prison, jail)"
+    }
+   ],
+   "structure": "Predicate \"bhenge jai\" + direct object \"pashan kara\" (stone prison)",
+   "literal": "I shatter stone prison,",
+   "natural": "I keep shattering the granite prison walls,"
+  },
+  {
+   "index": 9,
+   "words": [
+    {
+     "gloss": "of light",
+     "form": "sing., genitive (-r)",
+     "role": "modifier",
+     "meaning_here": "of light"
+    },
+    {
+     "gloss": "fountain's",
+     "form": "compound stem",
+     "parts": "ঝর্ণা + ধারা",
+     "role": "apposition to image",
+     "meaning_here": "spring-like"
+    },
+    {
+     "gloss": "stream",
+     "form": "sing., nominative",
+     "role": "concluding refrain",
+     "meaning_here": "stream, flow"
+    }
+   ],
+   "structure": "Nominative refrain closing stanza and connecting it to original source",
+   "literal": "Light's fountain stream.",
+   "natural": "a fountain of effulgence."
+  }
+ ],
+ "heard": [
+  "In subtitles and singing, forms bahe ja'i and bheunge ja'i are repeated twice, as marked in the musical score",
+  "In the first line of the second part, the subtitles omit the line \"E path a'ma'r bandhura kant'akabhara'\", but in the audio recording the singer sings it exactly according to text"
+ ],
+ "uncertain": [],
+ "interpretation": "The image of a spring stream of light embodies the individual soul and its unyielding spiritual determination (sádhaná). The spiritual seeker's path is never smooth: it is strewn with stones of hardships and thorns of doubts (\"upala pathe\", \"kantakabhara\"). Yet the spiritual stream originates in the supreme Boundless (\"Utsa hate\") and is therefore endowed with irresistible force (\"pranera srote\"). The stone prison (\"pashan kara\") represents the shackles of ignorance, dogma, ego, and narrow-mindedness, which this divine stream relentlessly smashes to pieces on its way to the ocean of Supreme Consciousness.",
+ "generated": {
+  "by": "gemini",
+  "model": "gemini-flash-latest",
+  "date": "2026-10-19",
+  "verified": false,
+  "from": "ru"
+ },
+ "problems": []
+}

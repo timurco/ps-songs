@@ -1,0 +1,610 @@
+{
+ "number": 3706,
+ "lang": "en",
+ "title": "You Came to My Home, O Beloved, Then Why Did You Go?",
+ "lead": "A song of longing and mystical dialogue with the Supreme Beloved, Who leaves the soul in the turmoil of love after a brief visit. It is important for the student to pay attention to the imagery of classical ragas (Diipak and Megh Mallár) and to the use of compound verbs of motion and abandonment (rekhe gele, bole gele).",
+ "lines": [
+  {
+   "index": 0,
+   "words": [
+    {
+     "gloss": "to my",
+     "form": "possessive, 1st person singular",
+     "role": "attribute",
+     "meaning_here": "my"
+    },
+    {
+     "gloss": "home",
+     "form": "locative case (-e)",
+     "role": "adverbial of place",
+     "meaning_here": "to the house"
+    },
+    {
+     "gloss": "You came,",
+     "form": "past tense, 2nd person polite",
+     "role": "predicate",
+     "meaning_here": "came"
+    },
+    {
+     "gloss": "o",
+     "form": "vocative particle",
+     "role": "address",
+     "meaning_here": "o"
+    },
+    {
+     "gloss": "Beloved,",
+     "form": "vocative form",
+     "role": "address",
+     "meaning_here": "beloved"
+    },
+    {
+     "gloss": "why",
+     "form": "interrogative adverb",
+     "role": "adverbial of cause",
+     "meaning_here": "why, wherefore"
+    },
+    {
+     "gloss": "did You go?",
+     "form": "past tense, 2nd person polite",
+     "role": "predicate",
+     "meaning_here": "went away"
+    }
+   ],
+   "structure": "Two coordinate actions with an address: You came (\"ele\") to my home (\"mor ghare\"), o beloved (\"he priya\"), and why did You go (\"keno gele\")?",
+   "literal": "To my home [You] came, o beloved, [but] why did [You] go?",
+   "natural": "O dear Lord, You came to my home, then why did You go?"
+  },
+  {
+   "index": 1,
+   "words": [
+    {
+     "gloss": "to me",
+     "form": "dative/accusative case (-y)",
+     "role": "indirect object",
+     "meaning_here": "to me"
+    },
+    {
+     "gloss": "nothing",
+     "form": "indefinite pronoun",
+     "role": "direct object",
+     "meaning_here": "anything, nothing (with negation)"
+    },
+    {
+     "gloss": "having said,",
+     "form": "imperfective conjunctive participle",
+     "role": "part of compound verb",
+     "meaning_here": "having said"
+    },
+    {
+     "gloss": "went away",
+     "form": "past tense, 2nd person polite",
+     "role": "auxiliary verb of motion",
+     "meaning_here": "went away"
+    },
+    {
+     "gloss": "not [You].",
+     "form": "negative particle",
+     "role": "negation",
+     "meaning_here": "not"
+    }
+   ],
+   "structure": "Predicate is a compound verb with negation: \"bole gele ná\" (did not go having said = went away without saying), objects: to whom (\"ámáy\"), what (\"kichu\").",
+   "literal": "To me anything having said [You] did not go away.",
+   "natural": "You went away without telling me anything."
+  },
+  {
+   "index": 2,
+   "words": [
+    {
+     "gloss": "This",
+     "form": "demonstrative pronoun",
+     "role": "attribute",
+     "meaning_here": "this"
+    },
+    {
+     "gloss": "coming -",
+     "form": "verbal noun",
+     "role": "subject",
+     "meaning_here": "coming, visit"
+    },
+    {
+     "gloss": "[true] coming",
+     "form": "nominal part of predicate",
+     "role": "nominal part of predicate",
+     "meaning_here": "true coming"
+    },
+    {
+     "gloss": "is not,",
+     "form": "negative copula (3rd person)",
+     "role": "copula predicate",
+     "meaning_here": "is not"
+    },
+    {
+     "gloss": "the heart",
+     "form": "nominative case",
+     "role": "object of verbal noun",
+     "meaning_here": "heart, mind"
+    },
+    {
+     "gloss": "filling",
+     "form": "verbal noun in genitive case (-r)",
+     "role": "nominal part of predicate",
+     "meaning_here": "of filling (with joy)"
+    },
+    {
+     "gloss": "is not.",
+     "form": "negative copula (3rd person)",
+     "role": "copula predicate",
+     "meaning_here": "is not"
+    }
+   ],
+   "structure": "Parallel negative constructions with the copula \"nay\": \"e ásá ásá nay\" (this coming is no coming), \"[eti] man bharár nay\" (this is not the fulfilling of the heart).",
+   "literal": "This coming a coming is not, filling the heart [it] is not.",
+   "natural": "This arrival is not real coming; it did not satisfy my heart."
+  },
+  {
+   "index": 3,
+   "words": [
+    {
+     "gloss": "Of the heart",
+     "form": "genitive case (-er)",
+     "role": "attribute",
+     "meaning_here": "heartfelt, innermost"
+    },
+    {
+     "gloss": "the words",
+     "form": "nominative case",
+     "role": "subject of passive construction",
+     "meaning_here": "words, innermost thoughts"
+    },
+    {
+     "gloss": "spoken",
+     "form": "verbal noun/participle",
+     "role": "nominal part of predicate",
+     "meaning_here": "speaking, utterance"
+    },
+    {
+     "gloss": "were",
+     "form": "past tense, 3rd person (hawa)",
+     "role": "auxiliary verb of passive",
+     "meaning_here": "happened, took place"
+    },
+    {
+     "gloss": "not.",
+     "form": "negation",
+     "role": "negation",
+     "meaning_here": "not"
+    }
+   ],
+   "structure": "Passive impersonal construction: \"maner kathá\" (words of the heart) \"bolá holo ná\" (could not be expressed / were not spoken).",
+   "literal": "The heart's words spoken were not.",
+   "natural": "I could not express the feelings of my heart."
+  },
+  {
+   "index": 4,
+   "words": [
+    {
+     "gloss": "to me",
+     "form": "dative/accusative case (-y)",
+     "role": "indirect object",
+     "meaning_here": "to me"
+    },
+    {
+     "gloss": "nothing",
+     "form": "indefinite pronoun",
+     "role": "direct object",
+     "meaning_here": "anything, nothing (with negation)"
+    },
+    {
+     "gloss": "having said,",
+     "form": "conjunctive participle",
+     "role": "compound predicate",
+     "meaning_here": "having said"
+    },
+    {
+     "gloss": "went away",
+     "form": "past tense, 2nd person polite",
+     "role": "predicate",
+     "meaning_here": "went away"
+    },
+    {
+     "gloss": "not.",
+     "form": "negation",
+     "role": "negation",
+     "meaning_here": "not"
+    }
+   ],
+   "structure": "Repetition of line 1 (refrain).",
+   "literal": "To me anything having said [You] did not go away.",
+   "natural": "You went away without telling me anything."
+  },
+  {
+   "index": 5,
+   "words": [
+    {
+     "gloss": "On the viińa",
+     "form": "nominative case (accusative)",
+     "role": "direct object",
+     "meaning_here": "viińa (string instrument)"
+    },
+    {
+     "gloss": "You played,",
+     "form": "past perfect, 2nd person polite, causative",
+     "role": "predicate",
+     "meaning_here": "played, caused to sound"
+    },
+    {
+     "gloss": "the mind",
+     "form": "nominative case (accusative)",
+     "role": "direct object",
+     "meaning_here": "heart, mind"
+    },
+    {
+     "gloss": "You intoxicated,",
+     "form": "past perfect, 2nd person polite, causative",
+     "role": "predicate",
+     "meaning_here": "enchanted, enraptured"
+    }
+   ],
+   "structure": "Two parallel causative actions in the past perfect form: \"viińá bájíyechile\" (played on the viińa) and \"man mátiyechile\" (intoxicated the mind).",
+   "literal": "On the viińa [You] played, the mind [You] intoxicated,",
+   "natural": "You played the lyre, enchanting my mind,"
+  },
+  {
+   "index": 6,
+   "words": [
+    {
+     "gloss": "in the sky",
+     "form": "locative case (-e)",
+     "role": "adverbial of place",
+     "meaning_here": "in the sky, in the heavens"
+    },
+    {
+     "gloss": "in a ceaseless stream",
+     "form": "onomatopoeic (reduplicated)",
+     "role": "adverbial of manner",
+     "meaning_here": "flowing, murmuring, in a downpour of rain"
+    }
+   ],
+   "structure": "Adverbials modifying the next line: where (\"ákáshe\") and how (\"jhara jhar\").",
+   "literal": "In the sky in a flowing stream",
+   "natural": "And from the sky in a ceaseless stream"
+  },
+  {
+   "index": 7,
+   "words": [
+    {
+     "gloss": "love",
+     "form": "nominative case",
+     "role": "direct object",
+     "meaning_here": "tenderness, divine love"
+    },
+    {
+     "gloss": "showering,",
+     "form": "conjunctive participle, causative",
+     "role": "compound predicate",
+     "meaning_here": "having poured, letting flow"
+    },
+    {
+     "gloss": "You poured out.",
+     "form": "past tense, 2nd person polite (auxiliary)",
+     "role": "auxiliary verb of completion",
+     "meaning_here": "poured out (action directed outward)"
+    }
+   ],
+   "structure": "Compound verb of completion \"jhariye dile\" (poured/showered down) with object \"priiti\" (love).",
+   "literal": "Love pouring down [You] gave.",
+   "natural": "You poured out a fountain of love."
+  },
+  {
+   "index": 8,
+   "words": [
+    {
+     "gloss": "[You] said:",
+     "form": "past tense, 2nd person polite",
+     "role": "predicate",
+     "meaning_here": "You said"
+    },
+    {
+     "gloss": "\"Love!\"",
+     "form": "imperative mood / present tense, 2nd person",
+     "role": "direct speech",
+     "meaning_here": "love! / [you] love"
+    },
+    {
+     "gloss": "How",
+     "form": "interrogative adverb",
+     "role": "adverbial of manner",
+     "meaning_here": "how, in what manner"
+    },
+    {
+     "gloss": "to love?",
+     "form": "present tense / question of possibility",
+     "role": "predicate of interrogative clause",
+     "meaning_here": "[should I] love?"
+    }
+   ],
+   "structure": "Words of the Lord and the soul's question in response: \"bolile: bhálobáso\" (You said: \"love\"), \"keman bhálobáso [bhálobáshi]\" (how to love?).",
+   "literal": "[You] said: \"Love!\", [but] how to love,",
+   "natural": "You instructed to love - but how could I love,"
+  },
+  {
+   "index": 9,
+   "words": [
+    {
+     "gloss": "in the very heart",
+     "form": "locative case with enclitic -i (man-e-i)",
+     "role": "adverbial of place",
+     "meaning_here": "in the very heart / in memory"
+    },
+    {
+     "gloss": "if",
+     "form": "conditional conjunction",
+     "role": "conjunction of conditional clause",
+     "meaning_here": "if"
+    },
+    {
+     "gloss": "remained",
+     "form": "past tense, 2nd person polite",
+     "role": "conditional predicate",
+     "meaning_here": "abided, stayed"
+    },
+    {
+     "gloss": "not [You]?",
+     "form": "negation",
+     "role": "negation",
+     "meaning_here": "not"
+    }
+   ],
+   "structure": "Conditional subordinate clause with the particle \"yadi\": \"mane-i yadi rahile ná\" (if in the heart itself You did not stay / do not abide).",
+   "literal": "In the very mind if [You] remained not?",
+   "natural": "If You Yourself did not remain in my heart?"
+  },
+  {
+   "index": 10,
+   "words": [
+    {
+     "gloss": "to me",
+     "form": "dative/accusative case",
+     "role": "indirect object",
+     "meaning_here": "to me"
+    },
+    {
+     "gloss": "nothing",
+     "form": "indefinite pronoun",
+     "role": "direct object",
+     "meaning_here": "nothing"
+    },
+    {
+     "gloss": "having said,",
+     "form": "conjunctive participle",
+     "role": "compound predicate",
+     "meaning_here": "having said"
+    },
+    {
+     "gloss": "went away",
+     "form": "past tense, 2nd person polite",
+     "role": "predicate",
+     "meaning_here": "went away"
+    },
+    {
+     "gloss": "not.",
+     "form": "negation",
+     "role": "negation",
+     "meaning_here": "not"
+    }
+   ],
+   "structure": "Repetition of line 1 (refrain).",
+   "literal": "To me anything having said [You] did not go away.",
+   "natural": "You went away without telling me anything."
+  },
+  {
+   "index": 11,
+   "words": [
+    {
+     "gloss": "Between You",
+     "form": "locative case (-te)",
+     "role": "adverbial of relation/comparison",
+     "meaning_here": "in You, between You"
+    },
+    {
+     "gloss": "[and] me -",
+     "form": "locative case (-te)",
+     "role": "adverbial of relation/comparison",
+     "meaning_here": "in me, between me"
+    },
+    {
+     "gloss": "hundreds",
+     "form": "cardinal numeral",
+     "role": "attribute",
+     "meaning_here": "hundred, hundreds"
+    },
+    {
+     "gloss": "of yojanas",
+     "form": "measure of distance",
+     "role": "measure attribute",
+     "meaning_here": "yojana (ancient measure of distance, ~12-14 km)"
+    },
+    {
+     "gloss": "of distance,",
+     "form": "nominative case",
+     "role": "nominal part of predicate",
+     "meaning_here": "distance, expanse"
+    }
+   ],
+   "structure": "Nominative sentence: \"tomáte ámáte\" (between You and me) \"shata yojan dúr [áche]\" (distance of hundreds of yojanas).",
+   "literal": "In You [and] in me hundreds of yojanas of distance,",
+   "natural": "Between You and me the distance is hundreds of yojanas,"
+  },
+  {
+   "index": 12,
+   "words": [
+    {
+     "gloss": "and yet",
+     "form": "concessive conjunction (tabu + o)",
+     "role": "connective conjunction",
+     "meaning_here": "yet, nevertheless"
+    },
+    {
+     "gloss": "with Your",
+     "form": "genitive case (Sanskritism)",
+     "role": "attribute",
+     "meaning_here": "Your"
+    },
+    {
+     "gloss": "ideation",
+     "form": "instrumental/locative case (-e)",
+     "role": "indirect object",
+     "meaning_here": "idea, feeling, contemplation"
+    },
+    {
+     "gloss": "the heart",
+     "form": "nominative case",
+     "role": "subject",
+     "meaning_here": "mind, heart"
+    },
+    {
+     "gloss": "indeed",
+     "form": "emphatic particle",
+     "role": "emphasis",
+     "meaning_here": "indeed, truly"
+    },
+    {
+     "gloss": "is overflowing.",
+     "form": "compound word (bhara + púr)",
+     "role": "nominal part of predicate",
+     "meaning_here": "filled to the brim, saturated"
+    }
+   ],
+   "structure": "Main clause of concession: subject \"man\" (mind), predicate \"bharapúr\" (overflowing), with what - \"tava bháve\" (with Your ideation).",
+   "literal": "And yet with Your thought the heart indeed is filled to the brim.",
+   "natural": "And yet, my mind is saturated with Your ideation."
+  },
+  {
+   "index": 13,
+   "words": [
+    {
+     "gloss": "In [raga] Diipak,",
+     "form": "locative case (-e)",
+     "role": "adverbial of place",
+     "meaning_here": "in the fire raga Diipak"
+    },
+    {
+     "gloss": "in [raga] Megh Mallar",
+     "form": "compound noun in locative case (-e)",
+     "parts": "megh + mallár",
+     "role": "adverbial of place",
+     "meaning_here": "in the rain raga Megh Mallar"
+    },
+    {
+     "gloss": "that which",
+     "form": "relative pronoun",
+     "role": "attribute to sur",
+     "meaning_here": "which"
+    },
+    {
+     "gloss": "plays,",
+     "form": "present simple, 3rd person",
+     "role": "predicate of relative clause",
+     "meaning_here": "plays, resounds"
+    },
+    {
+     "gloss": "the melody -",
+     "form": "nominative case",
+     "role": "subject of relative clause",
+     "meaning_here": "melody, tune"
+    }
+   ],
+   "structure": "Relative subordinate clause: \"je sur báje diipake [o] meghmalláre\" (the melody that resounds in ragas Diipak and Megh Mallar).",
+   "literal": "In Diipak, in Megh Mallar that which plays, the melody -",
+   "natural": "The melodies of Diipak and Megh Mallar are sounding,"
+  },
+  {
+   "index": 14,
+   "words": [
+    {
+     "gloss": "in it",
+     "form": "demonstrative pronoun in locative case (-te)",
+     "role": "adverbial of place",
+     "meaning_here": "in it (in this melody)"
+    },
+    {
+     "gloss": "leaving,",
+     "form": "imperfective conjunctive participle",
+     "role": "compound predicate",
+     "meaning_here": "having left, placing"
+    },
+    {
+     "gloss": "went away",
+     "form": "past tense, 2nd person polite",
+     "role": "auxiliary verb",
+     "meaning_here": "went away"
+    },
+    {
+     "gloss": "Your",
+     "form": "genitive case",
+     "role": "attribute",
+     "meaning_here": "Your"
+    },
+    {
+     "gloss": "subtle reverberation.",
+     "form": "nominative case",
+     "role": "direct object",
+     "meaning_here": "suggestion, subtle nuance of meaning, radiance, echo"
+    }
+   ],
+   "structure": "Main clause corresponding to line 13: You went away (\"gele\"), leaving (\"rekhe\") in it (\"táte\") Your subtle suggestion/reverberation (\"tava dyotaná\").",
+   "literal": "In it having left [You] went away Your subtle resonance.",
+   "natural": "And in them You have left the subtle effulgence of Your presence."
+  },
+  {
+   "index": 15,
+   "words": [
+    {
+     "gloss": "to me",
+     "form": "dative/accusative case",
+     "role": "indirect object",
+     "meaning_here": "to me"
+    },
+    {
+     "gloss": "nothing",
+     "form": "indefinite pronoun",
+     "role": "direct object",
+     "meaning_here": "nothing"
+    },
+    {
+     "gloss": "having said,",
+     "form": "conjunctive participle",
+     "role": "compound predicate",
+     "meaning_here": "having said"
+    },
+    {
+     "gloss": "went away",
+     "form": "past tense, 2nd person polite",
+     "role": "predicate",
+     "meaning_here": "went away"
+    },
+    {
+     "gloss": "not.",
+     "form": "negation",
+     "role": "negation",
+     "meaning_here": "not"
+    }
+   ],
+   "structure": "Repetition of line 1 (final refrain).",
+   "literal": "To me anything having said [You] did not go away.",
+   "natural": "You went away without telling me anything."
+  }
+ ],
+ "heard": [],
+ "uncertain": [],
+ "interpretation": "The song conveys a deep experience of the devotee's spiritual longing (viraha). The sudden mystical visit of the Beloved leaves the soul in awe: the touch was so fleeting that the devotee did not have time to express the overflowing emotions. Ragas Diipak (the raga of fire and passion) and Megh Mallar (the raga of rain, refreshing coolness, and union) symbolize the polarities of the spiritual path: the burning thirst of separation and the saving downpour of divine grace. Although physically or mentally it seems that boundless expanses (\"hundreds of yojanas\") lie between the soul and Supreme Consciousness, the inner space of the mind remains unconditionally inundated with His subtle presence.",
+ "generated": {
+  "by": "gemini",
+  "model": "gemini-flash-latest",
+  "date": "2026-10-19",
+  "verified": false,
+  "from": "ru"
+ },
+ "problems": []
+}
