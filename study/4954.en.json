@@ -1,0 +1,388 @@
+{
+ "number": 4954,
+ "lang": "en",
+ "title": "Today, the account of Shrávańii Púrńimá comes to mind",
+ "lead": "A reminiscence of the mystical experience of a monsoon full moon night and the awakening of the spirit. Key compounds explore the interaction of matter and consciousness (jaŕ-cetane, cetan-saḿghát, mantrasampát).",
+ "lines": [
+  {
+   "index": 0,
+   "words": [
+    {
+     "gloss": "of-Shrávan",
+     "form": "adj., indefinite",
+     "parts": "শ্রাবণ + ঈ",
+     "role": "attribute",
+     "meaning_here": "relating to the month of Shrávańa (monsoon)"
+    },
+    {
+     "gloss": "of-the-full-moon",
+     "form": "genitive, singular",
+     "parts": "পূর্ণিমা + র্",
+     "role": "attribute",
+     "meaning_here": "of the full moon night"
+    },
+    {
+     "gloss": "story / tale",
+     "form": "nominative, singular",
+     "parts": "কথা",
+     "role": "subject",
+     "meaning_here": "reminiscence, event"
+    },
+    {
+     "gloss": "today",
+     "form": "adverb",
+     "parts": "আজ",
+     "role": "adverbial of time",
+     "meaning_here": "on this day"
+    },
+    {
+     "gloss": "to mind",
+     "form": "locative, singular",
+     "parts": "মন + এ",
+     "role": "part of compound predicate",
+     "meaning_here": "in the mind, to memory"
+    },
+    {
+     "gloss": "falls / comes",
+     "form": "present, 3rd person, simple",
+     "parts": "পড়্ + এ",
+     "role": "predicate (with মনে)",
+     "meaning_here": "is remembered (মনে পড়ে)"
+    }
+   ],
+   "structure": "subject - kathá (with attributes shrávańii púrńimár), predicate - mane paŕe, adverbial - áj",
+   "literal": "The tale of the Shrávańa full moon today comes to mind,",
+   "natural": "Today, the account of Shrávańii Púrńimá comes to mind."
+  },
+  {
+   "index": 1,
+   "words": [
+    {
+     "gloss": "today",
+     "form": "adverb (with emphatic/dative formative -কে)",
+     "parts": "আজ + কে",
+     "role": "adverbial of time",
+     "meaning_here": "this very day"
+    },
+    {
+     "gloss": "to mind",
+     "form": "locative, singular",
+     "parts": "মন + এ",
+     "role": "part of predicate",
+     "meaning_here": "to memory"
+    },
+    {
+     "gloss": "comes",
+     "form": "present, 3rd person",
+     "parts": "পড়্ + এ",
+     "role": "predicate",
+     "meaning_here": "is remembered"
+    },
+    {
+     "gloss": "o Friend",
+     "form": "vocative (stem form)",
+     "parts": "বন্ধু",
+     "role": "address",
+     "meaning_here": "dear Friend (addressing the Supreme)"
+    },
+    {
+     "gloss": "today",
+     "form": "adverb",
+     "parts": "আজ + কে",
+     "role": "adverbial of time",
+     "meaning_here": "this very day"
+    },
+    {
+     "gloss": "to mind",
+     "form": "locative, singular",
+     "parts": "মন + এ",
+     "role": "part of predicate",
+     "meaning_here": "to memory"
+    },
+    {
+     "gloss": "comes",
+     "form": "present, 3rd person",
+     "parts": "পড়্ + এ",
+     "role": "predicate",
+     "meaning_here": "is remembered"
+    }
+   ],
+   "structure": "address - bandhu; predicate (repeated) - mane paŕe; adverbial - ájke",
+   "literal": "Today comes to mind, o Friend, today comes to mind.",
+   "natural": "I remember it today, beloved Friend, I remember it today."
+  },
+  {
+   "index": 2,
+   "words": [
+    {
+     "gloss": "to mind",
+     "form": "locative, singular",
+     "parts": "মন + এ",
+     "role": "part of introductory predicate",
+     "meaning_here": "is recalled"
+    },
+    {
+     "gloss": "comes",
+     "form": "present, 3rd person",
+     "parts": "পড়্ + এ",
+     "role": "introductory predicate",
+     "meaning_here": "is recalled"
+    },
+    {
+     "gloss": "in matter and consciousness",
+     "form": "dvandva compound, locative",
+     "parts": "জড় + চেতন + এ",
+     "role": "adverbial of place / sphere",
+     "meaning_here": "between crude matter and consciousness"
+    },
+    {
+     "gloss": "this",
+     "form": "demonstrative pronoun",
+     "parts": "এ",
+     "role": "attribute",
+     "meaning_here": "this"
+    },
+    {
+     "gloss": "what a [wondrous]",
+     "form": "interrogative/exclamatory pronoun",
+     "parts": "কী",
+     "role": "attribute / expressive",
+     "meaning_here": "how wondrous"
+    },
+    {
+     "gloss": "play",
+     "form": "nominative, singular",
+     "parts": "খেলা",
+     "role": "direct object (cognate object)",
+     "meaning_here": "liila, divine play"
+    },
+    {
+     "gloss": "plays [He]",
+     "form": "present, 3rd person, simple",
+     "parts": "কর্ + এ",
+     "role": "predicate of subordinate clause",
+     "meaning_here": "plays, unfolds"
+    }
+   ],
+   "structure": "main clause - mane paŕe; subordinate clause - [He] e kii khelá kare (predicate kare, object khelá) in whom - jaŕ-cetane",
+   "literal": "To mind comes, in matter-consciousness what play [He] plays.",
+   "natural": "I recall how wondrous it was - the play of consciousness with matter!"
+  },
+  {
+   "index": 3,
+   "words": [
+    {
+     "gloss": "sky",
+     "form": "nominative, singular",
+     "parts": "আকাশ",
+     "role": "subject",
+     "meaning_here": "firmament"
+    },
+    {
+     "gloss": "was",
+     "form": "past, 3rd person",
+     "parts": "ছিল",
+     "role": "copula predicate",
+     "meaning_here": "was"
+    },
+    {
+     "gloss": "softly cloud-covered",
+     "form": "compound adjective",
+     "parts": "মেঘ + মেদুর",
+     "role": "nominal part of predicate",
+     "meaning_here": "shadowy and softly overcast with clouds"
+    }
+   ],
+   "structure": "subject - ákásh, predicate - chilo meghamedura",
+   "literal": "The sky was softly overcast with clouds,",
+   "natural": "The sky was softly covered with clouds."
+  },
+  {
+   "index": 4,
+   "words": [
+    {
+     "gloss": "joy-filled",
+     "form": "compound adjective",
+     "parts": "খুশি + ভরা",
+     "role": "attribute / predicative",
+     "meaning_here": "overflowing with mirth"
+    },
+    {
+     "gloss": "water-frogs",
+     "form": "nominative, plural (collective)",
+     "parts": "জল + দর্দুর",
+     "role": "subject",
+     "meaning_here": "frogs in the water (rejoicing in the rainy season)"
+    }
+   ],
+   "structure": "subject - jala dardur, predicative attribute - khushii-bhará (verb [were] omitted)",
+   "literal": "[Were] joy-filled water-frogs.",
+   "natural": "Water-frogs were filled with mirth."
+  },
+  {
+   "index": 5,
+   "words": [
+    {
+     "gloss": "was blowing",
+     "form": "past continuous, 3rd person, sádhu",
+     "parts": "বহ্ + ইতেছিল",
+     "role": "predicate",
+     "meaning_here": "blew, streamed"
+    },
+    {
+     "gloss": "with jasmine",
+     "form": "nominative/indefinite case (as modifier to madhur)",
+     "parts": "যূথী",
+     "role": "attribute",
+     "meaning_here": "jasmine (yúthii)"
+    },
+    {
+     "gloss": "sweet",
+     "form": "adjective",
+     "parts": "মধুর",
+     "role": "attribute to pavan",
+     "meaning_here": "fragrant, sweet"
+    },
+    {
+     "gloss": "wind",
+     "form": "nominative, singular",
+     "parts": "পবন",
+     "role": "subject",
+     "meaning_here": "wind"
+    },
+    {
+     "gloss": "with emotion / passion",
+     "form": "nominative, singular",
+     "parts": "আবেগ",
+     "role": "object to bhare'",
+     "meaning_here": "emotional surge, passion"
+    },
+    {
+     "gloss": "filling",
+     "form": "conjunctive participle",
+     "parts": "ভর্ + এ",
+     "role": "adverbial of manner",
+     "meaning_here": "with fervor, gustily"
+    }
+   ],
+   "structure": "predicate - vaitechilo, subject - pavan (with attributes júthii madhur), adverbial - áveg bhare'",
+   "literal": "Was blowing with jasmine sweet wind, with passion filling.",
+   "natural": "Gusty winds carried sweet jasmine."
+  },
+  {
+   "index": 6,
+   "words": [
+    {
+     "gloss": "in matter",
+     "form": "locative, singular",
+     "parts": "জড় + এ",
+     "role": "adverbial of sphere / place",
+     "meaning_here": "in crude substance, with matter"
+    },
+    {
+     "gloss": "happened",
+     "form": "past, 3rd person",
+     "parts": "হ + ল",
+     "role": "predicate",
+     "meaning_here": "occurred"
+    },
+    {
+     "gloss": "consciousness-impact",
+     "form": "tatpuruśa compound, nominative",
+     "parts": "চেতন + সংঘাত",
+     "role": "subject",
+     "meaning_here": "collision, impulse of awakening consciousness"
+    }
+   ],
+   "structure": "predicate - hala, subject - cetan-saḿghát, adverbial - jaŕe",
+   "literal": "In matter happened consciousness-impact,",
+   "natural": "Consciousness collided with matter"
+  },
+  {
+   "index": 7,
+   "words": [
+    {
+     "gloss": "of-mind",
+     "form": "genitive, singular",
+     "parts": "মন + এর",
+     "role": "attribute to postposition",
+     "meaning_here": "of the mind, of the heart"
+    },
+    {
+     "gloss": "inside",
+     "form": "postposition (locative form)",
+     "parts": "মাঝ + এ",
+     "role": "postposition with maner",
+     "meaning_here": "deep within"
+    },
+    {
+     "gloss": "mantra-strike",
+     "form": "tatpuruśa compound, nominative",
+     "parts": "মন্ত্র + সম্পাত",
+     "role": "subject (verb hala is implied)",
+     "meaning_here": "descent, striking vibration of the mantra"
+    }
+   ],
+   "structure": "adverbial - maner májhe, subject - mantrasampát (predicate [hala] omitted)",
+   "literal": "Inside the mind [occurred] the mantra's descent.",
+   "natural": "As the mantra struck within the mind."
+  },
+  {
+   "index": 8,
+   "words": [
+    {
+     "gloss": "happened",
+     "form": "past, 3rd person",
+     "parts": "হ + ল",
+     "role": "predicate",
+     "meaning_here": "occurred, took place"
+    },
+    {
+     "gloss": "new",
+     "form": "adjective, sádhu variant",
+     "parts": "নূতন",
+     "role": "attribute to álokapát",
+     "meaning_here": "new, unprecedented"
+    },
+    {
+     "gloss": "lightfall / illumination",
+     "form": "tatpuruśa compound, nominative",
+     "parts": "আলোক + পাত",
+     "role": "subject",
+     "meaning_here": "stream of light, illumination"
+    },
+    {
+     "gloss": "mist / fog",
+     "form": "accusative/stem form",
+     "parts": "কুহেলিকা",
+     "role": "direct object to cire’",
+     "meaning_here": "dense fog, illusion"
+    },
+    {
+     "gloss": "tearing through",
+     "form": "conjunctive participle",
+     "parts": "চির্ + এ",
+     "role": "adverbial of manner",
+     "meaning_here": "rending, cleaving"
+    }
+   ],
+   "structure": "predicate - hala, subject - nútan álokapát, adverbial of manner - kuheliká cire’",
+   "literal": "Happened new lightfall, fog tearing through.",
+   "natural": "New lightfall tore through the fog."
+  }
+ ],
+ "heard": [
+  "Performers sing the insertion 'áj mane paŕe' at the end of stanzas",
+  "In the word dardur / dadur, one hears a simplification to dadura in performances"
+ ],
+ "uncertain": [],
+ "interpretation": "Shrávańii Púrńimá is the full moon night of the monsoon month of Shrávańa, possessing deep spiritual significance in the Tantric tradition (a time of profound initiation and awakening). In the song, this natural imagery of a stormy monsoon night is linked to the moment of the disciple's spiritual awakening: the strike of the divine mantra (mantrasampát) cuts through the slumber and inertia of matter (jaŕe hala cetan-saḿghát), tearing through the veil of ignorance and illusion (kuheliká cire') with the bright light of supreme realization.",
+ "generated": {
+  "by": "gemini",
+  "model": "gemini-flash-latest",
+  "date": "2026-10-20",
+  "verified": false,
+  "from": "ru"
+ },
+ "problems": []
+}
