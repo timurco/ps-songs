@@ -1,0 +1,297 @@
+{
+ "number": 25,
+ "lang": "en",
+ "title": "O people of the world, keep watching!",
+ "lead": "A song in Hindi/Urdu dedicated to Neohumanism. It shows how spiritual humanism through love unites loving hearts with the Supreme Principle forever.",
+ "lines": [
+  {
+   "index": 0,
+   "words": [
+    {
+     "gloss": "O people of the world,",
+     "form": "vocative case, plural (Hindi/Urdu)",
+     "parts": "duniyá + válá + oṋ",
+     "role": "address",
+     "meaning_here": "O inhabitants of this fleeting world",
+     "etymology": "Arabic dunyā (world) + Hindi possessive suffix -vālā"
+    },
+    {
+     "gloss": "watching",
+     "form": "imperfect participle",
+     "parts": "tákná + te",
+     "role": "auxiliary verb as part of continuous aspect",
+     "meaning_here": "gazing intently, observing",
+     "etymology": "Hindi tāknā (to stare, look intently)"
+    },
+    {
+     "gloss": "keep on,",
+     "form": "imperative mood (familiar 'you / tum'), present/future tense",
+     "parts": "rahná + o",
+     "role": "predicate",
+     "meaning_here": "continue to remain (tākte raho: keep watching / do not look away)",
+     "etymology": "Hindi rahnā (to stay, remain)"
+    }
+   ],
+   "structure": "Address (DUNIYÁVÁLOṊ) + compound continuous verbal predicate in imperative mood (TÁKTE RAHO).",
+   "literal": "O people of the world, gazing intently continue to remain!",
+   "natural": "O people of the world, behold and keep watching!",
+   "image_note": "The song is composed in Hindi/Urdu. An address to people immersed in worldly affairs, calling upon them to witness the unfolding spiritual transformation."
+  },
+  {
+   "index": 1,
+   "words": [
+    {
+     "gloss": "I",
+     "form": "1st person plural (used as honorific singular 'I')",
+     "parts": "ham",
+     "role": "subject",
+     "meaning_here": "I (the Supreme Consciousness)",
+     "etymology": "Sanskrit aham -> Shauraseni Prakrit hamme -> Hindi ham"
+    },
+    {
+     "gloss": "to [their] sights",
+     "form": "plural, oblique case with dative/accusative marker -ko",
+     "parts": "nazar + oṋ + ko",
+     "role": "indirect object",
+     "meaning_here": "to the sights, to the seeking gazes (of those looking towards Him)",
+     "etymology": "Arabic nazar (glance, sight)"
+    },
+    {
+     "gloss": "a precious gift",
+     "form": "singular, direct object",
+     "parts": "nazaráńá",
+     "role": "direct object",
+     "meaning_here": "an offering, a precious present (of Myself)",
+     "etymology": "Arabic/Persian nazrāna (gift presented in reverence or love)"
+    },
+    {
+     "gloss": "having given,",
+     "form": "perfect participle from denā (to give)",
+     "parts": "dená -> diye",
+     "role": "main verb of compound predicate",
+     "meaning_here": "giving, bestowing",
+     "etymology": "Sanskrit datta -> Hindi diyā"
+    },
+    {
+     "gloss": "went on [kept giving].",
+     "form": "past perfect tense from jānā (to go), plural",
+     "parts": "jáná -> gaye",
+     "role": "auxiliary verb in a compound action",
+     "meaning_here": "departed, continued doing (diye gaye: gave unsparingly)",
+     "etymology": "Sanskrit gata -> Prakrit gaa -> Hindi gayā"
+    }
+   ],
+   "structure": "Subject (HAM) + indirect object (NAZAROṊKO) + direct object (NAZARÁNÁ) + compound predicate of completed process (DIYE GYAYE).",
+   "literal": "We [to seeking] gazes a gift granted and went on.",
+   "natural": "To every seeking gaze, I bestowed a precious gift.",
+   "image_note": "A wordplay on the root 'nazar' (glance, sight) and 'nazrāna' (a gift offered at a meeting). To the devotee's seeking gaze, the Lord offers Himself."
+  },
+  {
+   "index": 2,
+   "words": [
+    {
+     "gloss": "of humanism",
+     "form": "singular, in genitive possessive construction",
+     "parts": "insániyat",
+     "role": "modifier",
+     "meaning_here": "of humanity, humaneness",
+     "etymology": "Arabic insān (human) + abstract suffix -iyyat"
+    },
+    {
+     "gloss": "[feminine genitive particle]",
+     "form": "genitive postposition, feminine (agrees with roshnī)",
+     "parts": "ká -> kii",
+     "role": "function word",
+     "meaning_here": "belonging to (feminine)"
+    },
+    {
+     "gloss": "this",
+     "form": "demonstrative pronoun, agrees with roshnī",
+     "parts": "yah",
+     "role": "modifier",
+     "meaning_here": "this",
+     "etymology": "Prakrit eho -> Hindi yah"
+    },
+    {
+     "gloss": "light",
+     "form": "feminine, singular, grammatical subject",
+     "parts": "roshanii",
+     "role": "subject",
+     "meaning_here": "radiance, light",
+     "etymology": "Persian rawshan / roshan (bright) + abstract suffix -ī"
+    },
+    {
+     "gloss": "having spread",
+     "form": "stem of verb phailnā (to spread, diffuse)",
+     "parts": "phailná -> phail",
+     "role": "semantic base of compound predicate",
+     "meaning_here": "diffusing, spreading"
+    },
+    {
+     "gloss": "has become [spread].",
+     "form": "past perfect tense, feminine (from jānā)",
+     "parts": "jáná -> gayii",
+     "role": "auxiliary verb of completion",
+     "meaning_here": "fully spread out"
+    }
+   ],
+   "structure": "Modifier (INSÁNIYAT KII) + modifier (IYAH) + subject (ROSHNII) + compound predicate (PHAEL GAYII).",
+   "literal": "Of humanism this light has spread.",
+   "natural": "Now this light of true humanism has spread everywhere,",
+   "image_note": "The light of Neohumanism dispels the darkness of dogmas and narrowness, illuminating the entire world."
+  },
+  {
+   "index": 3,
+   "words": [
+    {
+     "gloss": "spiritual",
+     "form": "indeclinable modifier",
+     "parts": "rúh + ánii",
+     "role": "modifier to insániyat",
+     "meaning_here": "ensouled, deeply spiritual",
+     "etymology": "Arabic rūḥ (spirit, soul) + relative adjective suffix -ānī"
+    },
+    {
+     "gloss": "humanity",
+     "form": "feminine, subject",
+     "parts": "insániyat",
+     "role": "subject",
+     "meaning_here": "humanism, benevolence towards all beings",
+     "etymology": "Arabic insān + -iyyat"
+    },
+    {
+     "gloss": "heart",
+     "form": "singular, oblique base",
+     "parts": "dil",
+     "role": "adverbial of place (with postposition me)",
+     "meaning_here": "in the heart, inside the mind",
+     "etymology": "Persian dil (heart, soul)"
+    },
+    {
+     "gloss": "into",
+     "form": "locative postposition (Hindi/Urdu)",
+     "parts": "men / me",
+     "role": "function word",
+     "meaning_here": "inside, into",
+     "etymology": "Sanskrit madhya (middle) -> Prakrit majjhe -> Hindi meṋ"
+    },
+    {
+     "gloss": "has come.",
+     "form": "past perfect tense, feminine (agrees with insániyat)",
+     "parts": "áná -> áyii",
+     "role": "predicate",
+     "meaning_here": "entered, permeated",
+     "etymology": "Sanskrit āyāta -> Hindi āyā"
+    }
+   ],
+   "structure": "Modifier (RÚHÁNII) + subject (INSÁNIYAT) + adverbial of place (DIL ME) + predicate (ÁYII).",
+   "literal": "Spiritual humanity into the heart has entered.",
+   "natural": "Spiritual humanism has entered into every heart.",
+   "image_note": "Neohumanism is humanism rooted in the spiritual bond connecting all living beings with the One Creator."
+  },
+  {
+   "index": 4,
+   "words": [
+    {
+     "gloss": "loving hearts [by]",
+     "form": "plural with ergative marker -ne",
+     "parts": "dil-dár + oṋ + ne",
+     "role": "subject (agent of action)",
+     "meaning_here": "those endowed with a loving heart; generous, devoted souls",
+     "etymology": "Persian dil (heart) + dār (holding) + Hindi agentive marker ne"
+    },
+    {
+     "gloss": "this",
+     "form": "demonstrative pronoun, object",
+     "parts": "yah",
+     "role": "direct object",
+     "meaning_here": "this"
+    },
+    {
+     "gloss": "what",
+     "form": "interrogative pronoun",
+     "parts": "kyá",
+     "role": "adverbial / interrogative word",
+     "meaning_here": "what indeed, what an incredible wonder",
+     "etymology": "Sanskrit kim -> Prakrit kia -> Hindi kyā"
+    },
+    {
+     "gloss": "have done?",
+     "form": "past perfect tense, masculine (agrees with yah/kyā)",
+     "parts": "karná -> kiyá",
+     "role": "predicate",
+     "meaning_here": "accomplished, performed",
+     "etymology": "Sanskrit kṛta -> Prakrit kia -> Hindi kiyā"
+    }
+   ],
+   "structure": "Subject in ergative case (DIL DÁRON NE) + object (IYAH) + question word (KYÁ) + predicate (KIYÁ).",
+   "literal": "By those with heart this what was done?",
+   "natural": "And what have these loving hearts done?",
+   "image_note": "A rhetorical question of wonder: through love, devotees have achieved the miracle of union with the Infinite."
+  },
+  {
+   "index": 5,
+   "words": [
+    {
+     "gloss": "I",
+     "form": "1st person plural used as majestic singular",
+     "parts": "ham",
+     "role": "subject",
+     "meaning_here": "I (the Lord)"
+    },
+    {
+     "gloss": "indeed",
+     "form": "emphatic particle",
+     "parts": "to",
+     "role": "intensifier",
+     "meaning_here": "indeed, truly, after all"
+    },
+    {
+     "gloss": "of all",
+     "form": "plural, oblique case with possessive postposition -ke",
+     "parts": "sab + oṋ + ke",
+     "role": "modifier to diloṋ",
+     "meaning_here": "of all people, of every creature",
+     "etymology": "Sanskrit sarva -> Hindi sab"
+    },
+    {
+     "gloss": "to the hearts",
+     "form": "plural with instrumental/ablative postposition -se",
+     "parts": "dil + oṋ + se",
+     "role": "indirect object",
+     "meaning_here": "to their hearts, with their souls"
+    },
+    {
+     "gloss": "inextricably clinging",
+     "form": "predicative adjective/adverb (Urdu/Persian chasp / chaspidan)",
+     "parts": "casap (Persian chasp / chaspiidan)",
+     "role": "nominal part of compound predicate",
+     "meaning_here": "inseparably adhered, firmly bonded, inextricably merged",
+     "etymology": "Persian chaspidan (to stick, cling, unite closely)"
+    },
+    {
+     "gloss": "have become.",
+     "form": "auxiliary verb of completion (from jānā), plural",
+     "parts": "jáná -> gaye",
+     "role": "verbal copula of predicate",
+     "meaning_here": "have become, have completely merged"
+    }
+   ],
+   "structure": "Subject (HAM) + intensifier (TO) + modifier (SABOṊKE) + object (DILOṊSE) + compound predicative predicate (CASAP GYAYE).",
+   "literal": "I indeed to all's hearts inextricably clinging have become.",
+   "natural": "For I have become inextricably bound to the hearts of all.",
+   "image_note": "The word 'chasp' conveys total inseparability, where the Divine has clinged inextricably to the loving hearts of the devotees."
+  }
+ ],
+ "heard": [],
+ "uncertain": [],
+ "interpretation": "The song is written in Hindi/Urdu and heralds the dawn of the Neohumanist era. The Lord calls out to the entire world: to those who genuinely sought the ultimate truth, He revealed Himself. Spiritual humanism is not merely an abstract philosophy, but a light transforming the human heart. Those who cultivate unconditional love have bound the Lord in bonds of devotion so firmly that He has become inseparable from their hearts.",
+ "generated": {
+  "by": "gemini",
+  "model": "gemini-flash-latest",
+  "date": "2026-10-20",
+  "verified": false,
+  "from": "ru"
+ },
+ "problems": []
+}
