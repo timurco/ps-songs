@@ -1,0 +1,749 @@
+{
+ "number": 5000,
+ "lang": "en",
+ "title": "My Coming Is for All",
+ "lead": "The jubilee 5000th song of Prabhat Samgiita is spoken from the perspective of the Supreme Entity (Táraka Brahma), taking a vow to shoulder the burden of suffering and saḿskáras of every single being. For the student, the recurring first-person future forms (nobo, robo, dobo, korbo) and the overarching theme of all-embracing love and solace are essential.",
+ "lines": [
+  {
+   "index": 0,
+   "words": [
+    {
+     "gloss": "of all",
+     "form": "genitive",
+     "parts": "সব + -আর",
+     "role": "attribute",
+     "meaning_here": "of all, of everyone"
+    },
+    {
+     "gloss": "for",
+     "form": "indeclinable",
+     "parts": "তরে",
+     "role": "adverbial of purpose",
+     "meaning_here": "for the sake of, for"
+    },
+    {
+     "gloss": "coming",
+     "form": "verbal noun, nominative",
+     "parts": "আস্ + -আ",
+     "role": "subject",
+     "meaning_here": "arrival, advent"
+    },
+    {
+     "gloss": "my",
+     "form": "genitive",
+     "parts": "আমি + -আর",
+     "role": "attribute",
+     "meaning_here": "my"
+    }
+   ],
+   "structure": "Subject - \"আসা আমার\" (my coming), adverbial of purpose - \"সবার তরে\" (for all). The copula predicate [is] is omitted.",
+   "literal": "For the sake of all coming my,",
+   "natural": "For everyone - my coming,"
+  },
+  {
+   "index": 1,
+   "words": [
+    {
+     "gloss": "of everyone precisely",
+     "form": "genitive with emphatic particle -ই",
+     "parts": "সবার + -ই",
+     "role": "attribute",
+     "meaning_here": "of everyone without exception"
+    },
+    {
+     "gloss": "burden",
+     "form": "accusative",
+     "parts": "ভার",
+     "role": "direct object",
+     "meaning_here": "burden, weight (of saḿskáras, troubles)"
+    },
+    {
+     "gloss": "I",
+     "form": "nominative, 1st person singular",
+     "parts": "আমি",
+     "role": "subject",
+     "meaning_here": "I"
+    },
+    {
+     "gloss": "shall take",
+     "form": "future, 1st person (poetic form of নেব)",
+     "parts": "নে- + -ব",
+     "role": "predicate",
+     "meaning_here": "I shall take upon Myself, I will carry"
+    }
+   ],
+   "structure": "Subject - \"আমি\" (I), predicate - \"নব\" (will take), direct object with modifier - \"সবারই ভার\" (the burden of each and every one).",
+   "literal": "Of everyone indeed burden I shall take.",
+   "natural": "The burden of everyone I shall take upon Myself."
+  },
+  {
+   "index": 2,
+   "words": [
+    {
+     "gloss": "of all",
+     "form": "genitive",
+     "parts": "সব + -আর",
+     "role": "attribute",
+     "meaning_here": "of everyone"
+    },
+    {
+     "gloss": "in labors",
+     "form": "locative",
+     "parts": "কাজ + -এ",
+     "role": "adverbial modifier",
+     "meaning_here": "in deeds, in labors"
+    },
+    {
+     "gloss": "of all",
+     "form": "genitive",
+     "parts": "সব + -আর",
+     "role": "attribute",
+     "meaning_here": "of everyone"
+    },
+    {
+     "gloss": "in shame",
+     "form": "locative",
+     "parts": "লাজ + -এ",
+     "role": "adverbial modifier",
+     "meaning_here": "in shame, in embarrassment, in degradation"
+    }
+   ],
+   "structure": "Homogeneous adverbials of place and situation (\"সবার কাজে\", \"সবার লাজে\"), modifying the predicate \"রব\" in the following line.",
+   "literal": "In everyone's work, in everyone's shame,",
+   "natural": "In everyone's labors, in everyone's shame,"
+  },
+  {
+   "index": 3,
+   "words": [
+    {
+     "gloss": "of all",
+     "form": "genitive",
+     "parts": "সব + -আর",
+     "role": "attribute",
+     "meaning_here": "of all, of everyone"
+    },
+    {
+     "gloss": "beside",
+     "form": "locative used as postposition",
+     "parts": "পাশ + -এ",
+     "role": "adverbial of place",
+     "meaning_here": "by the side of, beside"
+    },
+    {
+     "gloss": "I",
+     "form": "nominative, 1st person singular",
+     "parts": "আমি",
+     "role": "subject",
+     "meaning_here": "I"
+    },
+    {
+     "gloss": "shall remain",
+     "form": "future, 1st person",
+     "parts": "র- + -ব",
+     "role": "predicate",
+     "meaning_here": "I will remain, I shall dwell"
+    }
+   ],
+   "structure": "Subject - \"আমি\" (I), predicate - \"রব\" (shall stay/remain), adverbial of place - \"সবার পাশে\" (by everyone's side).",
+   "literal": "Everyone's beside I shall remain,",
+   "natural": "Beside everyone I shall stand,"
+  },
+  {
+   "index": 4,
+   "words": [
+    {
+     "gloss": "of everyone precisely",
+     "form": "genitive with emphatic particle -ই",
+     "parts": "সবার + -ই",
+     "role": "attribute",
+     "meaning_here": "of everyone without exception"
+    },
+    {
+     "gloss": "burden",
+     "form": "accusative",
+     "parts": "ভার",
+     "role": "direct object",
+     "meaning_here": "load, burden"
+    },
+    {
+     "gloss": "I",
+     "form": "nominative, 1st person singular",
+     "parts": "আমি",
+     "role": "subject",
+     "meaning_here": "I"
+    },
+    {
+     "gloss": "shall take",
+     "form": "future, 1st person",
+     "parts": "নে- + -ব",
+     "role": "predicate",
+     "meaning_here": "I will take upon Myself"
+    }
+   ],
+   "structure": "Repetition of line 1: subject - \"আমি\", predicate - \"নব\", object - \"সবারই ভার\".",
+   "literal": "Of everyone indeed burden I shall take.",
+   "natural": "The burden of everyone I shall take upon Myself."
+  },
+  {
+   "index": 5,
+   "words": [
+    {
+     "gloss": "by no means",
+     "form": "negative verb with emphatic particle -কো",
+     "parts": "নেই + -কো",
+     "role": "predicate",
+     "meaning_here": "am by no means"
+    },
+    {
+     "gloss": "I",
+     "form": "nominative, 1st person singular",
+     "parts": "আমি",
+     "role": "subject",
+     "meaning_here": "I"
+    },
+    {
+     "gloss": "distant",
+     "form": "genitive of substantivized adjective",
+     "parts": "দূর + -এর",
+     "role": "attribute",
+     "meaning_here": "distant, strange"
+    },
+    {
+     "gloss": "anyone",
+     "form": "nominative",
+     "parts": "কেহ",
+     "role": "nominal part of predicate",
+     "meaning_here": "someone, stranger"
+    }
+   ],
+   "structure": "Subject - \"আমি\" (I), negative predicate with copula - \"নেইকো\" (am not), nominal part - \"দূরের কেহ\" (someone distant/strange).",
+   "literal": "Not at all I distant anyone,",
+   "natural": "I am not distant or a stranger to anyone,"
+  },
+  {
+   "index": 6,
+   "words": [
+    {
+     "gloss": "[vocalization]",
+     "form": "vocal chant",
+     "parts": "আ",
+     "role": "interjection",
+     "meaning_here": "vocal chant"
+    }
+   ],
+   "structure": "Vocal improvisation (áláp).",
+   "literal": "Ah-ah-ah...",
+   "natural": "Ah-ah-ah..."
+  },
+  {
+   "index": 7,
+   "words": [
+    {
+     "gloss": "by no means",
+     "form": "negative verb with particle -কো",
+     "parts": "নেই + -কো",
+     "role": "predicate",
+     "meaning_here": "am by no means"
+    },
+    {
+     "gloss": "I",
+     "form": "nominative",
+     "parts": "আমি",
+     "role": "subject",
+     "meaning_here": "I"
+    },
+    {
+     "gloss": "distant",
+     "form": "genitive",
+     "parts": "দূর + -এর",
+     "role": "attribute",
+     "meaning_here": "distant, strange"
+    },
+    {
+     "gloss": "anyone",
+     "form": "nominative",
+     "parts": "কেহ",
+     "role": "nominal part of predicate",
+     "meaning_here": "someone, stranger"
+    }
+   ],
+   "structure": "Repetition of line 5.",
+   "literal": "Not at all I distant anyone,",
+   "natural": "I am not distant or a stranger to anyone,"
+  },
+  {
+   "index": 8,
+   "words": [
+    {
+     "gloss": "of all",
+     "form": "genitive",
+     "parts": "সব + -আর",
+     "role": "attribute",
+     "meaning_here": "of everyone"
+    },
+    {
+     "gloss": "in home",
+     "form": "locative",
+     "parts": "ঘর + -এ",
+     "role": "adverbial of place",
+     "meaning_here": "in the house, in the home"
+    },
+    {
+     "gloss": "my",
+     "form": "genitive",
+     "parts": "আমি + -আর",
+     "role": "attribute",
+     "meaning_here": "my"
+    },
+    {
+     "gloss": "home",
+     "form": "nominative",
+     "parts": "গেহ",
+     "role": "subject",
+     "meaning_here": "home, abode"
+    }
+   ],
+   "structure": "Subject - \"আমার গেহ\" (my home), adverbial of place - \"সবার ঘরে\" (in everyone's home). Copula predicate [is] is omitted.",
+   "literal": "Everyone's in the home my home,",
+   "natural": "In everyone's home is My abode."
+  },
+  {
+   "index": 9,
+   "words": [
+    {
+     "gloss": "love",
+     "form": "nominative/accusative",
+     "parts": "ভালো + বাসা",
+     "role": "direct object",
+     "meaning_here": "love"
+    },
+    {
+     "gloss": "warmth",
+     "form": "nominative/accusative",
+     "parts": "মম + -তা",
+     "role": "direct object",
+     "meaning_here": "affection, tender warmth",
+     "etymology": "Sanskrit mamatā (sense of mine-ness, affinity)"
+    },
+    {
+     "gloss": "tenderness",
+     "form": "nominative/accusative",
+     "parts": "স্নেহ",
+     "role": "direct object",
+     "meaning_here": "tender care, affection toward juniors"
+    }
+   ],
+   "structure": "A series of coordinate objects modifying the verb of line 10 (\"দব\"): \"ভালোবাসা, মমতা, স্নেহ\".",
+   "literal": "Love, warmth, tenderness",
+   "natural": "Love, affection and tenderness"
+  },
+  {
+   "index": 10,
+   "words": [
+    {
+     "gloss": "fully",
+     "form": "indeclinable",
+     "parts": "উজার",
+     "role": "adverbial of manner",
+     "meaning_here": "completely, unstintingly, emptying to the dregs"
+    },
+    {
+     "gloss": "having made",
+     "form": "conjunctive participle",
+     "parts": "কর- + -এ",
+     "role": "adverbial (in the phrase উজার করে)",
+     "meaning_here": "emptying out, without reserve"
+    },
+    {
+     "gloss": "to all",
+     "form": "dative/locative (poetic)",
+     "parts": "সব + -এ",
+     "role": "indirect object",
+     "meaning_here": "to everyone, to all"
+    },
+    {
+     "gloss": "I will give",
+     "form": "future, 1st person (poetic form of দেব)",
+     "parts": "দে- + -ব",
+     "role": "predicate",
+     "meaning_here": "I will give, I will bestow"
+    }
+   ],
+   "structure": "Adverbial of manner - \"উজার করে\" (to the last drop, unstintingly), indirect object - \"সবে\" (to all), predicate - \"দোব\" (will give). Subject [I] is implied.",
+   "literal": "Having emptied [all], to all I will give,",
+   "natural": "I shall give away completely to all,"
+  },
+  {
+   "index": 11,
+   "words": [
+    {
+     "gloss": "of everyone precisely",
+     "form": "genitive with particle -ই",
+     "parts": "সবার + -ই",
+     "role": "attribute",
+     "meaning_here": "of everyone"
+    },
+    {
+     "gloss": "burden",
+     "form": "accusative",
+     "parts": "ভার",
+     "role": "direct object",
+     "meaning_here": "heaviness, burden"
+    },
+    {
+     "gloss": "I",
+     "form": "nominative",
+     "parts": "আমি",
+     "role": "subject",
+     "meaning_here": "I"
+    },
+    {
+     "gloss": "shall take",
+     "form": "future, 1st person",
+     "parts": "নে- + -ব",
+     "role": "predicate",
+     "meaning_here": "will take"
+    }
+   ],
+   "structure": "Repetition of line 1.",
+   "literal": "Of everyone indeed burden I shall take.",
+   "natural": "The burden of everyone I shall take upon Myself."
+  },
+  {
+   "index": 12,
+   "words": [
+    {
+     "gloss": "toward whom",
+     "form": "genitive of relative pronoun",
+     "parts": "যা- + -র",
+     "role": "dependent of postposition",
+     "meaning_here": "with respect to whom, on whose part"
+    },
+    {
+     "gloss": "toward",
+     "form": "indeclinable",
+     "parts": "প্রতি",
+     "role": "postposition",
+     "meaning_here": "toward someone"
+    },
+    {
+     "gloss": "whatever",
+     "form": "nominative, relative",
+     "parts": "যা",
+     "role": "attribute",
+     "meaning_here": "whatever there may be, which"
+    },
+    {
+     "gloss": "has occurred",
+     "form": "present perfect, 3rd person",
+     "parts": "হ- + -য়েছে",
+     "role": "predicate",
+     "meaning_here": "happened, was committed"
+    },
+    {
+     "gloss": "injustice",
+     "form": "nominative",
+     "parts": "অ- (not) + বিচার (justice)",
+     "role": "subject",
+     "meaning_here": "injustice, lawlessness",
+     "etymology": "Sanskrit avicāra"
+    }
+   ],
+   "structure": "Relative clause of condition: \"যার প্রতি\" (toward whomever) \"যা অবিচার হয়েছে\" (whatever injustice has occurred). Corresponds to line 15.",
+   "literal": "Toward whom whatever happened injustice,",
+   "natural": "Whatever injustice has been done to anyone,"
+  },
+  {
+   "index": 13,
+   "words": [
+    {
+     "gloss": "[vocalization]",
+     "form": "vocal chant",
+     "parts": "আ",
+     "role": "interjection",
+     "meaning_here": "vocal chant"
+    }
+   ],
+   "structure": "Vocal chant.",
+   "literal": "Ah-ah-ah...",
+   "natural": "Ah-ah-ah..."
+  },
+  {
+   "index": 14,
+   "words": [
+    {
+     "gloss": "toward whom",
+     "form": "genitive",
+     "parts": "যা- + -র",
+     "role": "dependent of postposition",
+     "meaning_here": "toward whom"
+    },
+    {
+     "gloss": "toward",
+     "form": "indeclinable",
+     "parts": "প্রতি",
+     "role": "postposition",
+     "meaning_here": "to"
+    },
+    {
+     "gloss": "whatever",
+     "form": "nominative",
+     "parts": "যা",
+     "role": "attribute",
+     "meaning_here": "whatever"
+    },
+    {
+     "gloss": "has occurred",
+     "form": "present perfect, 3rd person",
+     "parts": "হ- + -য়েছে",
+     "role": "predicate",
+     "meaning_here": "happened"
+    },
+    {
+     "gloss": "injustice",
+     "form": "nominative",
+     "parts": "অ- + বিচার",
+     "role": "subject",
+     "meaning_here": "injustice"
+    }
+   ],
+   "structure": "Repetition of line 12.",
+   "literal": "Toward whom whatever happened injustice,",
+   "natural": "Whatever injustice has been done to anyone,"
+  },
+  {
+   "index": 15,
+   "words": [
+    {
+     "gloss": "will make",
+     "form": "future, 1st person",
+     "parts": "কর- + -ব",
+     "role": "predicate",
+     "meaning_here": "I will redress, I will put an end to"
+    },
+    {
+     "gloss": "I",
+     "form": "nominative",
+     "parts": "আমি",
+     "role": "subject",
+     "meaning_here": "I"
+    },
+    {
+     "gloss": "for it",
+     "form": "genitive of demonstrative pronoun",
+     "parts": "তা + -র",
+     "role": "attribute",
+     "meaning_here": "to this, for this ill"
+    },
+    {
+     "gloss": "redress",
+     "form": "accusative",
+     "parts": "প্রতি- + কার",
+     "role": "direct object",
+     "meaning_here": "remedy, redress, counteraction",
+     "etymology": "Sanskrit pratikāra"
+    }
+   ],
+   "structure": "Main clause corresponding to lines 12/14. Subject - \"আমি\" (I), predicate with object - \"তার প্রতিকার করব\" (will remedy this).",
+   "literal": "Will make I for it redress,",
+   "natural": "I shall redress and remedy it all,"
+  },
+  {
+   "index": 16,
+   "words": [
+    {
+     "gloss": "will build",
+     "form": "future, 1st person",
+     "parts": "গড়- + -ব",
+     "role": "predicate",
+     "meaning_here": "I will construct, I will establish, I will create"
+    },
+    {
+     "gloss": "on earth",
+     "form": "locative",
+     "parts": "ধরা + -য়",
+     "role": "adverbial of place",
+     "meaning_here": "in the world, on earth",
+     "etymology": "Sanskrit dharā (earth, that which bears)"
+    },
+    {
+     "gloss": "of peace",
+     "form": "genitive",
+     "parts": "শান্তি + -র",
+     "role": "attribute",
+     "meaning_here": "of tranquility, of peace"
+    },
+    {
+     "gloss": "abode",
+     "form": "accusative",
+     "parts": "আধার",
+     "role": "direct object",
+     "meaning_here": "foundation, vessel, receptacle, abode",
+     "etymology": "Sanskrit ādhāra (basis, container)"
+    }
+   ],
+   "structure": "Subject [I] is omitted. Predicate - \"গড়ব\" (will build), adverbial - \"ধরায়\" (on earth), direct object - \"শান্তির আধার\" (abode/basis of peace).",
+   "literal": "Will build on earth of peace vessel,",
+   "natural": "I shall establish an abode of peace on earth,"
+  },
+  {
+   "index": 17,
+   "words": [
+    {
+     "gloss": "of all",
+     "form": "genitive",
+     "parts": "সব + -আর",
+     "role": "attribute",
+     "meaning_here": "of everyone"
+    },
+    {
+     "gloss": "eye",
+     "form": "genitive/attributive form (poetic)",
+     "parts": "আঁখি",
+     "role": "attribute",
+     "meaning_here": "of eyes",
+     "etymology": "from Sanskrit akṣi"
+    },
+    {
+     "gloss": "water [tears]",
+     "form": "accusative",
+     "parts": "জল",
+     "role": "direct object (in the compound আঁখিজল)",
+     "meaning_here": "tears"
+    },
+    {
+     "gloss": "will wipe away",
+     "form": "future, causative/poetic, 1st person",
+     "parts": "মুছ- + -আব",
+     "role": "predicate",
+     "meaning_here": "I will wipe away, dry"
+    }
+   ],
+   "structure": "Subject [I] is omitted. Predicate - \"মুছাব\" (will wipe away), direct object - \"সবার আঁখিজল\" (everyone's tears).",
+   "literal": "Of all eye water will wipe away,",
+   "natural": "I will wipe away the tears from everyone's eyes,"
+  },
+  {
+   "index": 18,
+   "words": [
+    {
+     "gloss": "of everyone precisely",
+     "form": "genitive with emphatic -ই",
+     "parts": "সবার + -ই",
+     "role": "attribute",
+     "meaning_here": "of everyone without exception"
+    },
+    {
+     "gloss": "burden",
+     "form": "accusative",
+     "parts": "ভার",
+     "role": "direct object",
+     "meaning_here": "burden"
+    },
+    {
+     "gloss": "I",
+     "form": "nominative",
+     "parts": "আমি",
+     "role": "subject",
+     "meaning_here": "I"
+    },
+    {
+     "gloss": "shall take",
+     "form": "future, 1st person",
+     "parts": "নে- + -ব",
+     "role": "predicate",
+     "meaning_here": "will take"
+    }
+   ],
+   "structure": "Repetition of line 1.",
+   "literal": "Of everyone indeed burden I shall take.",
+   "natural": "The burden of everyone I shall take upon Myself."
+  },
+  {
+   "index": 19,
+   "words": [
+    {
+     "gloss": "of all",
+     "form": "genitive",
+     "parts": "সব + -আর",
+     "role": "attribute",
+     "meaning_here": "of all"
+    },
+    {
+     "gloss": "for",
+     "form": "indeclinable",
+     "parts": "তরে",
+     "role": "adverbial of purpose",
+     "meaning_here": "for the sake of"
+    },
+    {
+     "gloss": "coming",
+     "form": "nominative",
+     "parts": "আস্ + -আ",
+     "role": "subject",
+     "meaning_here": "coming"
+    },
+    {
+     "gloss": "my",
+     "form": "genitive",
+     "parts": "আমি + -আর",
+     "role": "attribute",
+     "meaning_here": "my"
+    }
+   ],
+   "structure": "Repetition of line 0.",
+   "literal": "For the sake of all coming my,",
+   "natural": "For everyone - my coming,"
+  },
+  {
+   "index": 20,
+   "words": [
+    {
+     "gloss": "of everyone precisely",
+     "form": "genitive with particle -ই",
+     "parts": "সবার + -ই",
+     "role": "attribute",
+     "meaning_here": "of everyone"
+    },
+    {
+     "gloss": "burden",
+     "form": "accusative",
+     "parts": "ভার",
+     "role": "direct object",
+     "meaning_here": "burden"
+    },
+    {
+     "gloss": "I",
+     "form": "nominative",
+     "parts": "আমি",
+     "role": "subject",
+     "meaning_here": "I"
+    },
+    {
+     "gloss": "shall take",
+     "form": "future, 1st person",
+     "parts": "নে- + -ব",
+     "role": "predicate",
+     "meaning_here": "will take"
+    }
+   ],
+   "structure": "Repetition of line 1.",
+   "literal": "Of everyone indeed burden I shall take.",
+   "natural": "The burden of everyone I shall take upon Myself."
+  }
+ ],
+ "heard": [
+  "In the video, subtitles use the spelling 'NAIKO' instead of 'NEIKO' (lines 5 and 7); the singer vocalizes the diphthong 'naiko'/'neiko'.",
+  "The singer repeats the stanzas and the refrain according to traditional musical performance."
+ ],
+ "uncertain": [],
+ "interpretation": "The jubilee song No. 5000 is a direct declaration of the mission of Táraka Brahma (Mahásambhúti) on Earth. It embodies the concept of the Guru's infinite grace, who comes not for a chosen few, but for absolutely every entity, ready to shoulder the weight of all accumulated human saḿskáras, share their hardships, console the suffering, and restore supreme righteousness (dharma) in the world.",
+ "generated": {
+  "by": "gemini",
+  "model": "gemini-flash-latest",
+  "date": "2026-10-20",
+  "verified": false,
+  "from": "ru"
+ },
+ "problems": []
+}
