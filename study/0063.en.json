@@ -1,0 +1,377 @@
+{
+ "number": 63,
+ "lang": "en",
+ "title": "I have arranged the lights, o Lord",
+ "lead": "A prayerful call to the Supreme Being to enter the heart, mind, and the realm of the devotee's highest feelings, framed around the imagery of the lights of Dipavali. For the language learner, poetic Sadhu Bhasa forms (sájáyechi, karite, pheliyá, jágáye) and the locative case of spatial concepts are especially noteworthy.",
+ "lines": [
+  {
+   "index": 0,
+   "words": [
+    {
+     "gloss": "a row of lamps",
+     "form": "nominative/direct case, sg.",
+     "parts": "দীপ + আবলী",
+     "role": "direct object",
+     "meaning_here": "rows of lamps, Dipavali lights",
+     "etymology": "Skt. dīpa (lamp) + āvalī (row, chain)"
+    },
+    {
+     "gloss": "I have arranged",
+     "form": "present perfect, 1st p. (Sadhu/poet. for সাজিয়েছি)",
+     "parts": "সাজা- + -য়েছি",
+     "role": "predicate",
+     "meaning_here": "arranged, lit, prepared for the festival"
+    },
+    {
+     "gloss": "Lord",
+     "form": "vocative case",
+     "parts": "প্রভু",
+     "role": "address",
+     "meaning_here": "o Lord"
+    }
+   ],
+   "structure": "প্রভু (address) [আমি (implied subject)] দীপাবলী (object) সাজায়েছি (predicate).",
+   "literal": "A row of lights I have arranged, Lord,",
+   "natural": "I have arranged the lights, o Lord,"
+  },
+  {
+   "index": 1,
+   "words": [
+    {
+     "gloss": "You",
+     "form": "acc./dat. case (poet. for তোমায় / তোমাকে)",
+     "parts": "তোমা- + -রে",
+     "role": "object of infinitive",
+     "meaning_here": "You"
+    },
+    {
+     "gloss": "to perform",
+     "form": "infinitive of purpose (Sadhu/poet. for করতে)",
+     "parts": "কর- + -ইতে",
+     "role": "adverbial of purpose",
+     "meaning_here": "in order to perform"
+    },
+    {
+     "gloss": "a welcome",
+     "form": "direct case",
+     "parts": "বরণ",
+     "role": "part of compound verbal phrase",
+     "meaning_here": "solemn reception, welcoming a revered guest"
+    }
+   ],
+   "structure": "তোমারে (object) বরণ করিতে (compound verbal phrase of purpose modifying «সাজায়েছি»).",
+   "literal": "You in order to perform welcoming reception,",
+   "natural": "to welcome You."
+  },
+  {
+   "index": 2,
+   "words": [
+    {
+     "gloss": "come",
+     "form": "imperative mood, 2nd p. (ordinary/intimate)",
+     "parts": "আসা -> এসো",
+     "role": "predicate",
+     "meaning_here": "come, enter"
+    },
+    {
+     "gloss": "You",
+     "form": "nominative case, 2nd p.",
+     "parts": "তুমি",
+     "role": "subject",
+     "meaning_here": "You"
+    },
+    {
+     "gloss": "into the heart",
+     "form": "locative case (suffix -এ)",
+     "parts": "হৃদি (heart) + মাঝে (inside)",
+     "role": "adverbial of place",
+     "meaning_here": "into the very heart, into the depths of the heart",
+     "etymology": "Skt. hṛd / hṛdi (in the heart) + Beng. মাঝ (middle)"
+    }
+   ],
+   "structure": "তুমি (subject) হৃদিমাঝে (adverbial of place) এসো (predicate).",
+   "literal": "Come You into the depths of the heart,",
+   "natural": "Come into my heart,"
+  },
+  {
+   "index": 3,
+   "words": [
+    {
+     "gloss": "every",
+     "form": "root repetition (Sadhu/poet. for নিত্য)",
+     "parts": "নিতি",
+     "role": "adverbial of time",
+     "meaning_here": "always, day by day",
+     "etymology": "Skt. nitya (constant, eternal)"
+    },
+    {
+     "gloss": "day",
+     "form": "reduplication with intensive meaning",
+     "parts": "নিতি",
+     "role": "adverbial of time",
+     "meaning_here": "day after day, incessantly"
+    },
+    {
+     "gloss": "new",
+     "form": "indeclinable qualitative adjective",
+     "parts": "নব",
+     "role": "attribute to সাজে",
+     "meaning_here": "ever-new, renewed",
+     "etymology": "Skt. nava (new)"
+    },
+    {
+     "gloss": "garb",
+     "form": "locative/instrumental case (suffix -এ)",
+     "parts": "সাজ + -এ",
+     "role": "adverbial of manner",
+     "meaning_here": "in attire, in garments, in appearance"
+    }
+   ],
+   "structure": "নিতি নিতি (adverbial of time) নব সাজে (adverbial of manner modifying «এসো»).",
+   "literal": "Every day in a new attire,",
+   "natural": "day by day in garments ever new,"
+  },
+  {
+   "index": 4,
+   "words": [
+    {
+     "gloss": "slowly",
+     "form": "locative/adverbial case (-এ)",
+     "parts": "ধীর + -এ",
+     "role": "adverbial of manner",
+     "meaning_here": "softly, unhurriedly"
+    },
+    {
+     "gloss": "slowly",
+     "form": "reduplication (emphasizes smoothness)",
+     "parts": "ধীর + -এ",
+     "role": "adverbial of manner",
+     "meaning_here": "very smoothly, step by step"
+    },
+    {
+     "gloss": "placing (stepping)",
+     "form": "conjunctive participle / manner (Sadhu for ফেলে)",
+     "parts": "ফেল- + -ইয়া",
+     "role": "participial clause",
+     "meaning_here": "placing, setting down (feet)"
+    },
+    {
+     "gloss": "feet",
+     "form": "direct case",
+     "parts": "চরণ",
+     "role": "object of participle ফেলিয়া",
+     "meaning_here": "lotus feet, steps"
+    }
+   ],
+   "structure": "ধীরে ধীরে (adverbial) চরণ ফেলিয়া (participial clause, modifies «এসো»).",
+   "literal": "Slowly-slowly setting down [Your] feet.",
+   "natural": "stepping softly with slow steps."
+  },
+  {
+   "index": 5,
+   "words": [
+    {
+     "gloss": "come",
+     "form": "imperative mood, 2nd p.",
+     "parts": "আসা -> এসো",
+     "role": "predicate",
+     "meaning_here": "come"
+    },
+    {
+     "gloss": "You",
+     "form": "nominative case",
+     "parts": "তুমি",
+     "role": "subject",
+     "meaning_here": "You"
+    },
+    {
+     "gloss": "into the mind",
+     "form": "locative case (-এ)",
+     "parts": "মন (mind, thought) + মাঝে (inside)",
+     "role": "adverbial of place",
+     "meaning_here": "into the depths of the mind, into the inner realm"
+    }
+   ],
+   "structure": "তুমি (subject) মনমাঝে (adverbial of place) এসো (predicate).",
+   "literal": "Come You into the depth of the mind,",
+   "natural": "Come into my mind,"
+  },
+  {
+   "index": 6,
+   "words": [
+    {
+     "gloss": "more",
+     "form": "intensifier",
+     "parts": "আর + -ও",
+     "role": "adverbial of degree",
+     "meaning_here": "with new, even more abundant"
+    },
+    {
+     "gloss": "songs",
+     "form": "instrumental/locative case (-এ)",
+     "parts": "গান + -এ",
+     "role": "adverbial of manner",
+     "meaning_here": "with singing, in songs"
+    },
+    {
+     "gloss": "more",
+     "form": "intensifier",
+     "parts": "আর + -ও",
+     "role": "adverbial of degree",
+     "meaning_here": "even more"
+    },
+    {
+     "gloss": "dance",
+     "form": "instrumental/locative case (-এ)",
+     "parts": "নাচ + -এ",
+     "role": "adverbial of manner",
+     "meaning_here": "with dance, in dances"
+    }
+   ],
+   "structure": "আরো গানে আরো নাচে (coordinate adverbials of manner modifying «এসো»).",
+   "literal": "With more songs, with more dances,",
+   "natural": "with more song and more dance,"
+  },
+  {
+   "index": 7,
+   "words": [
+    {
+     "gloss": "tender",
+     "form": "indeclinable adjective",
+     "parts": "মৃদু",
+     "role": "attribute to হাসি",
+     "meaning_here": "soft, gentle",
+     "etymology": "Skt. mṛdu (soft, tender)"
+    },
+    {
+     "gloss": "smile",
+     "form": "direct case",
+     "parts": "হাসি",
+     "role": "object of বিকিরণ করি'",
+     "meaning_here": "smile, radiant joy"
+    },
+    {
+     "gloss": "making",
+     "form": "conjunctive participle (contracted from করিয়া)",
+     "parts": "কর- + -ই'",
+     "role": "verbal part of compound phrase",
+     "meaning_here": "performing, doing"
+    },
+    {
+     "gloss": "radiation",
+     "form": "direct case",
+     "parts": "বি- + কিরণ",
+     "role": "nominal part of compound verbal phrase",
+     "meaning_here": "dispersion, radiance all around",
+     "etymology": "Skt. vi- (apart, around) + kṝ (scatter, cast)"
+    }
+   ],
+   "structure": "মৃদু হাসি (object) বিকিরণ করি' (compound participial clause, modifies «এসো»).",
+   "literal": "A tender smile making radiation,",
+   "natural": "and radiate Your tender smile."
+  },
+  {
+   "index": 8,
+   "words": [
+    {
+     "gloss": "come",
+     "form": "imperative mood, 2nd p.",
+     "parts": "আসা -> এসো",
+     "role": "predicate",
+     "meaning_here": "come"
+    },
+    {
+     "gloss": "You",
+     "form": "nominative case",
+     "parts": "তুমি",
+     "role": "subject",
+     "meaning_here": "You"
+    },
+    {
+     "gloss": "into the realm of ideation",
+     "form": "locative case (-এ)",
+     "parts": "ভাব (feeling, idea, ecstasy) + লোক (world, realm)",
+     "role": "adverbial of place",
+     "meaning_here": "into the sphere of subtle spiritual feelings and contemplation",
+     "etymology": "Skt. bhāva + loka"
+    }
+   ],
+   "structure": "তুমি (subject) ভাবলোকে (adverbial of place) এসো (predicate).",
+   "literal": "Come You into the realm of higher ideas,",
+   "natural": "Come into the realm of my deepest feelings,"
+  },
+  {
+   "index": 9,
+   "words": [
+    {
+     "gloss": "with rhythm",
+     "form": "instrumental/locative case (-এ)",
+     "parts": "ছন্দ + -এ",
+     "role": "adverbial of manner",
+     "meaning_here": "in harmony, in rhythmic motion",
+     "etymology": "Skt. chandas (metre, rhythm)"
+    },
+    {
+     "gloss": "and",
+     "form": "coordinating conjunction",
+     "parts": "ও",
+     "role": "conjunction",
+     "meaning_here": "and"
+    },
+    {
+     "gloss": "in new light",
+     "form": "instrumental/locative case (-এ)",
+     "parts": "নব (new) + আলোক (light) + -এ",
+     "role": "adverbial of manner",
+     "meaning_here": "in the rays of a new dawn, of new illumination",
+     "etymology": "Skt. nava + āloka"
+    }
+   ],
+   "structure": "ছন্দে ও নবালোকে (coordinate adverbials modifying «এসো»).",
+   "literal": "In rhythm and in new light,",
+   "natural": "with rhythm and new light,"
+  },
+  {
+   "index": 10,
+   "words": [
+    {
+     "gloss": "awakening",
+     "form": "conjunctive participle (Sadhu/poet. for জাগিয়ে)",
+     "parts": "জাগা- + -য়ে",
+     "role": "adverbial of manner",
+     "meaning_here": "awakening, stirring"
+    },
+    {
+     "gloss": "charming",
+     "form": "qualitative adjective",
+     "parts": "মোহন",
+     "role": "attribute to স্পন্দন",
+     "meaning_here": "enchanting, captivating the mind",
+     "etymology": "Skt. mohana (fascinating, charming)"
+    },
+    {
+     "gloss": "vibration",
+     "form": "direct case",
+     "parts": "স্পন্দন",
+     "role": "object of participle জাগায়ে",
+     "meaning_here": "pulsation, vibration, thrill of life",
+     "etymology": "Skt. spandana (quivering, throbbing)"
+    }
+   ],
+   "structure": "মোহন স্পন্দন (object) জাগায়ে (participle modifying «এসো»).",
+   "literal": "Awakening a captivating throb.",
+   "natural": "and exude Your charming vibration."
+  }
+ ],
+ "heard": [],
+ "uncertain": [],
+ "interpretation": "The lights of the Dipavali festival symbolize the dispelling of the darkness of ignorance and the devotee's joyous readiness for the advent of the Supreme. The devotee decorates not only the physical world with lamps, but opens all levels of their being before Him: the heart (hṛdi), the mind (mana), and the subtlest sphere of contemplation and inspiration (bhāvaloka). The Lord enters with silent footsteps, in the ever-renewing forms of divine play (līlā), filling the aspirant's being with cosmic rhythm, music, and spiritual vibration (spandan), which awakens the soul from its slumber.",
+ "generated": {
+  "by": "gemini",
+  "model": "gemini-flash-latest",
+  "date": "2026-10-20",
+  "verified": false,
+  "from": "ru"
+ },
+ "problems": []
+}
