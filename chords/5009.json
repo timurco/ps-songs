@@ -1,0 +1,389 @@
+{
+ "number": 5009,
+ "title": "This life is for him",
+ "key": "Am",
+ "shapes": [
+  {
+   "name": "Am",
+   "f": [
+    -1,
+    0,
+    2,
+    2,
+    1,
+    0
+   ],
+   "fn": [
+    0,
+    0,
+    2,
+    3,
+    1,
+    0
+   ]
+  },
+  {
+   "name": "C",
+   "f": [
+    -1,
+    3,
+    2,
+    0,
+    1,
+    0
+   ],
+   "fn": [
+    0,
+    3,
+    2,
+    0,
+    1,
+    0
+   ]
+  },
+  {
+   "name": "G",
+   "f": [
+    3,
+    2,
+    0,
+    0,
+    0,
+    3
+   ],
+   "fn": [
+    2,
+    1,
+    0,
+    0,
+    0,
+    3
+   ]
+  }
+ ],
+ "stanzas": [
+  [
+   {
+    "index": 0,
+    "chunks": [
+     [
+      "Am",
+      "THIS "
+     ],
+     [
+      null,
+      "LIFE "
+     ],
+     [
+      "C",
+      "IS "
+     ],
+     [
+      null,
+      "FOR "
+     ],
+     [
+      null,
+      "HIM,"
+     ]
+    ]
+   },
+   {
+    "index": 1,
+    "chunks": [
+     [
+      "G",
+      "THIS "
+     ],
+     [
+      null,
+      "MIND "
+     ],
+     [
+      null,
+      "IS "
+     ],
+     [
+      "Am",
+      "FOR "
+     ],
+     [
+      null,
+      "HIM,"
+     ]
+    ]
+   },
+   {
+    "index": 2,
+    "chunks": [
+     [
+      "G",
+      "THIS "
+     ],
+     [
+      "Am",
+      "SOUL "
+     ],
+     [
+      null,
+      "IS "
+     ],
+     [
+      null,
+      "FOR "
+     ],
+     [
+      null,
+      "HIM."
+     ]
+    ]
+   }
+  ],
+  [
+   {
+    "index": 3,
+    "chunks": [
+     [
+      "Am",
+      "HIS "
+     ],
+     [
+      null,
+      "UNIVERSE "
+     ],
+     [
+      null,
+      "WE "
+     ],
+     [
+      null,
+      "WILL "
+     ],
+     [
+      "G",
+      "SERVE"
+     ]
+    ]
+   },
+   {
+    "index": 4,
+    "chunks": [
+     [
+      "G",
+      "IN "
+     ],
+     [
+      "Am",
+      "COORDINATING "
+     ],
+     [
+      null,
+      "TEAM."
+     ]
+    ]
+   }
+  ],
+  [
+   {
+    "index": 5,
+    "chunks": [
+     [
+      "Am",
+      "LIGHT "
+     ],
+     [
+      null,
+      "BELONGS "
+     ],
+     [
+      null,
+      "TO "
+     ],
+     [
+      "G",
+      "HIM,"
+     ]
+    ]
+   },
+   {
+    "index": 6,
+    "chunks": [
+     [
+      "G",
+      "NIGHT "
+     ],
+     [
+      null,
+      "BELONGS "
+     ],
+     [
+      "Am",
+      "TO "
+     ],
+     [
+      null,
+      "HIM,"
+     ]
+    ]
+   },
+   {
+    "index": 7,
+    "chunks": [
+     [
+      "G",
+      "MIGHT "
+     ],
+     [
+      "Am",
+      "BELONGS "
+     ],
+     [
+      null,
+      "TO "
+     ],
+     [
+      null,
+      "HIM."
+     ]
+    ]
+   }
+  ],
+  [
+   {
+    "index": 8,
+    "chunks": [
+     [
+      "G",
+      "UNDAUNTED "
+     ],
+     [
+      "Am",
+      "IN "
+     ],
+     [
+      null,
+      "SMILING "
+     ],
+     [
+      null,
+      "FACE"
+     ]
+    ]
+   },
+   {
+    "index": 9,
+    "chunks": [
+     [
+      "G",
+      "HIS "
+     ],
+     [
+      "Am",
+      "GRACE "
+     ],
+     [
+      null,
+      "WE "
+     ],
+     [
+      null,
+      "WILL "
+     ],
+     [
+      null,
+      "SING."
+     ]
+    ]
+   }
+  ]
+ ],
+ "refrain": [
+  0,
+  1,
+  2
+ ],
+ "road": [
+  0,
+  1,
+  0,
+  1,
+  0,
+  3,
+  0,
+  1,
+  0
+ ],
+ "tala": "kaharva",
+ "recordings": [
+  {
+   "name": "amps-CPgX1iXB890",
+   "url": "https://www.youtube.com/watch?v=CPgX1iXB890",
+   "singer": "AMPS",
+   "tonic": "C",
+   "mode": "minor",
+   "cents": 28,
+   "capo": 3,
+   "heard": [
+    9,
+    10
+   ],
+   "clashes": 0,
+   "bpm": 80.7
+  },
+  {
+   "name": "sarkarverse",
+   "url": "https://sarkarverse.org/PS/4000-5018-f/5009%20-%20This%20life%20is%20for%20Him.mp3",
+   "singer": "Acarya Priyashivananda Avadhuta",
+   "tonic": "C#",
+   "mode": "minor",
+   "cents": -2,
+   "capo": 4,
+   "heard": [
+    10,
+    10
+   ],
+   "clashes": 0,
+   "bpm": 86.1
+  },
+  {
+   "name": "psnet-1",
+   "url": "https://www.prabhatasamgiita.net/4000-5018/5009%20THIS%20LIFE%20IS%20FOR%20HIM%2C%20THIS%20MIND%20IS%20FOR%20HIM%202.mp3",
+   "singer": "",
+   "tonic": "A#",
+   "mode": "minor",
+   "cents": 2,
+   "capo": 1,
+   "heard": [
+    10,
+    10
+   ],
+   "clashes": 0,
+   "bpm": 143.6
+  },
+  {
+   "name": "psnet-2",
+   "url": "https://www.prabhatasamgiita.net/4000-5018/5009%20THIS%20LIFE%20IS%20FOR%20HIM%2C%20THIS%20MIND%20IS%20FOR%20HIM.mp3",
+   "singer": "",
+   "tonic": "C#",
+   "mode": "minor",
+   "cents": 43,
+   "capo": 4,
+   "heard": [
+    8,
+    10
+   ],
+   "clashes": 0,
+   "bpm": 86.1
+  }
+ ],
+ "source": "Аккорды подобраны программой по голосу ролика AMPS: под пением бурдон, гармонии в записи нет, и аккорды сочинены к держанным нотам по привычкам песенника. Сверены с 4 записями.",
+ "origin": "voice",
+ "notes": [
+  "Голос нигде не спорит с аккордами: проверено по 4 записям."
+ ],
+ "generated": {
+  "by": "chords.py",
+  "date": "2026-10-20",
+  "verified": false
+ }
+}
