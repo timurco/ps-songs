@@ -1,0 +1,394 @@
+{
+ "number": 63,
+ "title": "Ди́па́боли́ ша́джа́йечхи пробху",
+ "key": "Am",
+ "shapes": [
+  {
+   "name": "Am",
+   "f": [
+    -1,
+    0,
+    2,
+    2,
+    1,
+    0
+   ],
+   "fn": [
+    0,
+    0,
+    2,
+    3,
+    1,
+    0
+   ]
+  },
+  {
+   "name": "C",
+   "f": [
+    -1,
+    3,
+    2,
+    0,
+    1,
+    0
+   ],
+   "fn": [
+    0,
+    3,
+    2,
+    0,
+    1,
+    0
+   ]
+  },
+  {
+   "name": "G",
+   "f": [
+    3,
+    2,
+    0,
+    0,
+    0,
+    3
+   ],
+   "fn": [
+    2,
+    1,
+    0,
+    0,
+    0,
+    3
+   ]
+  },
+  {
+   "name": "Em",
+   "f": [
+    0,
+    2,
+    2,
+    0,
+    0,
+    0
+   ],
+   "fn": [
+    0,
+    2,
+    3,
+    0,
+    0,
+    0
+   ]
+  }
+ ],
+ "stanzas": [
+  [
+   {
+    "index": 0,
+    "chunks": [
+     [
+      "Am",
+      "ДИ́ПА́БОЛИ́ "
+     ],
+     [
+      "C",
+      "ША́ДЖА́ЙЕЧХИ "
+     ],
+     [
+      null,
+      "ПРОБХУ"
+     ]
+    ]
+   },
+   {
+    "index": 1,
+    "chunks": [
+     [
+      "G",
+      "ТОМА́РЕ "
+     ],
+     [
+      "Em",
+      "КОРИТЕ "
+     ],
+     [
+      "Am",
+      "БОРОН́"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 1
+    }
+   }
+  ],
+  [
+   {
+    "index": 2,
+    "chunks": [
+     [
+      "Am",
+      "ЭШО "
+     ],
+     [
+      null,
+      "ТУМИ "
+     ],
+     [
+      null,
+      "ХРИДИМА́ДЖХЕ"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 2
+    }
+   },
+   {
+    "index": 3,
+    "chunks": [
+     [
+      "G",
+      "НИТИ "
+     ],
+     [
+      null,
+      "НИТИ "
+     ],
+     [
+      null,
+      "НОБО "
+     ],
+     [
+      null,
+      "ША́ДЖЕ"
+     ]
+    ]
+   },
+   {
+    "index": 4,
+    "chunks": [
+     [
+      "C",
+      "ДХИ́РЕ "
+     ],
+     [
+      null,
+      "ДХИ́РЕ "
+     ],
+     [
+      "G",
+      "ПХЕЛИЯ́ "
+     ],
+     [
+      "Am",
+      "ЧОРОН́"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 1
+    }
+   }
+  ],
+  [
+   {
+    "index": 5,
+    "chunks": [
+     [
+      "Am",
+      "ЭШО "
+     ],
+     [
+      null,
+      "ТУМИ "
+     ],
+     [
+      null,
+      "МОНОМА́ДЖХЕ"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 2
+    }
+   },
+   {
+    "index": 6,
+    "chunks": [
+     [
+      "G",
+      "А́РО "
+     ],
+     [
+      null,
+      "ГА́НЕ "
+     ],
+     [
+      null,
+      "А́РО "
+     ],
+     [
+      null,
+      "НА́ЧЕ"
+     ]
+    ]
+   },
+   {
+    "index": 7,
+    "chunks": [
+     [
+      "C",
+      "МРИДУ "
+     ],
+     [
+      null,
+      "ХА́ШИ "
+     ],
+     [
+      "G",
+      "КОРИ "
+     ],
+     [
+      "Am",
+      "БИКИРОН́"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 1
+    }
+   }
+  ],
+  [
+   {
+    "index": 8,
+    "chunks": [
+     [
+      "Am",
+      "ЭШО "
+     ],
+     [
+      null,
+      "ТУМИ "
+     ],
+     [
+      null,
+      "БХА́БОЛОКЕ"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 2
+    }
+   },
+   {
+    "index": 9,
+    "chunks": [
+     [
+      "G",
+      "ЧХОНДЕ "
+     ],
+     [
+      null,
+      "О "
+     ],
+     [
+      null,
+      "НОБА́ЛОКЕ"
+     ]
+    ]
+   },
+   {
+    "index": 10,
+    "chunks": [
+     [
+      "C",
+      "ДЖА́ГА́ЙЕ "
+     ],
+     [
+      "G",
+      "МОХОНО "
+     ],
+     [
+      "Am",
+      "ШПОНДОН"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 1
+    }
+   }
+  ]
+ ],
+ "refrain": [
+  0,
+  1
+ ],
+ "road": [
+  0,
+  1,
+  0,
+  2,
+  0,
+  3,
+  0
+ ],
+ "tala": "kaharva",
+ "recordings": [
+  {
+   "name": "sarkarverse",
+   "url": "https://sarkarverse.org/PS/1-999-f/__63%20DIIPA%27VALII%20SA%27JA%27YECHI%20PRABHU.mp3",
+   "singer": "Acarya Priyashivananda Avadhuta",
+   "tonic": "D",
+   "mode": "minor",
+   "cents": -13,
+   "capo": 5,
+   "heard": [
+    8,
+    8
+   ],
+   "clashes": 0,
+   "bpm": 95.7
+  },
+  {
+   "name": "psbot",
+   "url": "https://app.psbot.eu/play_audio/63/",
+   "singer": "Gunavati",
+   "tonic": "C#",
+   "mode": "minor",
+   "cents": 30,
+   "capo": 4,
+   "heard": [
+    5,
+    8
+   ],
+   "clashes": 1,
+   "bpm": 129.2
+  },
+  {
+   "name": "amps-s4ZRQCIax9s",
+   "url": "https://www.youtube.com/watch?v=s4ZRQCIax9s",
+   "singer": "AMPS",
+   "tonic": "D",
+   "mode": "minor",
+   "cents": -15,
+   "capo": 5,
+   "heard": [
+    8,
+    8
+   ],
+   "clashes": 0,
+   "bpm": 95.7
+  }
+ ],
+ "source": "Аккорды из песенника, сверены по голосу с 3 записями.",
+ "notes": [
+  "КОРИТЕ: у Gunavati голос держит C, с Em он спорит, ложится C. Так в 1 записи из 3, в листе Em оставлен."
+ ],
+ "generated": {
+  "by": "chords.py",
+  "date": "2026-10-20",
+  "verified": false
+ }
+}
