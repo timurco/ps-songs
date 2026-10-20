@@ -1,0 +1,350 @@
+{
+ "number": 12,
+ "lang": "en",
+ "title": "With Eyes Full of Affection",
+ "lead": "In the analysis of the song, it is important to note the poetic tadbhava forms (hiyá instead of hṛdaya, mukutá instead of muktā) and the blend of awe and fear with tenderness toward the Unknown Traveler.",
+ "lines": [
+  {
+   "index": 0,
+   "words": [
+    {
+     "gloss": "in the eyes",
+     "form": "locative case (ending -e)",
+     "parts": "নয়ন + এ",
+     "role": "adverbial of place",
+     "meaning_here": "in the eyes, in the gaze",
+     "note": "Sanskrit nayana (leading, eye)."
+    },
+    {
+     "gloss": "with affection / tenderness",
+     "form": "nominative case",
+     "parts": "মম (my) + তা (abstract noun suffix)",
+     "role": "object of the participial adjective",
+     "meaning_here": "heartfelt attachment, tenderness, sense of kinship",
+     "note": "Literally “the feeling that something is one's own, dear”."
+    },
+    {
+     "gloss": "filled",
+     "form": "participial adjective / verbal participle",
+     "parts": "ভর + আ",
+     "role": "modifier of the subject “traveler”",
+     "meaning_here": "full, brimming"
+    }
+   ],
+   "structure": "Modifier of the subject “traveler” (line 2): adverbial of place (নয়নে) + qualitative modifier (মমতা ভরা).",
+   "literal": "In the eyes with tenderness full,",
+   "natural": "With eyes full of affection,"
+  },
+  {
+   "index": 1,
+   "words": [
+    {
+     "gloss": "in the smile",
+     "form": "locative case (ending -te)",
+     "parts": "হাসি + তে",
+     "role": "adverbial of place",
+     "meaning_here": "in the smile"
+    },
+    {
+     "gloss": "pearls showering",
+     "form": "compound word, verbal modifier",
+     "parts": "মুকুতা (pearl, poetic from মুক্তা) + ঝরা (shedding, pouring)",
+     "role": "modifier of the subject “traveler”",
+     "meaning_here": "scattering pearls, whose smile sparkles like pearl droplets",
+     "note": "মুকুতা is a poetic tadbhava form of Sanskrit muktā (pearl)."
+    }
+   ],
+   "structure": "Modifier of the subject “traveler” (line 2): adverbial of place (হাসিতে) + qualitative modifier (মুকুতাঝরা).",
+   "literal": "In the smile pearls showering,",
+   "natural": "And with a jewel-like flow on His smile,"
+  },
+  {
+   "index": 2,
+   "words": [
+    {
+     "gloss": "an unknown",
+     "form": "adjective with negative prefix",
+     "parts": "অ- (un-) + জানা (known, familiar)",
+     "role": "modifier",
+     "meaning_here": "unfamiliar, unknown"
+    },
+    {
+     "gloss": "traveler",
+     "form": "masculine gender, nominative case",
+     "parts": "পথ (path) + ইক",
+     "role": "subject",
+     "meaning_here": "traveler, wayfarer"
+    },
+    {
+     "gloss": "one",
+     "form": "indefinite numeral value (article “a certain”)",
+     "parts": "এক",
+     "role": "modifier (postpositive)",
+     "meaning_here": "a certain, one"
+    },
+    {
+     "gloss": "came",
+     "form": "simple past tense, 3rd person (simple form)",
+     "parts": "আস- -> এল + ও",
+     "role": "predicate",
+     "meaning_here": "came, appeared"
+    }
+   ],
+   "structure": "Subject: পথিক (with the words অজানা and এক); predicate: এলো.",
+   "literal": "An unknown traveler one came.",
+   "natural": "The unknown traveler has come."
+  },
+  {
+   "index": 3,
+   "words": [
+    {
+     "gloss": "the heart",
+     "form": "nominative case, poetic form",
+     "parts": "হিয়া (from Skt. hṛdaya)",
+     "role": "subject",
+     "meaning_here": "heart, bosom"
+    },
+    {
+     "gloss": "trembles",
+     "form": "simple present tense, 3rd person",
+     "parts": "কাঁপ্ + এ",
+     "role": "predicate",
+     "meaning_here": "quivers, trembles"
+    },
+    {
+     "gloss": "with a fine tremor",
+     "form": "onomatopoeic adverb (reduplication)",
+     "parts": "থর + থর",
+     "role": "adverbial of manner",
+     "meaning_here": "with a fine, uncontrollable trembling"
+    }
+   ],
+   "structure": "Subject: হিয়া; predicate: কাঁপে; adverbial of manner: থরথর.",
+   "literal": "The heart trembles with a fine tremor,",
+   "natural": "My heart trembles in awe,"
+  },
+  {
+   "index": 4,
+   "words": [
+    {
+     "gloss": "this [kind of]",
+     "form": "demonstrative pronoun",
+     "parts": "এ",
+     "role": "modifier of ভাব",
+     "meaning_here": "this"
+    },
+    {
+     "gloss": "what a",
+     "form": "interrogative-exclamatory pronoun",
+     "parts": "কি",
+     "role": "modifier of attribute / exclamation",
+     "meaning_here": "what a, what kind of"
+    },
+    {
+     "gloss": "feeling / state",
+     "form": "nominative case",
+     "parts": "ভাব",
+     "role": "nominal part of the predicate / topic of exclamation",
+     "meaning_here": "inner experience, emotional state, spiritual wave"
+    },
+    {
+     "gloss": "captivating",
+     "form": "compound adjective, nominative case",
+     "parts": "মনঃ + হর (captivating the mind)",
+     "role": "modifier of ভাব",
+     "meaning_here": "captivating, enchanting, wondrous"
+    }
+   ],
+   "structure": "Exclamatory sentence: demonstrative pronoun (এ) + exclamatory particle (কি) + subject (ভাব) + qualitative modifier (মনোহর).",
+   "literal": "This what feeling enchanting!",
+   "natural": "What is this captivating experience!"
+  },
+  {
+   "index": 5,
+   "words": [
+    {
+     "gloss": "this",
+     "form": "demonstrative pronoun",
+     "parts": "এ",
+     "role": "modifier of আনন্দ",
+     "meaning_here": "this"
+    },
+    {
+     "gloss": "joy / bliss",
+     "form": "nominative case (functioning as accusative)",
+     "parts": "আ + নন্দ্ + অ",
+     "role": "direct object of দিলো",
+     "meaning_here": "bliss, deep joy"
+    },
+    {
+     "gloss": "who",
+     "form": "interrogative pronoun, nominative case",
+     "parts": "কে",
+     "role": "interrogative subject",
+     "meaning_here": "who"
+    },
+    {
+     "gloss": "ever",
+     "form": "emphatic interrogative particle",
+     "parts": "বা",
+     "role": "emphasis of the question",
+     "meaning_here": "ever (কে বা = who ever)"
+    },
+    {
+     "gloss": "the one",
+     "form": "personal / demonstrative pronoun of the 3rd person",
+     "parts": "সে",
+     "role": "correlative pronoun (paired with যে)",
+     "meaning_here": "He, that very one"
+    },
+    {
+     "gloss": "who",
+     "form": "relative pronoun, connective",
+     "parts": "যে",
+     "role": "connective word of the subordinate clause",
+     "meaning_here": "who, which"
+    },
+    {
+     "gloss": "gave",
+     "form": "simple past tense, 3rd person",
+     "parts": "দে- -> দিল + ও",
+     "role": "predicate",
+     "meaning_here": "bestowed, gave"
+    }
+   ],
+   "structure": "Interrogative-relative construction: direct object (এ আনন্দ) + question/subject (কে বা সে) + relative connective with predicate (যে দিলো).",
+   "literal": "This bliss who ever [is] that one who gave?",
+   "natural": "Who gave this experience of bliss?"
+  },
+  {
+   "index": 6,
+   "words": [
+    {
+     "gloss": "the mind / heart",
+     "form": "nominative case",
+     "parts": "মন",
+     "role": "subject of the first predicate",
+     "meaning_here": "mind, soul, inner longing"
+    },
+    {
+     "gloss": "longs",
+     "form": "simple present tense, 3rd person (sadhu / poetic)",
+     "parts": "চাহ্ + এ",
+     "role": "predicate to মন",
+     "meaning_here": "wants, aspires"
+    },
+    {
+     "gloss": "always",
+     "form": "indeclinable adverb of time",
+     "parts": "সদা",
+     "role": "adverbial of time",
+     "meaning_here": "always, incessantly"
+    },
+    {
+     "gloss": "[that] I gaze",
+     "form": "simple present tense, 1st person",
+     "parts": "দেখ্ + ই",
+     "role": "predicate of the subordinate clause of purpose / desire",
+     "meaning_here": "I see, look (in the sense: “wants me to keep looking”)"
+    }
+   ],
+   "structure": "Complex asyndetic construction: subject (মন) + verb of wanting (চাহে) + dependent action with implied 1st person: adverbial (সদা) + predicate (দেখি).",
+   "literal": "The mind longs, [that I] always look,",
+   "natural": "My mind wants to always see Him,"
+  },
+  {
+   "index": 7,
+   "words": [
+    {
+     "gloss": "out of shame",
+     "form": "instrumental-locative case of cause (ending -e)",
+     "parts": "লাজ + এ",
+     "role": "adverbial of cause",
+     "meaning_here": "out of shyness, from embarrassment",
+     "note": "Poetic tadbhava from Sanskrit lajjā."
+    },
+    {
+     "gloss": "out of fear",
+     "form": "instrumental-locative case of cause (ending -e)",
+     "parts": "ভয় + এ",
+     "role": "adverbial of cause",
+     "meaning_here": "out of reverent awe, timidity"
+    },
+    {
+     "gloss": "do not",
+     "form": "poetic negative particle",
+     "parts": "নাহি",
+     "role": "negation with the predicate",
+     "meaning_here": "not"
+    },
+    {
+     "gloss": "look",
+     "form": "simple present tense, 1st person",
+     "parts": "তাক্ + ই",
+     "role": "predicate (1st person)",
+     "meaning_here": "I look, dare to look"
+    }
+   ],
+   "structure": "Adverbials of cause (লাজে ভয়ে) + negation with 1st person predicate (নাহি তাকি); the subject “I” is implied.",
+   "literal": "Out of shyness, out of fear I do not look.",
+   "natural": "But in shame and fear I dare not."
+  },
+  {
+   "index": 8,
+   "words": [
+    {
+     "gloss": "this",
+     "form": "demonstrative pronoun",
+     "parts": "এ",
+     "role": "modifier",
+     "meaning_here": "this"
+    },
+    {
+     "gloss": "sweet",
+     "form": "qualitative adjective, nominative case",
+     "parts": "মধু + র",
+     "role": "modifier of মধু",
+     "meaning_here": "captivating, sweet, matchless"
+    },
+    {
+     "gloss": "sweetness / honey",
+     "form": "nominative case",
+     "parts": "মধু",
+     "role": "subject",
+     "meaning_here": "honey, nectar, spiritual sweetness"
+    },
+    {
+     "gloss": "where",
+     "form": "interrogative adverb of place (poetic form of কোথায়)",
+     "parts": "কোথা",
+     "role": "adverbial of place in a question",
+     "meaning_here": "where, whence"
+    },
+    {
+     "gloss": "was [hidden]",
+     "form": "simple past tense of the verb of being, 3rd person",
+     "parts": "ছিল + ও",
+     "role": "predicate",
+     "meaning_here": "was, was located"
+    }
+   ],
+   "structure": "Interrogative sentence: subject group (এ মধুর মধু) + adverbial of place (কোথা) + existential predicate (ছিলো).",
+   "literal": "This sweet sweetness where was?",
+   "natural": "Where does the sweetness of such honey lie hidden?"
+  }
+ ],
+ "heard": [
+  "In the word mukutájhará, the singer clearly articulates an open syllable and pause: mukutá jhará",
+  "The verb tharathara is drawn out and separated as tharo tharo"
+ ],
+ "uncertain": [],
+ "interpretation": "The song conveys the experience of the sudden appearance of the Supreme Beloved (Parama Puruśa) in the form of an Unknown Traveler (Ajáná pathik). His gaze is filled with unconditional maternal care and love (mamatá), and His smile sheds a radiance of purity (mukutá jhará). The encounter with the Infinite awakens in the devotee's heart a tremor of sacred awe and shyness (láje bhaye), in which the mind dares not look directly, yet becomes saturated with the deepest nectar of divine sweetness.",
+ "generated": {
+  "by": "gemini",
+  "model": "gemini-flash-latest",
+  "date": "2026-10-20",
+  "verified": false,
+  "from": "ru"
+ },
+ "problems": []
+}
