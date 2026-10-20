@@ -71,11 +71,11 @@
       "THIS "
      ],
      [
-      null,
+      "C",
       "LIFE "
      ],
      [
-      "C",
+      null,
       "IS "
      ],
      [
@@ -213,11 +213,11 @@
       "NIGHT "
      ],
      [
-      null,
+      "Am",
       "BELONGS "
      ],
      [
-      "Am",
+      null,
       "TO "
      ],
      [
@@ -253,15 +253,15 @@
     "index": 8,
     "chunks": [
      [
-      "G",
+      "Am",
       "UNDAUNTED "
      ],
      [
-      "Am",
+      null,
       "IN "
      ],
      [
-      null,
+      "G",
       "SMILING "
      ],
      [
@@ -306,8 +306,6 @@
   0,
   1,
   0,
-  1,
-  0,
   3,
   0,
   1,
@@ -321,10 +319,10 @@
    "singer": "AMPS",
    "tonic": "C",
    "mode": "minor",
-   "cents": 28,
+   "cents": 27,
    "capo": 3,
    "heard": [
-    9,
+    8,
     10
    ],
    "clashes": 0,
@@ -336,7 +334,7 @@
    "singer": "Acarya Priyashivananda Avadhuta",
    "tonic": "C#",
    "mode": "minor",
-   "cents": -2,
+   "cents": -5,
    "capo": 4,
    "heard": [
     10,
@@ -348,22 +346,22 @@
   {
    "name": "psnet-1",
    "url": "https://www.prabhatasamgiita.net/4000-5018/5009%20THIS%20LIFE%20IS%20FOR%20HIM%2C%20THIS%20MIND%20IS%20FOR%20HIM%202.mp3",
-   "singer": "",
-   "tonic": "A#",
+   "singer": "prabhatasamgiita.net, запись 1",
+   "tonic": "G#",
    "mode": "minor",
-   "cents": 2,
-   "capo": 1,
+   "cents": 1,
+   "capo": 11,
    "heard": [
     10,
     10
    ],
-   "clashes": 0,
+   "clashes": 3,
    "bpm": 143.6
   },
   {
    "name": "psnet-2",
    "url": "https://www.prabhatasamgiita.net/4000-5018/5009%20THIS%20LIFE%20IS%20FOR%20HIM%2C%20THIS%20MIND%20IS%20FOR%20HIM.mp3",
-   "singer": "",
+   "singer": "prabhatasamgiita.net, запись 2",
    "tonic": "C#",
    "mode": "minor",
    "cents": 43,
@@ -379,7 +377,9 @@
  "source": "Аккорды подобраны программой по голосу ролика AMPS: под пением бурдон, гармонии в записи нет, и аккорды сочинены к держанным нотам по привычкам песенника. Сверены с 4 записями.",
  "origin": "voice",
  "notes": [
-  "Голос нигде не спорит с аккордами: проверено по 4 записям."
+  "COORDINATING: у psnet-1 голос не держит ни одной ноты долго, но с Am спорит, ложится D. Так в 1 записи из 4, в листе Am оставлен.",
+  "HIM,: у psnet-1 голос держит F#, с Am он спорит, ложится F#m. Так в 1 записи из 4, в листе Am оставлен.",
+  "WE: у psnet-1 голос не держит ни одной ноты долго, но с Am спорит, ложится D. Так в 1 записи из 4, в листе Am оставлен."
  ],
  "generated": {
   "by": "chords.py",
