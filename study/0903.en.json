@@ -56,7 +56,7 @@
     {
      "gloss": "was.",
      "form": "simple past, 3rd person",
-     "parts": "ছিল + о",
+     "parts": "ছিল + ো",
      "role": "predicate",
      "meaning_here": "was, prevailed"
     }
@@ -471,7 +471,5 @@
   "verified": false,
   "from": "ru"
  },
- "problems": [
-  "строка 1: кириллица о\","
- ]
+ "problems": []
 }
