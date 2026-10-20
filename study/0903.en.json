@@ -1,0 +1,477 @@
+{
+ "number": 903,
+ "lang": "en",
+ "title": "When You came, the moon was full",
+ "lead": "A poetic reflective song about the wandering of the soul (\"balaka\") and its return home guided by the sound of the Lord's footsteps. In grammar, pay attention to the compound verbal constructions with auxiliary verbs of motion and completion (এসেছিলে, ভরে গেলো, চিনে নিলো).",
+ "lines": [
+  {
+   "index": 0,
+   "words": [
+    {
+     "gloss": "You",
+     "form": "personal, 2nd person (familiar/polite), nominative",
+     "parts": "তুমি",
+     "role": "subject of subordinate clause",
+     "meaning_here": "You (the Divine Beloved)",
+     "etymology": "Skt. त्वम् (tvam)"
+    },
+    {
+     "gloss": "when",
+     "form": "temporal conjunction",
+     "parts": "য- + -খন",
+     "role": "adverbial of time (conjunction)",
+     "meaning_here": "at the time when"
+    },
+    {
+     "gloss": "came,",
+     "form": "past perfect (pluperfect), 2nd person",
+     "parts": "এসে (conjunctive participle) + ছিলে",
+     "role": "predicate of subordinate clause",
+     "meaning_here": "came, appeared"
+    }
+   ],
+   "structure": "Subordinate temporal clause: subject তুমি, adverbial of time যখন, predicate এসেছিলে.",
+   "literal": "You when came,",
+   "natural": "When You came,",
+   "image_note": "The full moon (púrńimá) in spiritual tradition is associated with the blossoming of consciousness and supreme grace."
+  },
+  {
+   "index": 1,
+   "words": [
+    {
+     "gloss": "then",
+     "form": "temporal adverb",
+     "parts": "ত- + -খন",
+     "role": "adverbial of time",
+     "meaning_here": "then, at that moment"
+    },
+    {
+     "gloss": "full moon",
+     "form": "inanimate, nominative, singular",
+     "parts": "পূর্ণিমন্ / পূর্ণিমা",
+     "role": "nominal part of predicate / subject",
+     "meaning_here": "full moon night",
+     "etymology": "Skt. पूर्णिमा (pūrṇimā)"
+    },
+    {
+     "gloss": "was.",
+     "form": "simple past, 3rd person",
+     "parts": "ছিল + о",
+     "role": "predicate",
+     "meaning_here": "was, prevailed"
+    }
+   ],
+   "structure": "Main clause: adverbial of time তখন, subject/predicative পূর্ণিমা, copula ছিলো.",
+   "literal": "Then full moon was.",
+   "natural": "The moon was full."
+  },
+  {
+   "index": 2,
+   "words": [
+    {
+     "gloss": "hide-and-seek",
+     "form": "inanimate, nominative, singular",
+     "parts": "লুকো- + চুরি",
+     "role": "object to চল",
+     "meaning_here": "a game of hide-and-seek"
+    },
+    {
+     "gloss": "of the moon",
+     "form": "animate/inanimate, genitive, singular (-এর)",
+     "parts": "চাঁদ + এর",
+     "role": "dependent on the postposition সঙ্গে",
+     "meaning_here": "of the moon",
+     "etymology": "Skt. चन्द्र (candra)"
+    },
+    {
+     "gloss": "with",
+     "form": "postposition of accompaniment with genitive",
+     "parts": "সঙ্গ + -এ",
+     "role": "postposition",
+     "meaning_here": "together with, with",
+     "etymology": "Skt. सङ्ग (saṅga)"
+    }
+   ],
+   "structure": "Modifier/adverbial to the predicate of the next line: hide-and-seek (লুকোচুরি) with the moon (চাঁদের সঙ্গে).",
+   "literal": "Hide-and-seek of the moon with",
+   "natural": "Clouds were playing hide-and-seek",
+   "image_note": "The play of clouds with the moon is an image of the mind's fickleness and the veiling of divine light."
+  },
+  {
+   "index": 3,
+   "words": [
+    {
+     "gloss": "of clouds",
+     "form": "inanimate, genitive, plural/singular (-এর)",
+     "parts": "মেঘ + এর",
+     "role": "attribute to চল",
+     "meaning_here": "of clouds",
+     "etymology": "Skt. मेघ (megha)"
+    },
+    {
+     "gloss": "movement [was]",
+     "form": "inanimate, nominative, singular",
+     "parts": "চল্",
+     "role": "subject",
+     "meaning_here": "running, movement, play"
+    },
+    {
+     "gloss": "was.",
+     "form": "simple past, 3rd person",
+     "parts": "ছিল",
+     "role": "predicate",
+     "meaning_here": "was, was taking place"
+    }
+   ],
+   "structure": "Subject মেঘের চল, predicate ছিলো.",
+   "literal": "Of clouds movement was.",
+   "natural": "Around the moon."
+  },
+  {
+   "index": 4,
+   "words": [
+    {
+     "gloss": "of distant",
+     "form": "qualitative, uninflected",
+     "parts": "দূর",
+     "role": "attribute to আকাশের",
+     "meaning_here": "distant, boundless",
+     "etymology": "Skt. दूर (dūra)"
+    },
+    {
+     "gloss": "sky",
+     "form": "inanimate, genitive, singular (-এর)",
+     "parts": "আকাশ + এর",
+     "role": "attribute to নীহারিকা",
+     "meaning_here": "of the sky, firmament",
+     "etymology": "Skt. आकाश (ākāśa)"
+    },
+    {
+     "gloss": "nebula",
+     "form": "inanimate, nominative, singular",
+     "parts": "নীহার + -ইকা",
+     "role": "subject",
+     "meaning_here": "galaxy, star nebula, milky way",
+     "etymology": "Skt. नीहारिका (nīhārikā)"
+    }
+   ],
+   "structure": "Subject with complex modifier: দূর আকাশের নীহারিকা.",
+   "literal": "Of distant sky nebula",
+   "natural": "In the distant sky, the nebulae"
+  },
+  {
+   "index": 5,
+   "words": [
+    {
+     "gloss": "with sandalwood",
+     "form": "inanimate, instrumental/locative (-এতে)",
+     "parts": "চন্দন + এতে",
+     "role": "adverbial of manner / instrument",
+     "meaning_here": "with sandalwood paste",
+     "etymology": "Skt. चन्दन (candana)"
+    },
+    {
+     "gloss": "was",
+     "form": "past tense, 3rd person",
+     "parts": "ছিল",
+     "role": "auxiliary verb / copula",
+     "meaning_here": "was"
+    },
+    {
+     "gloss": "painted,",
+     "form": "passive participle / adjective, uninflected",
+     "parts": "আঁক্ + আ",
+     "role": "nominal part of predicate",
+     "meaning_here": "drawn, painted",
+     "etymology": "Skt. अङ्क (aṅka)"
+    }
+   ],
+   "structure": "Predicate ছিলো আঁকা with adverbial of instrument চন্দনেতে.",
+   "literal": "With sandalwood was painted,",
+   "natural": "Seemed marked like sandalwood across the vastness;",
+   "image_note": "White sandalwood paste is applied as a sacred pattern or tilaka."
+  },
+  {
+   "index": 6,
+   "words": [
+    {
+     "gloss": "newly arrived",
+     "form": "compound adjective, uninflected",
+     "parts": "নব + আগত",
+     "role": "attribute to বলাকা",
+     "meaning_here": "newly arrived, just appeared",
+     "etymology": "Skt. नव (nava) + आगत (āgata)"
+    },
+    {
+     "gloss": "a",
+     "form": "indefinite article / numeral",
+     "parts": "এক",
+     "role": "attribute",
+     "meaning_here": "a, a certain",
+     "etymology": "Skt. एक (eka)"
+    },
+    {
+     "gloss": "swan",
+     "form": "animate, nominative, singular",
+     "parts": "বলাকা",
+     "role": "subject",
+     "meaning_here": "swan, flock of cranes/swans (symbol of the soul)",
+     "etymology": "Skt. बलाका (balākā)"
+    }
+   ],
+   "structure": "Subject group: নবাগত এক বলাকা.",
+   "literal": "Newly arrived one swan",
+   "natural": "A newly arrived swan"
+  },
+  {
+   "index": 7,
+   "words": [
+    {
+     "gloss": "path",
+     "form": "inanimate, accusative/nominative, singular",
+     "parts": "পথ",
+     "role": "direct object",
+     "meaning_here": "way, direction",
+     "etymology": "Skt. पथ् (path)"
+    },
+    {
+     "gloss": "had forgotten.",
+     "form": "past perfect, 3rd person",
+     "parts": "ভুলে (conjunctive participle) + ছিল",
+     "role": "predicate",
+     "meaning_here": "lost, wandered off"
+    }
+   ],
+   "structure": "Direct object পথ + predicate ভুলেছিলো.",
+   "literal": "Path had forgotten.",
+   "natural": "Had lost its way."
+  },
+  {
+   "index": 8,
+   "words": [
+    {
+     "gloss": "how much",
+     "form": "quantitative pronominal adjective",
+     "parts": "কত",
+     "role": "attribute to জ্যোৎস্না",
+     "meaning_here": "so much, many",
+     "etymology": "Skt. कियत् (kiyat)"
+    },
+    {
+     "gloss": "moonlight",
+     "form": "inanimate, nominative, singular/plural",
+     "parts": "জ্যোৎস্না",
+     "role": "subject",
+     "meaning_here": "moonlight, moonlit nights",
+     "etymology": "Skt. ज्योत्स्ना (jyotsnā)"
+    },
+    {
+     "gloss": "came",
+     "form": "simple past, 3rd person",
+     "parts": "এল",
+     "role": "coordinate predicate",
+     "meaning_here": "came"
+    },
+    {
+     "gloss": "[and] went,",
+     "form": "simple past, 3rd person",
+     "parts": "গেল",
+     "role": "coordinate predicate",
+     "meaning_here": "went, passed by"
+    }
+   ],
+   "structure": "Subject কত জ্যোৎস্না, two predicate verbs: এলো গেলো (idiomatic pair \"came and went\").",
+   "literal": "How much moonlight came went,",
+   "natural": "How much moonlight came and went,"
+  },
+  {
+   "index": 9,
+   "words": [
+    {
+     "gloss": "of the heart",
+     "form": "inanimate, genitive (-র)",
+     "parts": "হিয়া + -র",
+     "role": "attribute to আসন",
+     "meaning_here": "of the heart, of the soul",
+     "etymology": "Prakrit hidaa < Skt. हृदय (hṛdaya)"
+    },
+    {
+     "gloss": "seat",
+     "form": "inanimate, nominative, singular",
+     "parts": "আস্ + অন",
+     "role": "subject",
+     "meaning_here": "throne, abode, seat",
+     "etymology": "Skt. आसन (āsana)"
+    },
+    {
+     "gloss": "empty",
+     "form": "qualitative, nominative",
+     "parts": "শূন্য",
+     "role": "nominal part of predicate",
+     "meaning_here": "empty, unoccupied",
+     "etymology": "Skt. शून्य (śūnya)"
+    },
+    {
+     "gloss": "was.",
+     "form": "past tense, 3rd person",
+     "parts": "ছিল",
+     "role": "copula of predicate",
+     "meaning_here": "remained"
+    }
+   ],
+   "structure": "Subject হিয়ার আসন, predicate শূন্য ছিলো.",
+   "literal": "Heart's seat empty was,",
+   "natural": "Yet the seat of the heart remained empty."
+  },
+  {
+   "index": 10,
+   "words": [
+    {
+     "gloss": "Your",
+     "form": "possessive pronoun, 2nd person polite, genitive",
+     "parts": "তোম- + -আর",
+     "role": "attribute to পদধ্বনি",
+     "meaning_here": "Your"
+    },
+    {
+     "gloss": "sound of footsteps",
+     "form": "inanimate, nominative, singular",
+     "parts": "পদ + ধ্বনি",
+     "role": "subject",
+     "meaning_here": "sound of footsteps",
+     "etymology": "Skt. पद (pada) + ध्वनि (dhvani)"
+    },
+    {
+     "gloss": "arose,",
+     "form": "simple past, 3rd person",
+     "parts": "হল",
+     "role": "predicate",
+     "meaning_here": "resounded, arose"
+    }
+   ],
+   "structure": "Subject তোমার পদধ্বনি, predicate হলো.",
+   "literal": "Your footstep-sound arose,",
+   "natural": "Then I heard the sound of Your footsteps,"
+  },
+  {
+   "index": 11,
+   "words": [
+    {
+     "gloss": "heart",
+     "form": "inanimate, nominative, singular",
+     "parts": "হিয়া",
+     "role": "subject",
+     "meaning_here": "heart",
+     "etymology": "Skt. हृदय (hṛdaya)"
+    },
+    {
+     "gloss": "with nectar",
+     "form": "inanimate, instrumental/locative (-য়)",
+     "parts": "সুধা + য়",
+     "role": "adverbial/indirect object",
+     "meaning_here": "with divine nectar (amrta)",
+     "etymology": "Skt. सुधा (sudhā)"
+    },
+    {
+     "gloss": "filling",
+     "form": "perfective conjunctive participle",
+     "parts": "ভর্ + এ",
+     "role": "part of compound predicate",
+     "meaning_here": "becoming filled"
+    },
+    {
+     "gloss": "went [became].",
+     "form": "auxiliary verb of completion, past tense, 3rd person",
+     "parts": "গেল",
+     "role": "part of compound predicate",
+     "meaning_here": "overflowed"
+    }
+   ],
+   "structure": "Subject হিয়া, object সুধায়, compound verbal predicate ভরে গেলো.",
+   "literal": "Heart with nectar filling went (overflowed),",
+   "natural": "And my heart filled with nectar."
+  },
+  {
+   "index": 12,
+   "words": [
+    {
+     "gloss": "that",
+     "form": "demonstrative pronoun, uninflected",
+     "parts": "সে + -ই",
+     "role": "attribute to বলাকা",
+     "meaning_here": "that very"
+    },
+    {
+     "gloss": "swan",
+     "form": "animate, nominative, singular",
+     "parts": "বলাকা",
+     "role": "subject",
+     "meaning_here": "swan (soul)",
+     "etymology": "Skt. बलाকা (balākā)"
+    },
+    {
+     "gloss": "again",
+     "form": "adverb of repetition",
+     "parts": "আবার",
+     "role": "adverbial of manner",
+     "meaning_here": "anew, again"
+    },
+    {
+     "gloss": "came,",
+     "form": "simple past, 3rd person",
+     "parts": "এল",
+     "role": "predicate",
+     "meaning_here": "returned, arrived"
+    }
+   ],
+   "structure": "Subject সেই বলাকা, adverbial আবার, predicate এলো.",
+   "literal": "That very swan again came,",
+   "natural": "That swan returned again"
+  },
+  {
+   "index": 13,
+   "words": [
+    {
+     "gloss": "path",
+     "form": "inanimate, nominative/accusative, singular",
+     "parts": "পথ",
+     "role": "direct object",
+     "meaning_here": "path, road",
+     "etymology": "Skt. पथ् (path)"
+    },
+    {
+     "gloss": "recognizing",
+     "form": "conjunctive participle",
+     "parts": "চিন্ + এ",
+     "role": "part of compound verb",
+     "meaning_here": "recognizing, identifying"
+    },
+    {
+     "gloss": "took for itself.",
+     "form": "auxiliary verb (action for oneself), 3rd person past tense",
+     "parts": "নিল",
+     "role": "part of compound verb",
+     "meaning_here": "chose, found"
+    }
+   ],
+   "structure": "Direct object পথ + compound verb চিনে নিলো (conjunctive participle চিনে + auxiliary verb নেওয়া).",
+   "literal": "Path recognizing took.",
+   "natural": "And found its way."
+  }
+ ],
+ "heard": [
+  "In captions and singing, verb forms are divided into conjunctive participle and auxiliary verb: 'ESE CHILE' (line 0), 'PATH BHULE CHILO' (line 7). The text and melody strictly match the song."
+ ],
+ "uncertain": [],
+ "interpretation": "The song allegorically portrays the path of a devotee. The appearance of the Beloved Lord is compared to a luminous full moon night (púrńimá), when the skies are clear and the Milky Way appears drawn with white sandalwood paste. However, the young soul (a newly arrived swan - \"balaka\") strays from the true spiritual path amidst the play of earthly mayic illusions (the hide-and-seek of the moon and clouds). Many days and moonlit nights pass, yet the throne of the heart remains cold and empty without the Lord. Only when the sound of His footsteps resounds in the silence of meditation is the heart transformed and filled with amrta, and the lost soul finds anew its true path toward Him.",
+ "generated": {
+  "by": "gemini",
+  "model": "gemini-flash-latest",
+  "date": "2026-10-20",
+  "verified": false,
+  "from": "ru"
+ },
+ "problems": [
+  "строка 1: кириллица о\","
+ ]
+}
