@@ -1,0 +1,370 @@
+{
+ "number": 5009,
+ "lang": "en",
+ "title": "This life is for Him",
+ "lead": "A rare Prabhat Samgiita song composed by the author in English. The theme of unshakeable determination: complete dedication of body, mind, and soul to the Supreme, as well as selfless coordinated team service to the entire world.",
+ "lines": [
+  {
+   "index": 0,
+   "words": [
+    {
+     "gloss": "This",
+     "form": "demonstrative pron., sg.",
+     "parts": "this",
+     "role": "modifier"
+    },
+    {
+     "gloss": "life",
+     "form": "sg., nominative",
+     "parts": "life",
+     "role": "subject"
+    },
+    {
+     "gloss": "is",
+     "form": "pres. tense, 3rd person sg.",
+     "parts": "is",
+     "role": "copula"
+    },
+    {
+     "gloss": "for",
+     "form": "prep. of purpose / destination",
+     "parts": "for",
+     "role": "preposition of the predicate"
+    },
+    {
+     "gloss": "Him,",
+     "form": "objective case, 3rd person sg., capitalized",
+     "parts": "Him",
+     "role": "indirect object"
+    }
+   ],
+   "structure": "Subject (This life) + copula (is) + compound nominal predicate with preposition (for Him).",
+   "literal": "This life is for Him,",
+   "natural": "This life is for Him,"
+  },
+  {
+   "index": 1,
+   "words": [
+    {
+     "gloss": "This",
+     "form": "demonstrative pron., sg.",
+     "parts": "this",
+     "role": "modifier"
+    },
+    {
+     "gloss": "mind",
+     "form": "sg., nominative",
+     "parts": "mind",
+     "role": "subject"
+    },
+    {
+     "gloss": "is",
+     "form": "pres. tense, 3rd person sg.",
+     "parts": "is",
+     "role": "copula"
+    },
+    {
+     "gloss": "for",
+     "form": "prep. of purpose",
+     "parts": "for",
+     "role": "preposition of the predicate"
+    },
+    {
+     "gloss": "Him,",
+     "form": "objective case, 3rd person sg., capitalized",
+     "parts": "Him",
+     "role": "indirect object"
+    }
+   ],
+   "structure": "Subject (This mind) + copula (is) + predicate (for Him).",
+   "literal": "This mind is for Him,",
+   "natural": "This mind is for Him,"
+  },
+  {
+   "index": 2,
+   "words": [
+    {
+     "gloss": "This",
+     "form": "demonstrative pron., sg.",
+     "parts": "this",
+     "role": "modifier"
+    },
+    {
+     "gloss": "soul",
+     "form": "sg., nominative",
+     "parts": "soul",
+     "role": "subject"
+    },
+    {
+     "gloss": "is",
+     "form": "pres. tense, 3rd person sg.",
+     "parts": "is",
+     "role": "copula"
+    },
+    {
+     "gloss": "for",
+     "form": "prep. of purpose",
+     "parts": "for",
+     "role": "preposition of the predicate"
+    },
+    {
+     "gloss": "Him.",
+     "form": "objective case, 3rd person sg., capitalized",
+     "parts": "Him",
+     "role": "indirect object"
+    }
+   ],
+   "structure": "Subject (This soul) + copula (is) + predicate (for Him).",
+   "literal": "This soul is for Him.",
+   "natural": "This soul is for Him."
+  },
+  {
+   "index": 3,
+   "words": [
+    {
+     "gloss": "His",
+     "form": "possessive pron., 3rd person sg., capitalized",
+     "parts": "His",
+     "role": "modifier"
+    },
+    {
+     "gloss": "universe",
+     "form": "sg., objective case",
+     "parts": "uni + verse",
+     "role": "direct object (fronted)"
+    },
+    {
+     "gloss": "we",
+     "form": "personal pron., 1st person pl., nominative",
+     "parts": "we",
+     "role": "subject"
+    },
+    {
+     "gloss": "will",
+     "form": "modal/auxiliary verb of fut. tense, 1st person pl.",
+     "parts": "will",
+     "role": "auxiliary verb of the predicate"
+    },
+    {
+     "gloss": "serve",
+     "form": "infinitive of the lexical verb",
+     "parts": "serve",
+     "role": "main verb of the predicate"
+    }
+   ],
+   "structure": "Direct object (His universe) + subject (we) + compound predicate (will serve). Poetic inversion.",
+   "literal": "His universe we will serve",
+   "natural": "His universe we will serve"
+  },
+  {
+   "index": 4,
+   "words": [
+    {
+     "gloss": "In",
+     "form": "prep. of manner",
+     "parts": "in",
+     "role": "preposition of adverbial modifier"
+    },
+    {
+     "gloss": "coordinating",
+     "form": "pres. participle used as modifier",
+     "parts": "co- + ordinating",
+     "role": "modifier to team",
+     "meaning_here": "functioning harmoniously, coordinated"
+    },
+    {
+     "gloss": "team.",
+     "form": "sg., objective case",
+     "parts": "team",
+     "role": "adverbial modifier of manner"
+    }
+   ],
+   "structure": "Adverbial modifier of manner (In coordinating team), qualifying the predicate 'will serve' of line 3.",
+   "literal": "In a coordinated team.",
+   "natural": "As a single coordinated team."
+  },
+  {
+   "index": 5,
+   "words": [
+    {
+     "gloss": "Light",
+     "form": "sg., nominative",
+     "parts": "light",
+     "role": "subject"
+    },
+    {
+     "gloss": "belongs",
+     "form": "pres. tense, 3rd person sg.",
+     "parts": "be- + long + -s",
+     "role": "predicate"
+    },
+    {
+     "gloss": "to",
+     "form": "prep. of direction / belonging",
+     "parts": "to",
+     "role": "preposition of object"
+    },
+    {
+     "gloss": "Him,",
+     "form": "objective case, 3rd person sg., capitalized",
+     "parts": "Him",
+     "role": "indirect object"
+    }
+   ],
+   "structure": "Subject (Light) + predicate (belongs) + indirect object (to Him).",
+   "literal": "Light belongs to Him,",
+   "natural": "Light belongs to Him,"
+  },
+  {
+   "index": 6,
+   "words": [
+    {
+     "gloss": "Night",
+     "form": "sg., nominative",
+     "parts": "night",
+     "role": "subject",
+     "meaning_here": "night, darkness"
+    },
+    {
+     "gloss": "belongs",
+     "form": "pres. tense, 3rd person sg.",
+     "parts": "be- + long + -s",
+     "role": "predicate"
+    },
+    {
+     "gloss": "to",
+     "form": "prep. of direction / belonging",
+     "parts": "to",
+     "role": "preposition of object"
+    },
+    {
+     "gloss": "Him,",
+     "form": "objective case, 3rd person sg., capitalized",
+     "parts": "Him",
+     "role": "indirect object"
+    }
+   ],
+   "structure": "Subject (Night) + predicate (belongs) + indirect object (to Him).",
+   "literal": "Night belongs to Him,",
+   "natural": "Night belongs to Him,"
+  },
+  {
+   "index": 7,
+   "words": [
+    {
+     "gloss": "Might",
+     "form": "sg., nominative",
+     "parts": "might",
+     "role": "subject"
+    },
+    {
+     "gloss": "belongs",
+     "form": "pres. tense, 3rd person sg.",
+     "parts": "be- + long + -s",
+     "role": "predicate"
+    },
+    {
+     "gloss": "to",
+     "form": "prep. of direction / belonging",
+     "parts": "to",
+     "role": "preposition of object"
+    },
+    {
+     "gloss": "Him.",
+     "form": "objective case, 3rd person sg., capitalized",
+     "parts": "Him",
+     "role": "indirect object"
+    }
+   ],
+   "structure": "Subject (Might) + predicate (belongs) + indirect object (to Him).",
+   "literal": "Might belongs to Him.",
+   "natural": "Might belongs to Him."
+  },
+  {
+   "index": 8,
+   "words": [
+    {
+     "gloss": "Undaunted",
+     "form": "deverbal adj., referring to 'we' of line 9",
+     "parts": "un- + daunted",
+     "role": "detached modifier / adverbial modifier of manner"
+    },
+    {
+     "gloss": "in",
+     "form": "prep. of manner",
+     "parts": "in",
+     "role": "preposition of adverbial modifier"
+    },
+    {
+     "gloss": "smiling",
+     "form": "pres. participle used as modifier",
+     "parts": "smil(e) + -ing",
+     "role": "modifier"
+    },
+    {
+     "gloss": "face",
+     "form": "sg., objective case",
+     "parts": "face",
+     "role": "adverbial modifier of manner"
+    }
+   ],
+   "structure": "Detached modifier (Undaunted) + prepositional phrase of manner (in smiling face), modifying the subject 'we' of the following line.",
+   "literal": "Undaunted, with a smiling face,",
+   "natural": "Undaunted, with a radiant smile on our face,"
+  },
+  {
+   "index": 9,
+   "words": [
+    {
+     "gloss": "His",
+     "form": "possessive pron., 3rd person sg., capitalized",
+     "parts": "His",
+     "role": "modifier"
+    },
+    {
+     "gloss": "grace",
+     "form": "sg., objective case",
+     "parts": "grace",
+     "role": "direct object (fronted)",
+     "meaning_here": "mercy, divine grace"
+    },
+    {
+     "gloss": "we",
+     "form": "personal pron., 1st person pl., nominative",
+     "parts": "we",
+     "role": "subject"
+    },
+    {
+     "gloss": "will",
+     "form": "auxiliary verb of fut. tense, 1st person pl.",
+     "parts": "will",
+     "role": "auxiliary verb of the predicate"
+    },
+    {
+     "gloss": "sing.",
+     "form": "infinitive of the lexical verb",
+     "parts": "sing",
+     "role": "main verb of the predicate"
+    }
+   ],
+   "structure": "Direct object (His grace) + subject (we) + compound verbal predicate (will sing). Inversion.",
+   "literal": "His grace we will sing.",
+   "natural": "We will sing of His grace."
+  }
+ ],
+ "heard": [
+  "The song was originally written by the author in English (a rare occurrence in the Prabhat Samgiita corpus). In the audio/video recording, the text completely matches the on-screen subtitles and source."
+ ],
+ "uncertain": [
+  "The song is entirely in English; there is no Bengali original by the author; the original author's English text is retained in the Bengali field."
+ ],
+ "interpretation": "The song conveys absolute devotion and surrender to the Supreme Consciousness. All dimensions of human existence - life, thought processes, and the innermost spiritual essence - are dedicated to Him. Service to the manifested universe is envisioned as collective, coordinated work without fear or hesitation. The second stanza serves as a reminder of the monistic truth: light (joy, knowledge), darkness (difficulties, ignorance), and the absolute power of creation all belong to the One Source; therefore, the devotee confronts every trial with a smile, unceasingly singing His divine grace.",
+ "generated": {
+  "by": "gemini",
+  "model": "gemini-flash-latest",
+  "date": "2026-10-20",
+  "verified": false,
+  "from": "ru"
+ },
+ "problems": []
+}
