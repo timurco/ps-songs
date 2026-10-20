@@ -1,0 +1,459 @@
+{
+ "number": 3,
+ "lang": "en",
+ "title": "At the End of Darkness, in the Realm of Light",
+ "lead": "A hymn of Neohumanism and the dawn of a new consciousness that unites all animate and inanimate nature. Key points for the student include conjunctive participial constructions (মেখে, ডেকে ডেকে) and the comparative structure (চেয়েও খাঁটি).",
+ "lines": [
+  {
+   "index": 0,
+   "words": [
+    {
+     "gloss": "of darkness",
+     "form": "direct form (functioning as genitive/modifier)",
+     "parts": "আঁধার",
+     "role": "modifier to শেষে",
+     "meaning_here": "of darkness, of gloom",
+     "etymology": "Old Indic andhakāra"
+    },
+    {
+     "gloss": "at the end",
+     "form": "locative in -e",
+     "parts": "শেষ + এ",
+     "role": "adverbial of time",
+     "meaning_here": "at the end, at the close, having passed",
+     "etymology": "Old Indic śeṣa"
+    },
+    {
+     "gloss": "of light",
+     "form": "genitive in -r",
+     "parts": "আলো + র",
+     "role": "modifier to দেশে",
+     "meaning_here": "of light, of radiance",
+     "etymology": "Old Indic āloka"
+    },
+    {
+     "gloss": "in the realm,",
+     "form": "locative in -e",
+     "parts": "দেশ + এ",
+     "role": "adverbial of place",
+     "meaning_here": "in the country, in the land, in the realm",
+     "etymology": "Old Indic deśa"
+    }
+   ],
+   "structure": "Adverbial phrases: temporal (\"at the end of darkness\") and locative (\"in the realm of light\"), referring to the main clause of the following lines.",
+   "literal": "Darkness at the end, light's in the realm,",
+   "natural": "At the end of darkness, in the realm of light,"
+  },
+  {
+   "index": 1,
+   "words": [
+    {
+     "gloss": "crimson",
+     "form": "direct form, modifier to ভোরের",
+     "parts": "অরুণ",
+     "role": "modifier",
+     "meaning_here": "crimson, scarlet, morning sun's",
+     "etymology": "Old Indic aruṇa"
+    },
+    {
+     "gloss": "dawn's",
+     "form": "genitive in -er",
+     "parts": "ভোর + এর",
+     "role": "modifier to কথা",
+     "meaning_here": "morning's, dawn's"
+    },
+    {
+     "gloss": "news",
+     "form": "direct form (accusative object)",
+     "parts": "কথা",
+     "role": "direct object of শোনাব",
+     "meaning_here": "news, story, tidings",
+     "etymology": "Old Indic kathā"
+    }
+   ],
+   "structure": "Direct object with modifiers: \"news (কথা) of the crimson (অরুণ) dawn (ভোরের)\".",
+   "literal": "Crimson dawn's news",
+   "natural": "The news of the crimson dawn"
+  },
+  {
+   "index": 2,
+   "words": [
+    {
+     "gloss": "I will tell",
+     "form": "future, 1st person, causative",
+     "parts": "শোন- + -আ- + -ব- + -ও",
+     "role": "predicate",
+     "meaning_here": "I will make hear, I will tell, I will proclaim",
+     "etymology": "Old Indic śṛṇoti / śrāvati",
+     "note": "Poetic/dialectal spelling with ণ instead of standard ন"
+    },
+    {
+     "gloss": "to everyone,",
+     "form": "oblique/dative in -y",
+     "parts": "সবাই + য়",
+     "role": "indirect object",
+     "meaning_here": "to each one, to all people",
+     "note": ""
+    },
+    {
+     "gloss": "calling out,",
+     "form": "conjunctive participle in -e",
+     "parts": "ডাক- + -এ",
+     "role": "adverbial of manner (reduplication)",
+     "meaning_here": "having called, calling out"
+    },
+    {
+     "gloss": "calling out,",
+     "form": "conjunctive participle in -e",
+     "parts": "ডাক- + -এ",
+     "role": "adverbial of manner (reduplication)",
+     "meaning_here": "having called, calling out"
+    },
+    {
+     "gloss": "O brother!",
+     "form": "vocative form",
+     "parts": "ভাই",
+     "role": "address",
+     "meaning_here": "O brother / siblings",
+     "etymology": "Old Indic bhrātṛ"
+    }
+   ],
+   "structure": "Predicate - শোনাব (\"I will proclaim\"), indirect object - সবায় (\"to all\"), manner with repetition - ডেকে ডেকে (\"calling out, summoning\"), address - ভাই (\"O brother\").",
+   "literal": "I will tell to everyone, calling-calling, [O] brother,",
+   "natural": "I will proclaim to everyone, calling them out, O brother!"
+  },
+  {
+   "index": 3,
+   "words": [
+    {
+     "gloss": "with stars",
+     "form": "instrumental/locative in -y",
+     "parts": "তারা + য়",
+     "role": "complement of ভরা",
+     "meaning_here": "with stars",
+     "etymology": "Old Indic tārā"
+    },
+    {
+     "gloss": "filled",
+     "form": "participial adjective / verbal adjective",
+     "parts": "ভর- + -আ",
+     "role": "modifier to আকাশ",
+     "meaning_here": "studded, filled",
+     "etymology": "Old Indic bhṛ"
+    },
+    {
+     "gloss": "yonder",
+     "form": "demonstrative pronoun (distant object)",
+     "parts": "ওই",
+     "role": "modifier to আকাশ",
+     "meaning_here": "yonder, distant"
+    },
+    {
+     "gloss": "[that]",
+     "form": "emphatic/specifying particle",
+     "parts": "যে",
+     "role": "emphatic particle",
+     "meaning_here": "that very"
+    },
+    {
+     "gloss": "sky,",
+     "form": "direct case",
+     "parts": "আকাশ",
+     "role": "subject of contextual group",
+     "meaning_here": "firmament, sky, space",
+     "etymology": "Old Indic ākāśa"
+    }
+   ],
+   "structure": "Noun phrase: pointer to the sky (ওই যে আকাশ) with the modifier \"studded with stars\" (তারায় ভরা).",
+   "literal": "With stars filled yonder [that] sky,",
+   "natural": "Yonder sky, filled with stars,"
+  },
+  {
+   "index": 4,
+   "words": [
+    {
+     "gloss": "with scent intoxicating",
+     "form": "compound word, modifier to বাতাস",
+     "parts": "গন্ধ + মদীর",
+     "role": "modifier",
+     "meaning_here": "intoxicating with fragrance, headily scented",
+     "etymology": "Old Indic gandha + madira"
+    },
+    {
+     "gloss": "this",
+     "form": "demonstrative pronoun (proximate object)",
+     "parts": "এই",
+     "role": "modifier to বাতাস",
+     "meaning_here": "this here"
+    },
+    {
+     "gloss": "[that]",
+     "form": "emphatic/specifying particle",
+     "parts": "যে",
+     "role": "emphatic particle",
+     "meaning_here": "this very"
+    },
+    {
+     "gloss": "breeze -",
+     "form": "direct case",
+     "parts": "বাতাস",
+     "role": "subject of contextual group",
+     "meaning_here": "air, breeze, wind",
+     "etymology": "Old Indic vātāyu / vāta"
+    }
+   ],
+   "structure": "Noun phrase: pointer to the breeze (এই যে বাতাস) with the modifier \"intoxicating with fragrance\" (গন্ধমদির).",
+   "literal": "With scent intoxicating this breeze -",
+   "natural": "And this breeze intoxicating with fragrance -"
+  },
+  {
+   "index": 5,
+   "words": [
+    {
+     "gloss": "of all",
+     "form": "genitive in -r",
+     "parts": "সবাই + এর / সবার",
+     "role": "modifier to postposition মাঝে",
+     "meaning_here": "of everyone, of all existence"
+    },
+    {
+     "gloss": "in the midst",
+     "form": "locative postposition",
+     "parts": "মাঝ + এ",
+     "role": "adverbial of place",
+     "meaning_here": "in the middle of, within, amidst",
+     "etymology": "Old Indic madhya"
+    },
+    {
+     "gloss": "I",
+     "form": "personal pronoun 1st person singular, nominative",
+     "parts": "আমি",
+     "role": "subject",
+     "meaning_here": "I (the all-pervading consciousness / connected soul)",
+     "etymology": "Old Indic asmābhiḥ / aham"
+    },
+    {
+     "gloss": "am,",
+     "form": "present tense of existential verb, 1st person",
+     "parts": "আছ- + -ই",
+     "role": "predicate",
+     "meaning_here": "I am, I exist, I abide",
+     "etymology": "Old Indic āste / accha"
+    }
+   ],
+   "structure": "Subject - আমি (\"I\"), predicate - আছি (\"am/abide\"), locative phrase with postposition - সবার মাঝে (\"in the midst of all\").",
+   "literal": "Of all in the midst I am,",
+   "natural": "In the midst of all I abide,"
+  },
+  {
+   "index": 6,
+   "words": [
+    {
+     "gloss": "of flowers",
+     "form": "genitive in -er",
+     "parts": "ফুল + এর",
+     "role": "modifier to পরাগ",
+     "meaning_here": "of flowers",
+     "etymology": "Old Indic phulla"
+    },
+    {
+     "gloss": "pollen",
+     "form": "direct case (object of মেখে)",
+     "parts": "পরাগ",
+     "role": "direct object",
+     "meaning_here": "flower pollen",
+     "etymology": "Old Indic parāga"
+    },
+    {
+     "gloss": "on the heart / mind",
+     "form": "locative in -e",
+     "parts": "মন + এ",
+     "role": "adverbial of place",
+     "meaning_here": "in the mind, upon the heart",
+     "etymology": "Old Indic manas"
+    },
+    {
+     "gloss": "having smeared",
+     "form": "conjunctive participle in -e",
+     "parts": "মাখ- + -এ",
+     "role": "participial adverbial to আছি",
+     "meaning_here": "having anointed, having smeared, having wrapped",
+     "etymology": "Old Indic mrakṣ"
+    }
+   ],
+   "structure": "Participial clause: direct object with modifier - ফুলের পরাগ (\"flower pollen\"), adverbial of place - মনে (\"on the heart/mind\"), conjunctive participle - মেখে (\"having smeared\").",
+   "literal": "Flowers' pollen on the heart having smeared.",
+   "natural": "Having smeared flower pollen upon my heart."
+  },
+  {
+   "index": 7,
+   "words": [
+    {
+     "gloss": "feet",
+     "form": "direct/stem in modifier function",
+     "parts": "চরণ",
+     "role": "modifier to postposition তলে",
+     "meaning_here": "of feet",
+     "etymology": "Old Indic caraṇa"
+    },
+    {
+     "gloss": "beneath",
+     "form": "postposition in -e",
+     "parts": "তল + এ",
+     "role": "adverbial of place",
+     "meaning_here": "below, beneath, under",
+     "etymology": "Old Indic tala"
+    },
+    {
+     "gloss": "this",
+     "form": "demonstrative pronoun",
+     "parts": "এই",
+     "role": "modifier to মাটি",
+     "meaning_here": "this"
+    },
+    {
+     "gloss": "[that]",
+     "form": "emphatic particle",
+     "parts": "যে",
+     "role": "emphatic particle",
+     "meaning_here": "this very"
+    },
+    {
+     "gloss": "soil -",
+     "form": "direct case",
+     "parts": "মাটি",
+     "role": "subject",
+     "meaning_here": "earth, soil, dust",
+     "etymology": "Old Indic mṛttikā"
+    }
+   ],
+   "structure": "Subject - মাটি (\"soil\"), adverbial - চরণ তলে (\"under the feet\"). Predication continues in line 8.",
+   "literal": "Feet beneath this soil -",
+   "natural": "This soil beneath our feet -"
+  },
+  {
+   "index": 8,
+   "words": [
+    {
+     "gloss": "unalloyed",
+     "form": "direct form, modifier to সোণার",
+     "parts": "নি- + খাদ",
+     "role": "modifier",
+     "meaning_here": "unalloyed, pure, without impurities"
+    },
+    {
+     "gloss": "than gold",
+     "form": "genitive in -r (spelled with ণ)",
+     "parts": "সোণা + র",
+     "role": "standard of comparison",
+     "meaning_here": "of gold",
+     "etymology": "Old Indic svarṇa",
+     "note": "Poetic spelling with ণ instead of ন"
+    },
+    {
+     "gloss": "even more than",
+     "form": "comparative postposition + emphatic particle -o",
+     "parts": "চেয়ে + ও",
+     "role": "comparative marker",
+     "meaning_here": "even more than"
+    },
+    {
+     "gloss": "is purer",
+     "form": "nominal part of the predicate",
+     "parts": "খাঁটি",
+     "role": "predicative",
+     "meaning_here": "pure, genuine, unadulterated"
+    }
+   ],
+   "structure": "Predicative part to the subject \"soil\": standard of comparison - নিখাদ সোণার চেয়েও (\"even than unalloyed gold\"), nominal predicate - খাঁটি (\"is purer / more genuine\").",
+   "literal": "Unalloyed gold's even than purer,",
+   "natural": "Is purer even than the purest gold."
+  },
+  {
+   "index": 9,
+   "words": [
+    {
+     "gloss": "in green",
+     "form": "direct form, modifier to ছায়ায়",
+     "parts": "সবুজ",
+     "role": "modifier",
+     "meaning_here": "green",
+     "etymology": "Persian sabz"
+    },
+    {
+     "gloss": "shade,",
+     "form": "locative in -y",
+     "parts": "ছায়া + য়",
+     "role": "adverbial of place",
+     "meaning_here": "in the shade, under the canopy",
+     "etymology": "Old Indic chāyā"
+    },
+    {
+     "gloss": "of deer",
+     "form": "genitive in -er",
+     "parts": "মৃগ + এর",
+     "role": "modifier to মায়ায়",
+     "meaning_here": "of deer, of wild creatures",
+     "etymology": "Old Indic mṛga"
+    },
+    {
+     "gloss": "in enchantment",
+     "form": "locative/instrumental in -y",
+     "parts": "মায়া + য়",
+     "role": "adverbial of manner",
+     "meaning_here": "in enchantment, in charm, captivated by affection",
+     "etymology": "Old Indic māyā"
+    }
+   ],
+   "structure": "Two parallel adverbials: locative (সবুজ ছায়ায় - \"in the green shade\") and qualitative (মৃগের মায়ায় - \"in the charm/enchantment of deer\").",
+   "literal": "Green in shade, deer's in enchantment",
+   "natural": "In the green shade, in the gentle enchantment of deer,"
+  },
+  {
+   "index": 10,
+   "words": [
+    {
+     "gloss": "is dancing",
+     "form": "present continuous (ghaṭamān bartamān), 3rd person",
+     "parts": "নাচ- + -ছে",
+     "role": "predicate",
+     "meaning_here": "dances, is dancing in joy",
+     "etymology": "Old Indic nṛtyati"
+    },
+    {
+     "gloss": "in a new",
+     "form": "direct form (sádhu variant of নতুন)",
+     "parts": "নূতন",
+     "role": "modifier to অভিষেকে",
+     "meaning_here": "new, renewed",
+     "etymology": "Old Indic nūtana"
+    },
+    {
+     "gloss": "consecration.",
+     "form": "locative in -e",
+     "parts": "অভিষেক + এ",
+     "role": "adverbial of condition/manner",
+     "meaning_here": "coronation, consecration, blessing of new life",
+     "etymology": "Old Indic abhiṣeka"
+    }
+   ],
+   "structure": "Predicate - নাচছে (\"is dancing\"), adverbial - নূতন অভিষেকে (\"in a new consecration/anointing\").",
+   "literal": "Dances in new consecration.",
+   "natural": "Everything dances in a new consecration."
+  }
+ ],
+ "heard": [
+  "In the word śońábo, standard Bengali śonábo (with the sound n) is clearly sung",
+  "The word bhai is sung only during the first rendition of the stanza; it is omitted upon repetition"
+ ],
+ "uncertain": [],
+ "interpretation": "This song expresses the central impulse of Neohumanism: the dispelling of the darkness of ignorance and the awakening of a sense of kinship with all existence. The awakening consciousness perceives value not only in human beings, but also in the starry sky, the breeze, the pollen of flowers, the sacred soil underfoot, and the woodland creatures. The word \"অভিষেক\" (consecration, anointing) points to the spiritual transfiguration of the world: all elements of nature are consecrated as inseparable expressions of the one Supreme Entity.",
+ "generated": {
+  "by": "gemini",
+  "model": "gemini-flash-latest",
+  "date": "2026-10-20",
+  "verified": false,
+  "from": "ru"
+ },
+ "problems": []
+}
