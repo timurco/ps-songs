@@ -1,0 +1,406 @@
+{
+ "number": 80,
+ "lang": "en",
+ "title": "In dream You have come, the embodiment of joy",
+ "lead": "A profound contemplative song about meeting the Supreme as the source of universal joy. Essential for the student are the persistent refrain Sabár Tumi ánanda, expressing the universality of the Lord, and paired grammatical contrasts (in the eyes love - at the feet liberation; knowingly or unknowingly).",
+ "lines": [
+  {
+   "index": 0,
+   "words": [
+    {
+     "gloss": "in a dream",
+     "form": "locative singular, ending -e",
+     "parts": "svapan + e",
+     "role": "adverbial of place / time"
+    },
+    {
+     "gloss": "have come",
+     "form": "perfect (present perfect), 2nd person familiar (tumi)",
+     "parts": "es- + echo",
+     "role": "predicate"
+    },
+    {
+     "gloss": "of bliss",
+     "form": "stem in compound",
+     "parts": "ánanda",
+     "role": "modifier to ghana"
+    },
+    {
+     "gloss": "embodiment",
+     "form": "compound stem (dense, condensed, embodiment)",
+     "parts": "ghana",
+     "role": "nominal part of compound predicate / apposition",
+     "meaning_here": "embodied, condensation of joy"
+    },
+    {
+     "gloss": "You",
+     "form": "personal 2nd person familiar, nominative",
+     "parts": "tumi",
+     "role": "subject"
+    }
+   ],
+   "structure": "tumi (subject) svapane (adverbial) ánanda ghana (apposition to tumi) esecho (predicate)",
+   "literal": "In dream came embodiment of bliss You",
+   "natural": "In dream You have come to me, the pure embodiment of bliss,"
+  },
+  {
+   "index": 1,
+   "words": [
+    {
+     "gloss": "of all",
+     "form": "possessive form (genitive of sab)",
+     "parts": "sab + ár",
+     "role": "modifier"
+    },
+    {
+     "gloss": "You",
+     "form": "2nd person familiar, nominative",
+     "parts": "tumi",
+     "role": "subject"
+    },
+    {
+     "gloss": "[are] bliss",
+     "form": "nominative singular",
+     "parts": "ánanda",
+     "role": "nominal predicate"
+    }
+   ],
+   "structure": "tumi (subject) sabár ánanda (predicate with zero copula)",
+   "literal": "Of all You joy",
+   "natural": "You are the bliss of all."
+  },
+  {
+   "index": 2,
+   "words": [
+    {
+     "gloss": "in the beautiful",
+     "form": "qualitative adjective in compound / agreement",
+     "parts": "mañjula",
+     "role": "modifier to mahákáshe"
+    },
+    {
+     "gloss": "boundless sky",
+     "form": "locative singular, ending -e",
+     "parts": "mahá + ákáshe",
+     "role": "adverbial of place",
+     "meaning_here": "in the great expanse of the cosmos / sky"
+    }
+   ],
+   "structure": "maiñjula mahákáshe (adverbial of place, continues in the next line)",
+   "literal": "In beautiful great sky",
+   "natural": "In the firmament of eternal beauty,"
+  },
+  {
+   "index": 3,
+   "words": [
+    {
+     "gloss": "in infinite life",
+     "form": "locative singular, ending -e",
+     "parts": "mahá + práńe",
+     "role": "adverbial of place",
+     "meaning_here": "in the cosmic life energy"
+    },
+    {
+     "gloss": "You are",
+     "form": "present tense, 2nd person familiar",
+     "parts": "ách- + o",
+     "role": "auxiliary verb of state"
+    },
+    {
+     "gloss": "merged",
+     "form": "conjunctive participle (non-finite form in -e)",
+     "parts": "mish + e",
+     "role": "main verb in compound verb construction",
+     "meaning_here": "blending, having dissolved"
+    }
+   ],
+   "structure": "mahápráńe (adverbial) mishe ácho (compound verbal predicate of state)",
+   "literal": "In great life You stay merged",
+   "natural": "You are merged in infinite life,"
+  },
+  {
+   "index": 4,
+   "words": [
+    {
+     "gloss": "formless",
+     "form": "compound word, qualitative adjective",
+     "parts": "rúpa + atiita (transcending forms)",
+     "role": "modifier to chanda",
+     "meaning_here": "transcending any visible forms"
+    },
+    {
+     "gloss": "matchless",
+     "form": "qualitative adjective",
+     "parts": "apa- + rúpa (of unprecedented beauty)",
+     "role": "modifier to chanda"
+    },
+    {
+     "gloss": "rhythm",
+     "form": "nominative singular",
+     "parts": "chanda",
+     "role": "nominal part of predicate"
+    },
+    {
+     "gloss": "(You)",
+     "form": "2nd person familiar, nominative",
+     "parts": "tumi",
+     "role": "subject"
+    }
+   ],
+   "structure": "(tumi) (subject) rúpátiita aparúpa chanda (compound nominal predicate)",
+   "literal": "Transcending forms, of matchless beauty rhythm (You)",
+   "natural": "You are the formless, matchless rhythm of existence."
+  },
+  {
+   "index": 5,
+   "words": [
+    {
+     "gloss": "of all",
+     "form": "genitive of sab",
+     "parts": "sab + ár",
+     "role": "modifier"
+    },
+    {
+     "gloss": "You",
+     "form": "2nd person familiar, nominative",
+     "parts": "tumi",
+     "role": "subject"
+    },
+    {
+     "gloss": "[are] bliss",
+     "form": "nominative singular",
+     "parts": "ánanda",
+     "role": "nominal predicate"
+    }
+   ],
+   "structure": "tumi (subject) sabár ánanda (nominal predicate)",
+   "literal": "Of all You joy",
+   "natural": "You are the bliss of all."
+  },
+  {
+   "index": 6,
+   "words": [
+    {
+     "gloss": "in the eyes",
+     "form": "locative singular, ending -e",
+     "parts": "cokh + e",
+     "role": "adverbial of place"
+    },
+    {
+     "gloss": "love",
+     "form": "nominative singular",
+     "parts": "anu- + rakti",
+     "role": "subject of 1st clause",
+     "meaning_here": "devoted love, affection"
+    },
+    {
+     "gloss": "at the feet",
+     "form": "locative singular, ending -e",
+     "parts": "carań + e",
+     "role": "adverbial of place"
+    },
+    {
+     "gloss": "salvation",
+     "form": "nominative singular",
+     "parts": "vi- + mukti",
+     "role": "subject of 2nd clause"
+    }
+   ],
+   "structure": "cokhe (adverbial) anurakti (subject) [ách-]; carańe (adverbial) vimukti (subject) [ách-]",
+   "literal": "In eyes devoted love, at feet liberation",
+   "natural": "In Your eyes there is love, at Your feet salvation,"
+  },
+  {
+   "index": 7,
+   "words": [
+    {
+     "gloss": "beyond thoughts",
+     "form": "compound word, qualitative adjective",
+     "parts": "bháva + atiita (transcending thoughts)",
+     "role": "modifier"
+    },
+    {
+     "gloss": "of nectar",
+     "form": "compound stem",
+     "parts": "sudhá",
+     "role": "modifier to niśyanda"
+    },
+    {
+     "gloss": "stream",
+     "form": "nominative singular",
+     "parts": "ni- + syand + a",
+     "role": "nominal part of predicate",
+     "meaning_here": "pouring stream, source"
+    },
+    {
+     "gloss": "(You)",
+     "form": "2nd person familiar, nominative",
+     "parts": "tumi",
+     "role": "subject"
+    }
+   ],
+   "structure": "(tumi) (subject) bhávátiita sudhá-nisyanda (nominal predicate)",
+   "literal": "Transcending thought of nectar stream (You)",
+   "natural": "Beyond imagination, You are the overflowing source of nectar."
+  },
+  {
+   "index": 8,
+   "words": [
+    {
+     "gloss": "of all",
+     "form": "genitive of sab",
+     "parts": "sab + ár",
+     "role": "modifier"
+    },
+    {
+     "gloss": "You",
+     "form": "2nd person familiar, nominative",
+     "parts": "tumi",
+     "role": "subject"
+    },
+    {
+     "gloss": "[are] bliss",
+     "form": "nominative singular",
+     "parts": "ánanda",
+     "role": "nominal predicate"
+    }
+   ],
+   "structure": "tumi (subject) sabár ánanda (nominal predicate)",
+   "literal": "Of all You joy",
+   "natural": "You are the bliss of all."
+  },
+  {
+   "index": 9,
+   "words": [
+    {
+     "gloss": "knowingly",
+     "form": "perfect conjunctive participle in -e",
+     "parts": "ján- + e",
+     "role": "adverbial of manner",
+     "meaning_here": "consciously, understanding"
+    },
+    {
+     "gloss": "or",
+     "form": "disjunctive conjunction",
+     "parts": "bá",
+     "role": "connecting conjunction"
+    },
+    {
+     "gloss": "not",
+     "form": "negative particle",
+     "parts": "ná",
+     "role": "negation with conjunctive participle"
+    },
+    {
+     "gloss": "knowingly",
+     "form": "perfect conjunctive participle in -e",
+     "parts": "ján- + e",
+     "role": "adverbial of manner",
+     "meaning_here": "unconsciously, not understanding"
+    }
+   ],
+   "structure": "jene bá ná jene (adverbial participial phrase of manner)",
+   "literal": "Knowing or not knowing",
+   "natural": "Knowingly or unknowingly,"
+  },
+  {
+   "index": 10,
+   "words": [
+    {
+     "gloss": "I love",
+     "form": "present tense, 1st person (ámi)",
+     "parts": "bhála + bási",
+     "role": "predicate"
+    },
+    {
+     "gloss": "only one",
+     "form": "with emphatic particle -i",
+     "parts": "ek + i",
+     "role": "modifier to jane"
+    },
+    {
+     "gloss": "Person / Entity",
+     "form": "animate accusative-dative, ending -e",
+     "parts": "jan + e",
+     "role": "direct object"
+    }
+   ],
+   "structure": "[ámi] (subject) eki jane (object) bhálobási (predicate)",
+   "literal": "I love only one One",
+   "natural": "I love only one Entity,"
+  },
+  {
+   "index": 11,
+   "words": [
+    {
+     "gloss": "that",
+     "form": "demonstrative pronoun (he/that)",
+     "parts": "se",
+     "role": "modifier to bhálobásár"
+    },
+    {
+     "gloss": "of love",
+     "form": "verbal noun, genitive, ending -r",
+     "parts": "bhálobásá + r",
+     "role": "subject determiner in possessive construction"
+    },
+    {
+     "gloss": "there is no",
+     "form": "poetic negative existential predicate (is not, does not exist)",
+     "parts": "náhi",
+     "role": "predicate"
+    },
+    {
+     "gloss": "end",
+     "form": "nominative singular",
+     "parts": "anta",
+     "role": "logical subject"
+    }
+   ],
+   "structure": "se bhálobásár (possessive modifier) anta (logical subject) náhi (negative predicate)",
+   "literal": "Of that love there is no end",
+   "natural": "and that love has no end."
+  },
+  {
+   "index": 12,
+   "words": [
+    {
+     "gloss": "of all",
+     "form": "genitive of sab",
+     "parts": "sab + ár",
+     "role": "modifier"
+    },
+    {
+     "gloss": "You",
+     "form": "2nd person familiar, nominative",
+     "parts": "tumi",
+     "role": "subject"
+    },
+    {
+     "gloss": "[are] bliss",
+     "form": "nominative singular",
+     "parts": "ánanda",
+     "role": "nominal predicate"
+    }
+   ],
+   "structure": "tumi (subject) sabár ánanda (nominal predicate)",
+   "literal": "Of all You joy",
+   "natural": "You are the bliss of all."
+  }
+ ],
+ "heard": [
+  "In line 4, the word tumi is sung at the beginning of the musical phrase before rúpátiita aparúpa chanda.",
+  "In line 7, the word tumi is also sung before bhávátiita sudhá niśyanda during the repetition.",
+  "In line 10, the singer renders ekijane / ekei jane with an elongated vocal melisma."
+ ],
+ "uncertain": [],
+ "interpretation": "The song conveys a deep mystical experience of realizing Supreme Consciousness. In dream (svapane), the Lord arrives as pure condensed bliss (ánandaghana), going beyond the intellectual constraints of the waking mind. The presence of the Supreme encompasses the cosmos (mahákásha) and the very life vitality of the universe (mahápráńa), revealing Itself not as a rigid form, but as the harmonious rhythm of creation. The Lord's gaze is filled with grace and unconditional love (anurakti), and contact with His feet bestows spiritual liberation (vimukti). Whether a person is aware of this supreme attraction intellectually or not (jene bá ná jene), the true love of the jiiva is always directed toward the One Source alone, and that love knows no end.",
+ "generated": {
+  "by": "gemini",
+  "model": "gemini-flash-latest",
+  "date": "2026-10-20",
+  "verified": false,
+  "from": "ru"
+ },
+ "problems": []
+}
