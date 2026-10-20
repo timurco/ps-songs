@@ -1,0 +1,601 @@
+{
+ "number": 647,
+ "title": "Туми дже эшечхо а́дж",
+ "key": "Am",
+ "shapes": [
+  {
+   "name": "Am",
+   "f": [
+    -1,
+    0,
+    2,
+    2,
+    1,
+    0
+   ],
+   "fn": [
+    0,
+    0,
+    2,
+    3,
+    1,
+    0
+   ]
+  },
+  {
+   "name": "C",
+   "f": [
+    -1,
+    3,
+    2,
+    0,
+    1,
+    0
+   ],
+   "fn": [
+    0,
+    3,
+    2,
+    0,
+    1,
+    0
+   ]
+  },
+  {
+   "name": "G",
+   "f": [
+    3,
+    2,
+    0,
+    0,
+    0,
+    3
+   ],
+   "fn": [
+    2,
+    1,
+    0,
+    0,
+    0,
+    3
+   ]
+  }
+ ],
+ "stanzas": [
+  [
+   {
+    "index": 0,
+    "chunks": [
+     [
+      "Am",
+      "ТУМИ "
+     ],
+     [
+      null,
+      "ДЖЕ "
+     ],
+     [
+      null,
+      "ЭШЕЧХО "
+     ],
+     [
+      "C",
+      "А́ДЖ"
+     ]
+    ]
+   },
+   {
+    "index": 1,
+    "chunks": [
+     [
+      "G",
+      "БЕТХИТО "
+     ],
+     [
+      null,
+      "ДЖОНЕР "
+     ],
+     [
+      null,
+      "КОТХА́ "
+     ],
+     [
+      "Am",
+      "БХА́БИТЕ"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 1
+    }
+   },
+   {
+    "index": 2,
+    "chunks": [
+     [
+      "Am",
+      "ШОБА́Р "
+     ],
+     [
+      null,
+      "МОНЕР "
+     ],
+     [
+      null,
+      "КА́ЛО "
+     ],
+     [
+      "C",
+      "НАШИТЕ"
+     ]
+    ]
+   },
+   {
+    "index": 3,
+    "chunks": [
+     [
+      "G",
+      "ШОКОЛ "
+     ],
+     [
+      null,
+      "ДЖИ́БЕРЕ "
+     ],
+     [
+      null,
+      "БХА́ЛОБА́ШИ"
+     ],
+     [
+      "Am",
+      "ТЕ"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 1
+    }
+   }
+  ],
+  [
+   {
+    "index": 4,
+    "chunks": [
+     [
+      "G",
+      "ТОБО "
+     ],
+     [
+      null,
+      "А́ША́ "
+     ],
+     [
+      null,
+      "ПОТХО "
+     ],
+     [
+      null,
+      "ЧЕЙЕ"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 2
+    }
+   },
+   {
+    "index": 5,
+    "chunks": [
+     [
+      "Am",
+      "БОШИЯ́ "
+     ],
+     [
+      null,
+      "ЧХИЛО "
+     ],
+     [
+      null,
+      "ДЖЕ "
+     ],
+     [
+      null,
+      "ДХОРА́"
+     ]
+    ]
+   },
+   {
+    "index": 6,
+    "chunks": [
+     [
+      "G",
+      "БЕТХА́Р "
+     ],
+     [
+      null,
+      "ЧИНХО "
+     ],
+     [
+      null,
+      "ТА́Р"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 2
+    }
+   },
+   {
+    "index": 7,
+    "chunks": [
+     [
+      "Am",
+      "ЧХИЛО "
+     ],
+     [
+      null,
+      "ДЖЕ "
+     ],
+     [
+      null,
+      "ОН̭ГЕ "
+     ],
+     [
+      null,
+      "БХОРА́"
+     ]
+    ]
+   },
+   {
+    "index": 8,
+    "chunks": [
+     [
+      "G",
+      "ШУКХЕР "
+     ],
+     [
+      null,
+      "ШОКОЛ "
+     ],
+     [
+      null,
+      "РЕШ"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 2
+    }
+   },
+   {
+    "index": 9,
+    "chunks": [
+     [
+      "Am",
+      "ХОЙЕ "
+     ],
+     [
+      null,
+      "ГИЙЕЧХИЛО "
+     ],
+     [
+      null,
+      "ХА́РА́"
+     ]
+    ]
+   },
+   {
+    "index": 10,
+    "chunks": [
+     [
+      "G",
+      "КЛЕШЕР "
+     ],
+     [
+      null,
+      "ДА́РУН́ "
+     ],
+     [
+      null,
+      "БХА́Р"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 2
+    }
+   },
+   {
+    "index": 11,
+    "chunks": [
+     [
+      "Am",
+      "БОХИТЕ "
+     ],
+     [
+      null,
+      "БОХИТЕ"
+     ]
+    ]
+   }
+  ],
+  [
+   {
+    "index": 12,
+    "chunks": [
+     [
+      "G",
+      "ДХОРА́Р "
+     ],
+     [
+      null,
+      "БОКХ́Е "
+     ],
+     [
+      null,
+      "ДЖА́ЛО"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 2
+    }
+   },
+   {
+    "index": 13,
+    "chunks": [
+     [
+      "Am",
+      "А́РО "
+     ],
+     [
+      null,
+      "БЕШИ́ "
+     ],
+     [
+      null,
+      "КОРЕ "
+     ],
+     [
+      null,
+      "А́ЛО"
+     ]
+    ]
+   },
+   {
+    "index": 14,
+    "chunks": [
+     [
+      "G",
+      "НИПИ́Р́ИТО "
+     ],
+     [
+      null,
+      "ХИЯ́ "
+     ],
+     [
+      null,
+      "МА́ДЖХЕ"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 2
+    }
+   },
+   {
+    "index": 15,
+    "chunks": [
+     [
+      "Am",
+      "А́РО "
+     ],
+     [
+      null,
+      "БЕШИ́ "
+     ],
+     [
+      null,
+      "ШУДХА́ "
+     ],
+     [
+      null,
+      "Д́ХА́ЛО"
+     ]
+    ]
+   },
+   {
+    "index": 16,
+    "chunks": [
+     [
+      "G",
+      "УДА́ТТО "
+     ],
+     [
+      null,
+      "ШОРЕ "
+     ],
+     [
+      "Am",
+      "ШОБА́РЕ"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 2
+    }
+   },
+   {
+    "index": 17,
+    "chunks": [
+     [
+      null,
+      "Д́А́К "
+     ],
+     [
+      null,
+      "ДИЙЕ "
+     ],
+     [
+      null,
+      "БОЛО"
+     ]
+    ]
+   },
+   {
+    "index": 18,
+    "chunks": [
+     [
+      "G",
+      "УН̭ЧУ "
+     ],
+     [
+      null,
+      "ШИРЕ "
+     ],
+     [
+      null,
+      "ШОМ"
+     ],
+     [
+      "Am",
+      "МУКХ"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 2
+    }
+   },
+   {
+    "index": 19,
+    "chunks": [
+     [
+      null,
+      "ПА́НЕ "
+     ],
+     [
+      null,
+      "ЧОЛИТЕ"
+     ]
+    ]
+   }
+  ]
+ ],
+ "refrain": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "road": [
+  0,
+  1,
+  0,
+  2
+ ],
+ "tala": "kaharva",
+ "recordings": [
+  {
+   "name": "sarkarverse-1",
+   "url": "https://sarkarverse.org/PS/1-999-f/___647%20TUMI%20JE%20ESECHO%20A%27J.mp3",
+   "singer": "Acarya Priyashivananda Avadhuta",
+   "tonic": "D",
+   "mode": "minor",
+   "cents": 20,
+   "capo": 5,
+   "heard": [
+    12,
+    12
+   ],
+   "clashes": 1,
+   "bpm": 161.5
+  },
+  {
+   "name": "sarkarverse-2",
+   "url": "https://sarkarverse.org/images/4/49/Jyotsna_-_Tumi_Je_Esecho_Aj.mp3",
+   "singer": "Jyoshna La Trobe",
+   "tonic": "D",
+   "mode": "minor",
+   "cents": 1,
+   "capo": 5,
+   "heard": [
+    6,
+    12
+   ],
+   "clashes": 0,
+   "bpm": 161.5
+  },
+  {
+   "name": "psbot",
+   "url": "https://app.psbot.eu/play_audio/647/",
+   "singer": "Gunavati",
+   "tonic": "D#",
+   "mode": "minor",
+   "cents": 26,
+   "capo": 6,
+   "heard": [
+    9,
+    12
+   ],
+   "clashes": 1,
+   "bpm": 123.0
+  },
+  {
+   "name": "amps-KE4812hCUsc",
+   "url": "https://www.youtube.com/watch?v=KE4812hCUsc",
+   "singer": "",
+   "tonic": "D",
+   "mode": "minor",
+   "cents": 21,
+   "capo": 5,
+   "heard": [
+    12,
+    12
+   ],
+   "clashes": 1,
+   "bpm": 161.5
+  }
+ ],
+ "source": "Аккорды из песенника, сверены по голосу с 4 записями.",
+ "origin": "sheet",
+ "notes": [
+  "БЕТХИТО: у Gunavati голос держит C, с G он спорит, ложится C. Так в 1 записи из 4, в листе G оставлен.",
+  "ШОКОЛ: у sarkarverse.org, запись 1, AMPS голос держит C, с G он спорит, ложится C. Так в 2 записи из 4, в листе G оставлен."
+ ],
+ "checks": [
+  {
+   "line": 1,
+   "word": 0,
+   "text": "БЕТХИТО",
+   "chord": "G",
+   "fits": "C",
+   "held": [
+    "C"
+   ],
+   "recs": [
+    "psbot"
+   ],
+   "kept": true
+  },
+  {
+   "line": 3,
+   "word": 0,
+   "text": "ШОКОЛ",
+   "chord": "G",
+   "fits": "C",
+   "held": [
+    "C"
+   ],
+   "recs": [
+    "sarkarverse-1",
+    "amps-KE4812hCUsc"
+   ],
+   "kept": true
+  }
+ ],
+ "generated": {
+  "by": "chords.py",
+  "date": "2026-10-21",
+  "verified": false
+ }
+}

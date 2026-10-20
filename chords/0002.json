@@ -385,8 +385,39 @@
  "source": "Аккорды из песенника, сверены по голосу с 5 записями.",
  "origin": "sheet",
  "notes": [
-  "АЛОР: у sarkarverse-1, amps-CPjFTLINHGM голос держит E, с F он спорит, ложится Em. Так в 2 записи из 5, в листе F оставлен.",
-  "ПАШАНО: у sarkarverse-2 голос держит A#, с G он спорит, ложится C. Так в 1 записи из 5, в листе G оставлен."
+  "АЛОР: у sarkarverse.org, запись 1, AMPS голос держит E, с F он спорит, ложится Em. Так в 2 записи из 5, в листе F оставлен.",
+  "ПАШАНО: у sarkarverse.org, запись 2 голос держит A#, с G он спорит, ложится C. Так в 1 записи из 5, в листе G оставлен."
+ ],
+ "checks": [
+  {
+   "line": 4,
+   "word": 0,
+   "text": "А́ЛОР",
+   "chord": "F",
+   "fits": "Em",
+   "held": [
+    "E"
+   ],
+   "recs": [
+    "sarkarverse-1",
+    "amps-CPjFTLINHGM"
+   ],
+   "kept": true
+  },
+  {
+   "line": 8,
+   "word": 2,
+   "text": "ПА́Ш́А́Н́О",
+   "chord": "G",
+   "fits": "C",
+   "held": [
+    "A#"
+   ],
+   "recs": [
+    "sarkarverse-2"
+   ],
+   "kept": true
+  }
  ],
  "generated": {
   "by": "chords.py",

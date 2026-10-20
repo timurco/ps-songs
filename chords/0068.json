@@ -1,0 +1,504 @@
+{
+ "number": 68,
+ "title": "I love this tiny green island",
+ "key": "Am",
+ "shapes": [
+  {
+   "name": "Am",
+   "f": [
+    -1,
+    0,
+    2,
+    2,
+    1,
+    0
+   ],
+   "fn": [
+    0,
+    0,
+    2,
+    3,
+    1,
+    0
+   ]
+  },
+  {
+   "name": "G",
+   "f": [
+    3,
+    2,
+    0,
+    0,
+    0,
+    3
+   ],
+   "fn": [
+    2,
+    1,
+    0,
+    0,
+    0,
+    3
+   ]
+  },
+  {
+   "name": "F",
+   "f": [
+    1,
+    3,
+    3,
+    2,
+    1,
+    1
+   ],
+   "fn": [
+    1,
+    3,
+    4,
+    2,
+    1,
+    1
+   ],
+   "barre": [
+    1,
+    0,
+    5
+   ],
+   "note": "баррэ"
+  },
+  {
+   "name": "C",
+   "f": [
+    -1,
+    3,
+    2,
+    0,
+    1,
+    0
+   ],
+   "fn": [
+    0,
+    3,
+    2,
+    0,
+    1,
+    0
+   ]
+  }
+ ],
+ "stanzas": [
+  [
+   {
+    "index": 0,
+    "chunks": [
+     [
+      "Am",
+      "I "
+     ],
+     [
+      null,
+      "LOVE "
+     ],
+     [
+      null,
+      "THIS "
+     ],
+     [
+      "G",
+      "TINY "
+     ],
+     [
+      null,
+      "GREEN "
+     ],
+     [
+      "F",
+      "ISLAND"
+     ]
+    ]
+   },
+   {
+    "index": 1,
+    "chunks": [
+     [
+      "G",
+      "SURROUNDED "
+     ],
+     [
+      null,
+      "BY "
+     ],
+     [
+      "Am",
+      "THE "
+     ],
+     [
+      null,
+      "SEA."
+     ]
+    ]
+   },
+   {
+    "index": 2,
+    "chunks": [
+     [
+      "C",
+      "TOUCHED "
+     ],
+     [
+      null,
+      "BY "
+     ],
+     [
+      null,
+      "THE "
+     ],
+     [
+      "Am",
+      "SEA,"
+     ]
+    ]
+   },
+   {
+    "index": 3,
+    "chunks": [
+     [
+      "G",
+      "DECORATED "
+     ],
+     [
+      null,
+      "BY "
+     ],
+     [
+      null,
+      "THE "
+     ],
+     [
+      "Am",
+      "SEA."
+     ]
+    ]
+   },
+   {
+    "index": 4,
+    "chunks": [
+     [
+      null,
+      "I "
+     ],
+     [
+      null,
+      "LOVE "
+     ],
+     [
+      null,
+      "THIS "
+     ],
+     [
+      null,
+      "TINY "
+     ],
+     [
+      null,
+      "GREEN "
+     ],
+     [
+      null,
+      "ISLAND"
+     ]
+    ]
+   },
+   {
+    "index": 5,
+    "chunks": [
+     [
+      null,
+      "SURROUNDED "
+     ],
+     [
+      null,
+      "BY "
+     ],
+     [
+      null,
+      "THE "
+     ],
+     [
+      null,
+      "SEA."
+     ]
+    ]
+   }
+  ],
+  [
+   {
+    "index": 6,
+    "chunks": [
+     [
+      "C",
+      "AM "
+     ],
+     [
+      null,
+      "I "
+     ],
+     [
+      null,
+      "A "
+     ],
+     [
+      null,
+      "SECLUDED "
+     ],
+     [
+      "Am",
+      "FIGURE"
+     ]
+    ]
+   },
+   {
+    "index": 7,
+    "chunks": [
+     [
+      null,
+      "IN "
+     ],
+     [
+      "G",
+      "THE "
+     ],
+     [
+      null,
+      "VAST "
+     ],
+     [
+      null,
+      "A "
+     ],
+     [
+      null,
+      "LITTLE "
+     ],
+     [
+      null,
+      "A "
+     ],
+     [
+      "Am",
+      "MEAGER?"
+     ]
+    ]
+   },
+   {
+    "index": 8,
+    "chunks": [
+     [
+      "Am",
+      "NO, "
+     ],
+     [
+      null,
+      "NO, "
+     ],
+     [
+      null,
+      "NO, "
+     ],
+     [
+      "G",
+      "NO, "
+     ],
+     [
+      null,
+      "I "
+     ],
+     [
+      null,
+      "AM "
+     ],
+     [
+      null,
+      "NOT "
+     ],
+     [
+      null,
+      "ALONE."
+     ]
+    ]
+   },
+   {
+    "index": 9,
+    "chunks": [
+     [
+      "F",
+      "THE "
+     ],
+     [
+      "G",
+      "GREAT "
+     ],
+     [
+      null,
+      "IS "
+     ],
+     [
+      null,
+      "WITH "
+     ],
+     [
+      "Am",
+      "ME."
+     ]
+    ]
+   },
+   {
+    "index": 10,
+    "chunks": [
+     [
+      null,
+      "THE "
+     ],
+     [
+      null,
+      "GREAT "
+     ],
+     [
+      null,
+      "IS "
+     ],
+     [
+      null,
+      "WITH "
+     ],
+     [
+      null,
+      "ME."
+     ]
+    ]
+   }
+  ]
+ ],
+ "refrain": [],
+ "road": [
+  0,
+  1
+ ],
+ "tala": "kaharva",
+ "recordings": [
+  {
+   "name": "sarkarverse-1",
+   "url": "https://sarkarverse.org/PS/1-999-f/__68%20-%20Tiny%20green%20island.mp3",
+   "singer": "Shantonu and Jyoshna",
+   "tonic": "G#",
+   "mode": "minor",
+   "cents": 17,
+   "capo": 11,
+   "heard": [
+    8,
+    11
+   ],
+   "clashes": 1,
+   "bpm": 184.6
+  },
+  {
+   "name": "sarkarverse-2",
+   "url": "https://sarkarverse.org/PS/1-999-f/__68%20-%20I%20love%20this%20tiny%20green%20island.mp3",
+   "singer": "",
+   "tonic": "G#",
+   "mode": "minor",
+   "cents": -22,
+   "capo": 11,
+   "heard": [
+    8,
+    11
+   ],
+   "clashes": 0,
+   "bpm": 92.3
+  },
+  {
+   "name": "psnet-1",
+   "url": "https://www.prabhatasamgiita.net/1-999/_68%20I%20LOVE%20THIS%20TINY%20GREEN%20ISLAND%202.mp3",
+   "singer": "",
+   "tonic": "C#",
+   "mode": "minor",
+   "cents": 33,
+   "capo": 4,
+   "heard": [
+    8,
+    11
+   ],
+   "clashes": 0,
+   "bpm": 92.3
+  },
+  {
+   "name": "psnet-2",
+   "url": "https://www.prabhatasamgiita.net/1-999/_68%20I%20LOVE%20THIS%20TINY%20GREEN%20ISLAND.mp3",
+   "singer": "",
+   "tonic": "C#",
+   "mode": "minor",
+   "cents": 33,
+   "capo": 4,
+   "heard": [
+    8,
+    11
+   ],
+   "clashes": 0,
+   "bpm": 152.0
+  },
+  {
+   "name": "psbot",
+   "url": "https://app.psbot.eu/play_audio/68/",
+   "singer": "Gunavati",
+   "tonic": "A#",
+   "mode": "minor",
+   "cents": 23,
+   "capo": 1,
+   "heard": [
+    8,
+    11
+   ],
+   "clashes": 0,
+   "bpm": 161.5
+  },
+  {
+   "name": "amps-Va08WH-mzCU",
+   "url": "https://www.youtube.com/watch?v=Va08WH-mzCU",
+   "singer": "",
+   "tonic": "E",
+   "mode": "minor",
+   "cents": -32,
+   "capo": 7,
+   "heard": [
+    8,
+    11
+   ],
+   "clashes": 0,
+   "bpm": 95.7
+  }
+ ],
+ "source": "Аккорды из песенника, сверены по голосу с 6 записями.",
+ "origin": "sheet",
+ "notes": [
+  "ME.: у Shantonu and Jyoshna голос не держит ни одной ноты долго, но с Am спорит, ложится Dm. Так в 1 записи из 6, в листе Am оставлен."
+ ],
+ "checks": [
+  {
+   "line": 9,
+   "word": 4,
+   "text": "ME",
+   "chord": "Am",
+   "fits": "Dm",
+   "held": [],
+   "recs": [
+    "sarkarverse-1"
+   ],
+   "kept": true
+  }
+ ],
+ "generated": {
+  "by": "chords.py",
+  "date": "2026-10-21",
+  "verified": false
+ }
+}

@@ -439,9 +439,57 @@
  "source": "Аккорды из песенника, сверены по голосу с 3 записями.",
  "origin": "sheet",
  "notes": [
-  "АНОНДО: у sarkarverse, Gunavati, amps-vgw8zfU4hTU голос держит B, с Gm он спорит, ложится Am. Так в 3 записи из 3.",
-  "ЧХОНДО: у sarkarverse, Gunavati голос держит B, с Gm он спорит, ложится Am. Так в 2 записи из 3.",
+  "АНОНДО: у sarkarverse.org, Gunavati, AMPS голос держит B, с Gm он спорит, ложится Am. Так в 3 записи из 3.",
+  "ЧХОНДО: у sarkarverse.org, Gunavati голос держит B, с Gm он спорит, ложится Am. Так в 2 записи из 3.",
   "ОНТО: у Gunavati голос держит B и E, с Gm он спорит, ложится G. Так в 1 записи из 3, в листе Gm оставлен."
+ ],
+ "checks": [
+  {
+   "line": 1,
+   "word": 2,
+   "text": "А́НОНДО",
+   "chord": "Gm",
+   "fits": "Am",
+   "held": [
+    "B"
+   ],
+   "recs": [
+    "sarkarverse",
+    "psbot",
+    "amps-vgw8zfU4hTU"
+   ],
+   "kept": false
+  },
+  {
+   "line": 4,
+   "word": 2,
+   "text": "ЧХОНДО",
+   "chord": "Gm",
+   "fits": "Am",
+   "held": [
+    "B"
+   ],
+   "recs": [
+    "sarkarverse",
+    "psbot"
+   ],
+   "kept": false
+  },
+  {
+   "line": 11,
+   "word": 3,
+   "text": "ОНТО",
+   "chord": "Gm",
+   "fits": "G",
+   "held": [
+    "B",
+    "E"
+   ],
+   "recs": [
+    "psbot"
+   ],
+   "kept": true
+  }
  ],
  "generated": {
   "by": "chords.py",

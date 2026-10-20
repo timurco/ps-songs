@@ -551,6 +551,50 @@
   "НАМТИ: у Gunavati голос держит C, с G он спорит, ложится C. Так в 1 записи из 4, в листе G оставлен.",
   "АМАР: у Andy Douglas and friends голос держит F, с Am он спорит, ложится F. Так в 1 записи из 4, в листе Am оставлен."
  ],
+ "checks": [
+  {
+   "line": 3,
+   "word": 1,
+   "text": "КА́ПИБЕ",
+   "chord": "G",
+   "fits": "F",
+   "held": [
+    "A#"
+   ],
+   "recs": [
+    "sarkarverse-2"
+   ],
+   "kept": true
+  },
+  {
+   "line": 4,
+   "word": 1,
+   "text": "НА́МТ́И",
+   "chord": "G",
+   "fits": "C",
+   "held": [
+    "C"
+   ],
+   "recs": [
+    "psbot"
+   ],
+   "kept": true
+  },
+  {
+   "line": 10,
+   "word": 4,
+   "text": "А́МА́Р",
+   "chord": "Am",
+   "fits": "F",
+   "held": [
+    "F"
+   ],
+   "recs": [
+    "sarkarverse-2"
+   ],
+   "kept": true
+  }
+ ],
  "generated": {
   "by": "chords.py",
   "date": "2026-10-21",
