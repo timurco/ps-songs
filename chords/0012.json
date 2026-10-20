@@ -1,0 +1,431 @@
+{
+ "number": 12,
+ "title": "Нойоне момота́ бхора́",
+ "key": "C",
+ "shapes": [
+  {
+   "name": "C",
+   "f": [
+    -1,
+    3,
+    2,
+    0,
+    1,
+    0
+   ],
+   "fn": [
+    0,
+    3,
+    2,
+    0,
+    1,
+    0
+   ]
+  },
+  {
+   "name": "F",
+   "f": [
+    1,
+    3,
+    3,
+    2,
+    1,
+    1
+   ],
+   "fn": [
+    1,
+    3,
+    4,
+    2,
+    1,
+    1
+   ],
+   "barre": [
+    1,
+    0,
+    5
+   ],
+   "note": "баррэ"
+  },
+  {
+   "name": "G",
+   "f": [
+    3,
+    2,
+    0,
+    0,
+    0,
+    3
+   ],
+   "fn": [
+    2,
+    1,
+    0,
+    0,
+    0,
+    3
+   ]
+  }
+ ],
+ "stanzas": [
+  [
+   {
+    "index": 0,
+    "chunks": [
+     [
+      "C",
+      "НОЙОНЕ "
+     ],
+     [
+      null,
+      "МОМОТА́ "
+     ],
+     [
+      null,
+      "БХОРА́"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 2
+    }
+   },
+   {
+    "index": 1,
+    "chunks": [
+     [
+      null,
+      "ХА́ШИТЕ "
+     ],
+     [
+      "F",
+      "МУКУТА́ДЖХО"
+     ],
+     [
+      "C",
+      "РА́"
+     ]
+    ]
+   },
+   {
+    "index": 2,
+    "chunks": [
+     [
+      "F",
+      "ОДЖА́НА́ "
+     ],
+     [
+      null,
+      "ПОТХИК "
+     ],
+     [
+      "C",
+      "ЭК "
+     ],
+     [
+      "G",
+      "Э"
+     ],
+     [
+      "C",
+      "ЛО"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 1
+    }
+   }
+  ],
+  [
+   {
+    "index": 3,
+    "chunks": [
+     [
+      "C",
+      "ХИЯ́ "
+     ],
+     [
+      null,
+      "КА́ПЕ "
+     ],
+     [
+      null,
+      "ТХОРО "
+     ],
+     [
+      null,
+      "ТХОРО"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 2
+    }
+   },
+   {
+    "index": 4,
+    "chunks": [
+     [
+      null,
+      "Э "
+     ],
+     [
+      null,
+      "КИ́ "
+     ],
+     [
+      "F",
+      "БХА́БО "
+     ],
+     [
+      "C",
+      "МОНОХОРО"
+     ]
+    ]
+   },
+   {
+    "index": 5,
+    "chunks": [
+     [
+      null,
+      "Э "
+     ],
+     [
+      "F",
+      "А́НОНДО "
+     ],
+     [
+      null,
+      "КЕ "
+     ],
+     [
+      null,
+      "БА́ "
+     ],
+     [
+      "C",
+      "ШЕ "
+     ],
+     [
+      null,
+      "ДЖЕ "
+     ],
+     [
+      "G",
+      "ДИ"
+     ],
+     [
+      "C",
+      "ЛО"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 1
+    }
+   }
+  ],
+  [
+   {
+    "index": 6,
+    "chunks": [
+     [
+      "C",
+      "МОНО "
+     ],
+     [
+      null,
+      "ЧА́ХЕ "
+     ],
+     [
+      null,
+      "ШОДА́ "
+     ],
+     [
+      null,
+      "ДЕКХИ"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 2
+    }
+   },
+   {
+    "index": 7,
+    "chunks": [
+     [
+      null,
+      "ЛА́ДЖЕ "
+     ],
+     [
+      "F",
+      "БХОЙЕ "
+     ],
+     [
+      null,
+      "НА́ХИ "
+     ],
+     [
+      null,
+      "ТА́"
+     ],
+     [
+      "C",
+      "КИ"
+     ]
+    ]
+   },
+   {
+    "index": 8,
+    "chunks": [
+     [
+      null,
+      "Э "
+     ],
+     [
+      "F",
+      "МОДХУРО "
+     ],
+     [
+      null,
+      "МОДХУ "
+     ],
+     [
+      "C",
+      "КОТХА́ "
+     ],
+     [
+      "G",
+      "ЧХИ"
+     ],
+     [
+      "C",
+      "ЛО"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 1
+    }
+   }
+  ]
+ ],
+ "refrain": [
+  0,
+  1,
+  2
+ ],
+ "road": [
+  0,
+  1,
+  0,
+  2,
+  0
+ ],
+ "tala": "kaharva",
+ "recordings": [
+  {
+   "name": "sarkarverse-1",
+   "url": "https://sarkarverse.org/PS/1-999-f/__12%20NAYANE%20MAMATA%27%20BHARA%27.mp3",
+   "singer": "Acarya Priyashivananda Avadhuta",
+   "tonic": "D#",
+   "mode": "major",
+   "cents": 13,
+   "capo": 3,
+   "heard": [
+    8,
+    9
+   ],
+   "clashes": 0,
+   "bpm": 136.0
+  },
+  {
+   "name": "sarkarverse-2",
+   "url": "https://sarkarverse.org/PS/1-999-f/__12%20Nayane%20Mamata%20Bhora.mp3",
+   "singer": "Andy Douglas and friends",
+   "tonic": "D",
+   "mode": "major",
+   "cents": -19,
+   "capo": 2,
+   "heard": [
+    6,
+    9
+   ],
+   "clashes": 0,
+   "bpm": 184.6
+  },
+  {
+   "name": "psnet-1",
+   "url": "https://www.prabhatasamgiita.net/1-999/_12%20NAYANE%20MAMATA%27%20BHARA%27%20%28old%20version%29.mp3",
+   "singer": "",
+   "tonic": "D",
+   "mode": "major",
+   "cents": -8,
+   "capo": 2,
+   "heard": [
+    3,
+    9
+   ],
+   "clashes": 0,
+   "bpm": 123.0
+  },
+  {
+   "name": "psnet-2",
+   "url": "https://www.prabhatasamgiita.net/1-999/_12%20NAYANE%20MAMATA%27%20BHARA%27%202.mp3",
+   "singer": "",
+   "tonic": "C#",
+   "mode": "major",
+   "cents": -11,
+   "capo": 1,
+   "heard": [
+    9,
+    9
+   ],
+   "clashes": 0,
+   "bpm": 161.5
+  },
+  {
+   "name": "psbot",
+   "url": "https://app.psbot.eu/play_audio/12/",
+   "singer": "Gunavati",
+   "tonic": "D",
+   "mode": "major",
+   "cents": 14,
+   "capo": 2,
+   "heard": [
+    7,
+    9
+   ],
+   "clashes": 2,
+   "bpm": 103.4
+  },
+  {
+   "name": "amps-7unEolacF3Q",
+   "url": "https://www.youtube.com/watch?v=7unEolacF3Q",
+   "singer": "",
+   "tonic": "D#",
+   "mode": "major",
+   "cents": 13,
+   "capo": 3,
+   "heard": [
+    8,
+    9
+   ],
+   "clashes": 0,
+   "bpm": 136.0
+  }
+ ],
+ "source": "Аккорды из песенника, сверены по голосу с 6 записями.",
+ "origin": "sheet",
+ "notes": [
+  "МОНОХОРО: у Gunavati голос держит F, с C он спорит, ложится F. Так в 1 записи из 6, в листе C оставлен.",
+  "ЧХИЛО: у Gunavati голос держит F, с C он спорит, ложится F. Так в 1 записи из 6, в листе C оставлен."
+ ],
+ "generated": {
+  "by": "chords.py",
+  "date": "2026-10-21",
+  "verified": false
+ }
+}

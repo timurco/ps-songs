@@ -1,43 +1,24 @@
 {
  "number": 1,
  "title": "Бондху хе нийе чоло",
- "key": "D",
+ "key": "C",
  "shapes": [
   {
-   "name": "D",
+   "name": "C",
    "f": [
     -1,
-    -1,
-    0,
-    2,
     3,
-    2
-   ],
-   "fn": [
-    0,
-    0,
+    2,
     0,
     1,
-    3,
-    2
-   ]
-  },
-  {
-   "name": "A",
-   "f": [
-    -1,
-    0,
-    2,
-    2,
-    2,
     0
    ],
    "fn": [
     0,
+    3,
+    2,
     0,
     1,
-    2,
-    3,
     0
    ]
   },
@@ -67,11 +48,11 @@
     "index": 0,
     "chunks": [
      [
-      "D",
+      "C",
       "БОНДХУ "
      ],
      [
-      null,
+      "G",
       "ХЕ "
      ],
      [
@@ -79,24 +60,28 @@
       "НИЙЕ "
      ],
      [
-      null,
+      "C",
       "ЧОЛО"
      ]
-    ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 1
+    }
    },
    {
     "index": 1,
     "chunks": [
      [
-      "D",
+      "G",
       "А́ЛОР "
      ],
      [
-      "A",
+      null,
       "ОИ "
      ],
      [
-      "D",
+      null,
       "ДЖХОРН́А́ "
      ],
      [
@@ -104,31 +89,39 @@
       "ДХА́РА́Р "
      ],
      [
-      null,
+      "C",
       "ПА́НЕ"
      ]
-    ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 1
+    }
    },
    {
     "index": 2,
     "chunks": [
      [
-      "D",
+      "C",
       "БОНДХУ "
      ],
      [
-      "A",
+      "G",
       "ХЕ "
      ],
      [
-      "D",
+      null,
       "НИЙЕ "
      ],
      [
-      null,
+      "C",
       "ЧОЛО"
      ]
-    ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 1
+    }
    }
   ],
   [
@@ -136,7 +129,7 @@
     "index": 3,
     "chunks": [
      [
-      "D",
+      "G",
       "А́ДХА́РЕР "
      ],
      [
@@ -148,39 +141,47 @@
       "А́Р "
      ],
      [
-      "G",
+      null,
       "ШОЙ "
      ],
      [
-      "D",
+      null,
       "НА́ "
      ],
      [
-      null,
+      "C",
       "ПРА́Н́Е"
      ]
-    ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 1
+    }
    },
    {
     "index": 4,
     "chunks": [
      [
-      "D",
+      "C",
       "БОНДХУ "
      ],
      [
-      "A",
+      "G",
       "ХЕ "
      ],
      [
-      "D",
+      null,
       "НИЙЕ "
      ],
      [
-      null,
+      "C",
       "ЧОЛО"
      ]
-    ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 1
+    }
    }
   ],
   [
@@ -188,7 +189,7 @@
     "index": 5,
     "chunks": [
      [
-      "D",
+      "G",
       "ГХУМЕР "
      ],
      [
@@ -200,67 +201,54 @@
       "БХА́Н̭А́НОР "
      ],
      [
-      "A",
+      null,
       "ГА́НЕ "
      ],
      [
-      "D",
+      "C",
       "ГА́НЕ"
      ]
-    ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 1
+    }
    },
    {
     "index": 6,
     "chunks": [
      [
-      "D",
+      "C",
       "БОНДХУ "
      ],
      [
-      "A",
+      "G",
       "ХЕ "
      ],
      [
-      "D",
+      null,
       "НИЙЕ "
      ],
      [
-      null,
+      "C",
       "ЧОЛО"
      ]
-    ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 1
+    }
    }
   ]
  ],
- "refrain": [
+ "refrain": [],
+ "road": [
   0,
   1,
   2
  ],
- "road": [
-  0,
-  1,
-  0,
-  2,
-  0
- ],
  "tala": "kaharva",
  "recordings": [
-  {
-   "name": "amps-D4LHhnSLhro",
-   "url": "https://www.youtube.com/watch?v=D4LHhnSLhro",
-   "singer": "AMPS",
-   "tonic": "D#",
-   "mode": "major",
-   "cents": -14,
-   "capo": 1,
-   "heard": [
-    4,
-    7
-   ],
-   "clashes": 0,
-   "bpm": 99.4
-  },
   {
    "name": "sarkarverse",
    "url": "https://sarkarverse.org/PS/1-999-f/_1%20BANDHU%20HE%20NIYE%20CALO.mp3",
@@ -268,7 +256,7 @@
    "tonic": "D#",
    "mode": "major",
    "cents": -14,
-   "capo": 1,
+   "capo": 3,
    "heard": [
     4,
     7
@@ -279,16 +267,16 @@
   {
    "name": "psnet-1",
    "url": "https://www.prabhatasamgiita.net/1-999/1%20BANDHU%20HE%20NIYE%20CALO%20%28old%20version%29.mp3",
-   "singer": "prabhatasamgiita.net, запись 1",
+   "singer": "",
    "tonic": "A",
    "mode": "major",
    "cents": -27,
-   "capo": 7,
+   "capo": 9,
    "heard": [
     2,
     7
    ],
-   "clashes": 0,
+   "clashes": 1,
    "bpm": 112.3
   },
   {
@@ -298,19 +286,34 @@
    "tonic": "D#",
    "mode": "major",
    "cents": 17,
-   "capo": 1,
+   "capo": 3,
    "heard": [
     3,
     7
    ],
    "clashes": 0,
    "bpm": 112.3
+  },
+  {
+   "name": "amps-D4LHhnSLhro",
+   "url": "https://www.youtube.com/watch?v=D4LHhnSLhro",
+   "singer": "",
+   "tonic": "D#",
+   "mode": "major",
+   "cents": -14,
+   "capo": 3,
+   "heard": [
+    4,
+    7
+   ],
+   "clashes": 0,
+   "bpm": 99.4
   }
  ],
- "source": "Аккорды подобраны программой по голосу ролика AMPS: под пением бурдон, гармонии в записи нет, и аккорды сочинены к держанным нотам по привычкам песенника. Сверены с 4 записями.",
- "origin": "voice",
+ "source": "Аккорды из песенника, сверены по голосу с 4 записями.",
+ "origin": "sheet",
  "notes": [
-  "Голос нигде не спорит с аккордами: проверено по 4 записям."
+  "БХАН̭АНОР: у psnet-1 голос держит C, с G он спорит, ложится F. Так в 1 записи из 4, в листе G оставлен."
  ],
  "generated": {
   "by": "chords.py",

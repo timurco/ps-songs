@@ -1,0 +1,451 @@
+{
+ "number": 80,
+ "title": "Шопоне эшечхо а́нондо гхоно туми",
+ "key": "Am",
+ "shapes": [
+  {
+   "name": "Am",
+   "f": [
+    -1,
+    0,
+    2,
+    2,
+    1,
+    0
+   ],
+   "fn": [
+    0,
+    0,
+    2,
+    3,
+    1,
+    0
+   ]
+  },
+  {
+   "name": "C",
+   "f": [
+    -1,
+    3,
+    2,
+    0,
+    1,
+    0
+   ],
+   "fn": [
+    0,
+    3,
+    2,
+    0,
+    1,
+    0
+   ]
+  },
+  {
+   "name": "Gm",
+   "f": [
+    3,
+    5,
+    5,
+    3,
+    3,
+    3
+   ],
+   "fn": [
+    1,
+    3,
+    4,
+    1,
+    1,
+    1
+   ],
+   "barre": [
+    3,
+    0,
+    5
+   ],
+   "note": "баррэ"
+  }
+ ],
+ "stanzas": [
+  [
+   {
+    "index": 0,
+    "chunks": [
+     [
+      "Am",
+      "ШОПОНЕ "
+     ],
+     [
+      "C",
+      "ЭШЕЧХО "
+     ],
+     [
+      "Gm",
+      "А́НОНДО "
+     ],
+     [
+      null,
+      "ГХОНО "
+     ],
+     [
+      "Am",
+      "ТУМИ"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 1
+    }
+   },
+   {
+    "index": 1,
+    "chunks": [
+     [
+      "Am",
+      "ШОБА́Р "
+     ],
+     [
+      "C",
+      "ТУМИ "
+     ],
+     [
+      "Gm",
+      "А́НОНДО",
+      {
+       "alt": "Am"
+      }
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 1
+    }
+   }
+  ],
+  [
+   {
+    "index": 2,
+    "chunks": [
+     [
+      "Am",
+      "МОН̭ДЖУЛО "
+     ],
+     [
+      "C",
+      "МОХА́КА́ШЕ"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 2
+    }
+   },
+   {
+    "index": 3,
+    "chunks": [
+     [
+      "Gm",
+      "МОХА́ПРА́НЕ "
+     ],
+     [
+      "Am",
+      "А́ЧХО "
+     ],
+     [
+      null,
+      "МИШЕ"
+     ]
+    ]
+   },
+   {
+    "index": 4,
+    "chunks": [
+     [
+      "Am",
+      "РУ́ПА́ТИ́ТО "
+     ],
+     [
+      "C",
+      "ОПОРУ́ПО "
+     ],
+     [
+      "Gm",
+      "ЧХОНДО ",
+      {
+       "alt": "Am"
+      }
+     ],
+     [
+      null,
+      "(ТУМИ)"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 1
+    }
+   },
+   {
+    "index": 5,
+    "chunks": [
+     [
+      "Am",
+      "ШОБА́Р "
+     ],
+     [
+      "C",
+      "ТУМИ "
+     ],
+     [
+      "Gm",
+      "А́НОНДО"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 1
+    }
+   }
+  ],
+  [
+   {
+    "index": 6,
+    "chunks": [
+     [
+      "Am",
+      "ЧОКХЕ "
+     ],
+     [
+      "C",
+      "ОНУРОКТИ "
+     ],
+     [
+      "Gm",
+      "ЧОРОН́Е "
+     ],
+     [
+      "Am",
+      "БИМУКТИ"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 1
+    }
+   },
+   {
+    "index": 7,
+    "chunks": [
+     [
+      "Am",
+      "БХА́БА́ТИ́ТО "
+     ],
+     [
+      "C",
+      "ШУДХА́ "
+     ],
+     [
+      null,
+      "НИШ́ЬЁН"
+     ],
+     [
+      "Gm",
+      "ДО "
+     ],
+     [
+      null,
+      "(ТУМИ)"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 1
+    }
+   },
+   {
+    "index": 8,
+    "chunks": [
+     [
+      "Am",
+      "ШОБА́Р "
+     ],
+     [
+      "C",
+      "ТУМИ "
+     ],
+     [
+      "Gm",
+      "А́НОНДО"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 1
+    }
+   }
+  ],
+  [
+   {
+    "index": 9,
+    "chunks": [
+     [
+      "Am",
+      "ДЖЕНЕ "
+     ],
+     [
+      null,
+      "БА́ "
+     ],
+     [
+      "C",
+      "НА́ "
+     ],
+     [
+      null,
+      "ДЖЕНЕ"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 2
+    }
+   },
+   {
+    "index": 10,
+    "chunks": [
+     [
+      "Gm",
+      "БХА́ЛОБА́ШИ "
+     ],
+     [
+      "Am",
+      "ЭКИ "
+     ],
+     [
+      null,
+      "ДЖОНЕ"
+     ]
+    ]
+   },
+   {
+    "index": 11,
+    "chunks": [
+     [
+      "Am",
+      "ШЕ "
+     ],
+     [
+      "C",
+      "БХА́ЛОБА́ША́Р "
+     ],
+     [
+      null,
+      "НА́ХИ "
+     ],
+     [
+      "Gm",
+      "ОНТО"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 1
+    }
+   },
+   {
+    "index": 12,
+    "chunks": [
+     [
+      "Am",
+      "ШОБА́Р "
+     ],
+     [
+      "C",
+      "ТУМИ "
+     ],
+     [
+      "Gm",
+      "А́НОНДО"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 1
+    }
+   }
+  ]
+ ],
+ "refrain": [
+  0,
+  1
+ ],
+ "road": [
+  0,
+  1,
+  0,
+  2,
+  0,
+  3
+ ],
+ "tala": "kaharva",
+ "recordings": [
+  {
+   "name": "sarkarverse",
+   "url": "https://sarkarverse.org/PS/1-999-f/__80%20SVAPANE%20ESECHO%20A%27NANDAGHANA%20TUMI.mp3",
+   "singer": "Acarya Priyashivananda Avadhuta",
+   "tonic": "C#",
+   "mode": "minor",
+   "cents": 34,
+   "capo": 4,
+   "heard": [
+    8,
+    8
+   ],
+   "clashes": 2,
+   "bpm": 99.4
+  },
+  {
+   "name": "psbot",
+   "url": "https://app.psbot.eu/play_audio/80/",
+   "singer": "Gunavati",
+   "tonic": "C#",
+   "mode": "minor",
+   "cents": 29,
+   "capo": 4,
+   "heard": [
+    8,
+    8
+   ],
+   "clashes": 3,
+   "bpm": 136.0
+  },
+  {
+   "name": "amps-vgw8zfU4hTU",
+   "url": "https://www.youtube.com/watch?v=vgw8zfU4hTU",
+   "singer": "",
+   "tonic": "C#",
+   "mode": "minor",
+   "cents": 35,
+   "capo": 4,
+   "heard": [
+    6,
+    8
+   ],
+   "clashes": 1,
+   "bpm": 99.4
+  }
+ ],
+ "source": "Аккорды из песенника, сверены по голосу с 3 записями.",
+ "origin": "sheet",
+ "notes": [
+  "АНОНДО: у sarkarverse, Gunavati, amps-vgw8zfU4hTU голос держит B, с Gm он спорит, ложится Am. Так в 3 записи из 3.",
+  "ЧХОНДО: у sarkarverse, Gunavati голос держит B, с Gm он спорит, ложится Am. Так в 2 записи из 3.",
+  "ОНТО: у Gunavati голос держит B и E, с Gm он спорит, ложится G. Так в 1 записи из 3, в листе Gm оставлен."
+ ],
+ "generated": {
+  "by": "chords.py",
+  "date": "2026-10-21",
+  "verified": false
+ }
+}

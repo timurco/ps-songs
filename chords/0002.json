@@ -1,0 +1,396 @@
+{
+ "number": 2,
+ "title": "Э га́н а́ма́р а́лор джхорон́а́ дха́ра́",
+ "key": "C",
+ "shapes": [
+  {
+   "name": "C",
+   "f": [
+    -1,
+    3,
+    2,
+    0,
+    1,
+    0
+   ],
+   "fn": [
+    0,
+    3,
+    2,
+    0,
+    1,
+    0
+   ]
+  },
+  {
+   "name": "F",
+   "f": [
+    1,
+    3,
+    3,
+    2,
+    1,
+    1
+   ],
+   "fn": [
+    1,
+    3,
+    4,
+    2,
+    1,
+    1
+   ],
+   "barre": [
+    1,
+    0,
+    5
+   ],
+   "note": "баррэ"
+  },
+  {
+   "name": "G",
+   "f": [
+    3,
+    2,
+    0,
+    0,
+    0,
+    3
+   ],
+   "fn": [
+    2,
+    1,
+    0,
+    0,
+    0,
+    3
+   ]
+  }
+ ],
+ "stanzas": [
+  [
+   {
+    "index": 0,
+    "chunks": [
+     [
+      null,
+      "Э "
+     ],
+     [
+      "C",
+      "ГА́Н "
+     ],
+     [
+      null,
+      "А́МА́Р "
+     ],
+     [
+      "F",
+      "А́ЛОР "
+     ],
+     [
+      "G",
+      "ДЖХОРОН́А́ "
+     ],
+     [
+      "C",
+      "ДХА́РА́"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 1
+    }
+   },
+   {
+    "index": 1,
+    "chunks": [
+     [
+      "C",
+      "УПОЛО "
+     ],
+     [
+      null,
+      "ПОТХЕ "
+     ],
+     [
+      null,
+      "ДИНЕ "
+     ],
+     [
+      null,
+      "РА́ТЕ"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 1
+    }
+   },
+   {
+    "index": 2,
+    "chunks": [
+     [
+      null,
+      "БОХЕ "
+     ],
+     [
+      null,
+      "ДЖА́И"
+     ]
+    ]
+   },
+   {
+    "index": 3,
+    "chunks": [
+     [
+      null,
+      "БОХЕ "
+     ],
+     [
+      null,
+      "ДЖА́И "
+     ],
+     [
+      null,
+      "БА́ДХОНО "
+     ],
+     [
+      null,
+      "ХА́РА́"
+     ]
+    ]
+   },
+   {
+    "index": 4,
+    "chunks": [
+     [
+      "F",
+      "А́ЛОР "
+     ],
+     [
+      "G",
+      "ДЖХОРОН́А́ "
+     ],
+     [
+      "C",
+      "ДХА́РА́"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 1
+    }
+   }
+  ],
+  [
+   {
+    "index": 5,
+    "chunks": [
+     [
+      null,
+      "Э "
+     ],
+     [
+      "C",
+      "ПОТХ "
+     ],
+     [
+      null,
+      "А́МА́Р "
+     ],
+     [
+      "F",
+      "БОНДХУРО "
+     ],
+     [
+      "G",
+      "КОН́Т́ОКО "
+     ],
+     [
+      "C",
+      "БХОРА́"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 1
+    }
+   },
+   {
+    "index": 6,
+    "chunks": [
+     [
+      "C",
+      "УТШО "
+     ],
+     [
+      null,
+      "ХОТЕ "
+     ],
+     [
+      null,
+      "ПРА́Н́ЕРО "
+     ],
+     [
+      null,
+      "ШРОТЕ"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 1
+    }
+   },
+   {
+    "index": 7,
+    "chunks": [
+     [
+      "C",
+      "БХЕГЕ "
+     ],
+     [
+      null,
+      "ДЖА́И"
+     ]
+    ]
+   },
+   {
+    "index": 8,
+    "chunks": [
+     [
+      null,
+      "БХЕГЕ "
+     ],
+     [
+      null,
+      "ДЖА́И "
+     ],
+     [
+      "G",
+      "ПА́Ш́А́Н́О "
+     ],
+     [
+      "C",
+      "КА́РА́"
+     ]
+    ]
+   },
+   {
+    "index": 9,
+    "chunks": [
+     [
+      "F",
+      "А́ЛОР "
+     ],
+     [
+      "G",
+      "ДЖХОРОН́А́ "
+     ],
+     [
+      "C",
+      "ДХА́РА́"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 1
+    }
+   }
+  ]
+ ],
+ "refrain": [],
+ "road": [
+  0,
+  1
+ ],
+ "tala": "kaharva",
+ "recordings": [
+  {
+   "name": "sarkarverse-1",
+   "url": "https://sarkarverse.org/PS/1-999-f/_2%20-%20E%20gan%20amar%20alor%20jharanadhara.mp3",
+   "singer": "Acarya Priyashivananda Avadhuta",
+   "tonic": "E",
+   "mode": "major",
+   "cents": -2,
+   "capo": 4,
+   "heard": [
+    9,
+    10
+   ],
+   "clashes": 1,
+   "bpm": 103.4
+  },
+  {
+   "name": "sarkarverse-2",
+   "url": "https://sarkarverse.org/PS/1-999-f/_2%20E%20GA%27N%20A%27MA%27R%20ALOR%20JHARN%27A%27DHA%27RA%27.mp3",
+   "singer": "",
+   "tonic": "A#",
+   "mode": "major",
+   "cents": -18,
+   "capo": 10,
+   "heard": [
+    6,
+    10
+   ],
+   "clashes": 1,
+   "bpm": 107.7
+  },
+  {
+   "name": "psnet-1",
+   "url": "https://www.prabhatasamgiita.net/1-999/2%20E%20GA%27N%20A%27MA%27R%20ALOR%20JHARN%27A%27DHA%27RA%27%20%28old%20version%29.mp3",
+   "singer": "",
+   "tonic": "A",
+   "mode": "major",
+   "cents": -14,
+   "capo": 9,
+   "heard": [
+    4,
+    10
+   ],
+   "clashes": 0,
+   "bpm": 123.0
+  },
+  {
+   "name": "psbot",
+   "url": "https://app.psbot.eu/play_audio/2/",
+   "singer": "Gunavati",
+   "tonic": "D",
+   "mode": "major",
+   "cents": 18,
+   "capo": 2,
+   "heard": [
+    4,
+    10
+   ],
+   "clashes": 0,
+   "bpm": 136.0
+  },
+  {
+   "name": "amps-CPjFTLINHGM",
+   "url": "https://www.youtube.com/watch?v=CPjFTLINHGM",
+   "singer": "",
+   "tonic": "E",
+   "mode": "major",
+   "cents": -2,
+   "capo": 4,
+   "heard": [
+    8,
+    10
+   ],
+   "clashes": 1,
+   "bpm": 103.4
+  }
+ ],
+ "source": "Аккорды из песенника, сверены по голосу с 5 записями.",
+ "origin": "sheet",
+ "notes": [
+  "АЛОР: у sarkarverse-1, amps-CPjFTLINHGM голос держит E, с F он спорит, ложится Em. Так в 2 записи из 5, в листе F оставлен.",
+  "ПАШАНО: у sarkarverse-2 голос держит A#, с G он спорит, ложится C. Так в 1 записи из 5, в листе G оставлен."
+ ],
+ "generated": {
+  "by": "chords.py",
+  "date": "2026-10-21",
+  "verified": false
+ }
+}

@@ -1,0 +1,559 @@
+{
+ "number": 342,
+ "title": "Шумукхер па́не чоле джа́бо а́ми",
+ "key": "Am",
+ "shapes": [
+  {
+   "name": "Am",
+   "f": [
+    -1,
+    0,
+    2,
+    2,
+    1,
+    0
+   ],
+   "fn": [
+    0,
+    0,
+    2,
+    3,
+    1,
+    0
+   ]
+  },
+  {
+   "name": "Dm",
+   "f": [
+    -1,
+    -1,
+    0,
+    2,
+    3,
+    1
+   ],
+   "fn": [
+    0,
+    0,
+    0,
+    2,
+    3,
+    1
+   ]
+  },
+  {
+   "name": "G",
+   "f": [
+    3,
+    2,
+    0,
+    0,
+    0,
+    3
+   ],
+   "fn": [
+    2,
+    1,
+    0,
+    0,
+    0,
+    3
+   ]
+  }
+ ],
+ "stanzas": [
+  [
+   {
+    "index": 0,
+    "chunks": [
+     [
+      "Am",
+      "ШУМУКХЕР "
+     ],
+     [
+      null,
+      "ПА́НЕ "
+     ],
+     [
+      "Dm",
+      "ЧОЛЕ "
+     ],
+     [
+      null,
+      "ДЖА́БО "
+     ],
+     [
+      null,
+      "А́МИ"
+     ]
+    ]
+   },
+   {
+    "index": 1,
+    "chunks": [
+     [
+      "G",
+      "ТОМА́РИ "
+     ],
+     [
+      null,
+      "НА́МТ́И "
+     ],
+     [
+      "Am",
+      "ША́ТХЕ "
+     ],
+     [
+      null,
+      "НИЙЕ"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 1
+    }
+   },
+   {
+    "index": 2,
+    "chunks": [
+     [
+      "Am",
+      "ЧОРОН́А "
+     ],
+     [
+      null,
+      "Т́ОЛИБЕ "
+     ],
+     [
+      "Dm",
+      "НА́ "
+     ],
+     [
+      null,
+      "ГО "
+     ],
+     [
+      null,
+      "А́МА́Р"
+     ]
+    ]
+   },
+   {
+    "index": 3,
+    "chunks": [
+     [
+      "G",
+      "ХИЯ́ "
+     ],
+     [
+      null,
+      "КА́ПИБЕ "
+     ],
+     [
+      null,
+      "НА "
+     ],
+     [
+      "Am",
+      "КА́РО "
+     ],
+     [
+      null,
+      "БХОЙЕ"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 1
+    }
+   },
+   {
+    "index": 4,
+    "chunks": [
+     [
+      "G",
+      "ТОМА́РИ "
+     ],
+     [
+      null,
+      "НА́МТ́И "
+     ],
+     [
+      "Am",
+      "ША́ТХЕ "
+     ],
+     [
+      null,
+      "НИЙЕ"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 1
+    }
+   }
+  ],
+  [
+   {
+    "index": 5,
+    "chunks": [
+     [
+      "Dm",
+      "БХУ́ДХОРЕ "
+     ],
+     [
+      null,
+      "ША́ГОРЕ "
+     ],
+     [
+      null,
+      "ЭИ "
+     ],
+     [
+      "Am",
+      "ЧОРА́ЧОРЕ"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 1
+    }
+   },
+   {
+    "index": 6,
+    "chunks": [
+     [
+      "Dm",
+      "КЕХО "
+     ],
+     [
+      null,
+      "НА́ "
+     ],
+     [
+      null,
+      "ПА́РИБЕ "
+     ],
+     [
+      "Am",
+      "БА́ДХА́ "
+     ],
+     [
+      null,
+      "ДИТЕ "
+     ],
+     [
+      null,
+      "МОРЕ"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 1
+    }
+   },
+   {
+    "index": 7,
+    "chunks": [
+     [
+      "Dm",
+      "ДЖЕ "
+     ],
+     [
+      null,
+      "КА́ДЖ "
+     ],
+     [
+      "Am",
+      "КОРИТЕ "
+     ],
+     [
+      null,
+      "ЭШЕЧХИ "
+     ],
+     [
+      null,
+      "КОРИБО"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 1
+    }
+   },
+   {
+    "index": 8,
+    "chunks": [
+     [
+      "G",
+      "ШУДРИРХО "
+     ],
+     [
+      null,
+      "А́ТТО "
+     ],
+     [
+      "Am",
+      "ПРОТОЕ"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 1
+    }
+   },
+   {
+    "index": 9,
+    "chunks": [
+     [
+      "G",
+      "ТОМА́РИ "
+     ],
+     [
+      null,
+      "НА́МТ́И "
+     ],
+     [
+      "Am",
+      "ША́ТХЕ "
+     ],
+     [
+      null,
+      "НИЙЕ"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 1
+    }
+   }
+  ],
+  [
+   {
+    "index": 10,
+    "chunks": [
+     [
+      "Dm",
+      "ДЖЕ "
+     ],
+     [
+      null,
+      "ДИН "
+     ],
+     [
+      null,
+      "ЧОЛИЯ́ "
+     ],
+     [
+      "Am",
+      "ГИЯ́ЧХЕ "
+     ],
+     [
+      null,
+      "А́МА́Р"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 1
+    }
+   },
+   {
+    "index": 11,
+    "chunks": [
+     [
+      "Dm",
+      "ТА́ХА́ "
+     ],
+     [
+      null,
+      "НИЙЕ "
+     ],
+     [
+      "Am",
+      "КОРИБО "
+     ],
+     [
+      null,
+      "НА́ "
+     ],
+     [
+      null,
+      "ХА́ХА́КА́Р"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 1
+    }
+   },
+   {
+    "index": 12,
+    "chunks": [
+     [
+      "Dm",
+      "ДЖЕ "
+     ],
+     [
+      null,
+      "ДИН "
+     ],
+     [
+      null,
+      "А́ШИЧХЕ "
+     ],
+     [
+      "Am",
+      "ТА́ХА́РО "
+     ],
+     [
+      null,
+      "ЛА́ГИЯ́"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 1
+    }
+   },
+   {
+    "index": 13,
+    "chunks": [
+     [
+      "G",
+      "БХУГИБО "
+     ],
+     [
+      null,
+      "НА́ "
+     ],
+     [
+      null,
+      "КОНО "
+     ],
+     [
+      "Am",
+      "ШОМ́ШОЙЕ"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 1
+    }
+   },
+   {
+    "index": 14,
+    "chunks": [
+     [
+      "G",
+      "ТОМА́РИ "
+     ],
+     [
+      null,
+      "НА́МТ́И "
+     ],
+     [
+      "Am",
+      "ША́ТХЕ "
+     ],
+     [
+      null,
+      "НИЙЕ"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 1
+    }
+   }
+  ]
+ ],
+ "refrain": [
+  0,
+  1,
+  2,
+  3,
+  4
+ ],
+ "road": [
+  0,
+  1,
+  0,
+  2
+ ],
+ "tala": "dadra",
+ "recordings": [
+  {
+   "name": "sarkarverse-1",
+   "url": "https://sarkarverse.org/PS/1-999-f/___342%20SUMUKHER%20PA'NE%20CALE%20JA'BO%20A'MI.mp3",
+   "singer": "",
+   "tonic": "D",
+   "mode": "minor",
+   "cents": -11,
+   "capo": 5,
+   "heard": [
+    12,
+    12
+   ],
+   "clashes": 0,
+   "bpm": 136.0
+  },
+  {
+   "name": "sarkarverse-2",
+   "url": "https://sarkarverse.org/PS/1-999-f/___342%20Sumukher%20Pane.mp3",
+   "singer": "Andy Douglas and friends",
+   "tonic": "E",
+   "mode": "minor",
+   "cents": -5,
+   "capo": 7,
+   "heard": [
+    7,
+    12
+   ],
+   "clashes": 2,
+   "bpm": 198.8
+  },
+  {
+   "name": "psnet",
+   "url": "https://www.prabhatasamgiita.net/1-999/__342%20SUMUKHER%20PA%27NE%20CALE%20JA%27BO%20A%27MI.mp3",
+   "singer": "",
+   "tonic": "D",
+   "mode": "minor",
+   "cents": -13,
+   "capo": 5,
+   "heard": [
+    11,
+    12
+   ],
+   "clashes": 0,
+   "bpm": 136.0
+  },
+  {
+   "name": "psbot",
+   "url": "https://app.psbot.eu/play_audio/342/",
+   "singer": "Gunavati",
+   "tonic": "E",
+   "mode": "minor",
+   "cents": 14,
+   "capo": 7,
+   "heard": [
+    8,
+    12
+   ],
+   "clashes": 1,
+   "bpm": 99.4
+  }
+ ],
+ "source": "Аккорды из песенника, сверены по голосу с 4 записями.",
+ "origin": "sheet",
+ "notes": [
+  "КАПИБЕ: у Andy Douglas and friends голос держит A#, с G он спорит, ложится F. Так в 1 записи из 4, в листе G оставлен.",
+  "НАМТИ: у Gunavati голос держит C, с G он спорит, ложится C. Так в 1 записи из 4, в листе G оставлен.",
+  "АМАР: у Andy Douglas and friends голос держит F, с Am он спорит, ложится F. Так в 1 записи из 4, в листе Am оставлен."
+ ],
+ "generated": {
+  "by": "chords.py",
+  "date": "2026-10-21",
+  "verified": false
+ }
+}

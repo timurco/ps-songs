@@ -1,0 +1,405 @@
+{
+ "number": 152,
+ "title": "Чомпоко боне модхуро шопоне",
+ "key": "Am",
+ "shapes": [
+  {
+   "name": "Am",
+   "f": [
+    -1,
+    0,
+    2,
+    2,
+    1,
+    0
+   ],
+   "fn": [
+    0,
+    0,
+    2,
+    3,
+    1,
+    0
+   ]
+  },
+  {
+   "name": "C",
+   "f": [
+    -1,
+    3,
+    2,
+    0,
+    1,
+    0
+   ],
+   "fn": [
+    0,
+    3,
+    2,
+    0,
+    1,
+    0
+   ]
+  },
+  {
+   "name": "G",
+   "f": [
+    3,
+    2,
+    0,
+    0,
+    0,
+    3
+   ],
+   "fn": [
+    2,
+    1,
+    0,
+    0,
+    0,
+    3
+   ]
+  }
+ ],
+ "stanzas": [
+  [
+   {
+    "index": 0,
+    "chunks": [
+     [
+      "Am",
+      "ЧОМПОКО "
+     ],
+     [
+      null,
+      "БОНЕ "
+     ],
+     [
+      null,
+      "МОДХУРО "
+     ],
+     [
+      "C",
+      "ШОПОНЕ"
+     ]
+    ]
+   },
+   {
+    "index": 1,
+    "chunks": [
+     [
+      null,
+      "ТА́ХА́КЕ "
+     ],
+     [
+      "G",
+      "ДЕКХЕЧХИ "
+     ],
+     [
+      "Am",
+      "МА́ЙЯ́МУКУРЕ"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 1
+    }
+   },
+   {
+    "index": 2,
+    "chunks": [
+     [
+      "Am",
+      "ША́НТО "
+     ],
+     [
+      null,
+      "БА́ТА́ШЕ "
+     ],
+     [
+      null,
+      "МОДИРО "
+     ],
+     [
+      "C",
+      "ШУБА́ШЕ,"
+     ]
+    ]
+   },
+   {
+    "index": 3,
+    "chunks": [
+     [
+      null,
+      "МУГДХО "
+     ],
+     [
+      "G",
+      "НОЙОНЕ "
+     ],
+     [
+      null,
+      "ШОРИТА́ "
+     ],
+     [
+      "Am",
+      "ТИ́РЕ"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 1
+    }
+   }
+  ],
+  [
+   {
+    "index": 4,
+    "chunks": [
+     [
+      "C",
+      "ШЕТХА́ "
+     ],
+     [
+      "G",
+      "КУШУМО "
+     ],
+     [
+      null,
+      "ПОРА́Г "
+     ],
+     [
+      null,
+      "ОЛОКХЕ "
+     ],
+     [
+      null,
+      "А́ШИЯ́"
+     ]
+    ]
+   },
+   {
+    "index": 5,
+    "chunks": [
+     [
+      null,
+      "ОЛОКХЕ "
+     ],
+     [
+      null,
+      "БХА́ШИЯ́ "
+     ],
+     [
+      "Am",
+      "ДЖА́Й"
+     ]
+    ]
+   },
+   {
+    "index": 6,
+    "chunks": [
+     [
+      "C",
+      "ШЕТХА́ "
+     ],
+     [
+      null,
+      "МОНЕРО "
+     ],
+     [
+      "G",
+      "МОЮРО"
+     ]
+    ]
+   },
+   {
+    "index": 7,
+    "chunks": [
+     [
+      null,
+      "НИ́ЛА́КА́ШЕ "
+     ],
+     [
+      null,
+      "ЧА́ХИ "
+     ],
+     [
+      null,
+      "КОЛА́П "
+     ],
+     [
+      null,
+      "МЕЛИЯ́ "
+     ],
+     [
+      "Am",
+      "ДЕЙ"
+     ]
+    ]
+   }
+  ],
+  [
+   {
+    "index": 8,
+    "chunks": [
+     [
+      "Am",
+      "ДЖЬЁТСНА́ "
+     ],
+     [
+      null,
+      "НИШИ́ТХЕ "
+     ],
+     [
+      null,
+      "БИДЖОНО "
+     ],
+     [
+      "C",
+      "БИ́ТХИТЕ"
+     ]
+    ]
+   },
+   {
+    "index": 9,
+    "chunks": [
+     [
+      null,
+      "БХА́ЛОБА́ША́ "
+     ],
+     [
+      "G",
+      "НА́ЧЕ"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 2
+    }
+   },
+   {
+    "index": 10,
+    "chunks": [
+     [
+      null,
+      "ТА́КЕ "
+     ],
+     [
+      null,
+      "ГХИРЕ "
+     ],
+     [
+      "Am",
+      "ГХИРЕ"
+     ]
+    ]
+   },
+   {
+    "index": 11,
+    "chunks": [
+     [
+      null,
+      "ТА́ХА́КЕ "
+     ],
+     [
+      "G",
+      "ПЕЙЕЧХИ "
+     ],
+     [
+      "Am",
+      "МА́ЙЯ́МУКУРЕ"
+     ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 1
+    }
+   }
+  ]
+ ],
+ "refrain": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "road": [
+  0,
+  1,
+  0,
+  2
+ ],
+ "tala": "dadra",
+ "recordings": [
+  {
+   "name": "sarkarverse-1",
+   "url": "https://sarkarverse.org/PS/1-999-f/___152%20CAMPAKA%20VANE%20MADHURA.mp3",
+   "singer": "Jayashrii Gupta",
+   "tonic": "D#",
+   "mode": "minor",
+   "cents": -3,
+   "capo": 6,
+   "heard": [
+    12,
+    15
+   ],
+   "clashes": 0,
+   "bpm": 107.7
+  },
+  {
+   "name": "sarkarverse-2",
+   "url": "https://sarkarverse.org/PS/1-999-f/___152%20CAMPAKA%20VANE%20MADHURA%20SVAPANE.mp3",
+   "singer": "",
+   "tonic": "D",
+   "mode": "minor",
+   "cents": -8,
+   "capo": 5,
+   "heard": [
+    12,
+    15
+   ],
+   "clashes": 0,
+   "bpm": 152.0
+  },
+  {
+   "name": "psbot",
+   "url": "https://app.psbot.eu/play_audio/152/",
+   "singer": "Gunavati",
+   "tonic": "D",
+   "mode": "minor",
+   "cents": 26,
+   "capo": 5,
+   "heard": [
+    9,
+    15
+   ],
+   "clashes": 0,
+   "bpm": 103.4
+  },
+  {
+   "name": "amps-Z-3N5PyaJ_k",
+   "url": "https://www.youtube.com/watch?v=Z-3N5PyaJ_k",
+   "singer": "",
+   "tonic": "D#",
+   "mode": "minor",
+   "cents": -37,
+   "capo": 6,
+   "heard": [
+    12,
+    15
+   ],
+   "clashes": 0,
+   "bpm": 107.7
+  }
+ ],
+ "source": "Аккорды из песенника, сверены по голосу с 4 записями.",
+ "origin": "sheet",
+ "notes": [
+  "Голос нигде не спорит с аккордами: проверено по 4 записям."
+ ],
+ "generated": {
+  "by": "chords.py",
+  "date": "2026-10-21",
+  "verified": false
+ }
+}

@@ -342,7 +342,7 @@
    "singer": "Acarya Priyashivananda Avadhuta",
    "tonic": "D",
    "mode": "minor",
-   "cents": -13,
+   "cents": -14,
    "capo": 5,
    "heard": [
     8,
@@ -360,19 +360,19 @@
    "cents": 30,
    "capo": 4,
    "heard": [
-    5,
+    6,
     8
    ],
-   "clashes": 1,
+   "clashes": 0,
    "bpm": 129.2
   },
   {
    "name": "amps-s4ZRQCIax9s",
    "url": "https://www.youtube.com/watch?v=s4ZRQCIax9s",
-   "singer": "AMPS",
+   "singer": "",
    "tonic": "D",
    "mode": "minor",
-   "cents": -15,
+   "cents": -16,
    "capo": 5,
    "heard": [
     8,
@@ -383,12 +383,13 @@
   }
  ],
  "source": "Аккорды из песенника, сверены по голосу с 3 записями.",
+ "origin": "sheet",
  "notes": [
-  "КОРИТЕ: у Gunavati голос держит C, с Em он спорит, ложится C. Так в 1 записи из 3, в листе Em оставлен."
+  "Голос нигде не спорит с аккордами: проверено по 3 записям."
  ],
  "generated": {
   "by": "chords.py",
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "verified": false
  }
 }
