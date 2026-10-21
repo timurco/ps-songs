@@ -1,0 +1,409 @@
+{
+ "number": 152,
+ "lang": "en",
+ "title": "In the campaka grove, in a sweet dream",
+ "lead": "The song describes a dream encounter through images of fragrance, a riverbank, and the peacock of the mind. For the student, important features include forms ending in -এ, literary conjunct participles ending in -ইয়া, and sentence connections that continue across several lines.",
+ "lines": [
+  {
+   "index": 0,
+   "words": [
+    {
+     "gloss": "campaka",
+     "form": "The name of a tree, without an ending; modifies the following noun.",
+     "role": "Specifies which trees grow in the grove.",
+     "meaning_here": "Campaka, a tree with fragrant flowers.",
+     "note": "The Bengali source writes চম্পক-বনে with a hyphen. Here it is separated according to the main text."
+    },
+    {
+     "gloss": "in the grove",
+     "form": "Locative form with the ending -এ: in the forest, in the grove.",
+     "parts": "বন + এ",
+     "role": "Adverbial of place modifying “have seen” in the next line.",
+     "meaning_here": "In a grove of campaka trees.",
+     "note": "The Roman v here corresponds to Bengali ব."
+    },
+    {
+     "gloss": "in a sweet",
+     "form": "Invariable adjective.",
+     "role": "Modifier of “dream.”",
+     "meaning_here": "Sweet, pleasing to the heart.",
+     "note": "The Russian form agrees with the word for “dream”; the Bengali adjective does not take a case ending."
+    },
+    {
+     "gloss": "dream",
+     "form": "Poetic স্বপন with the locative ending -এ.",
+     "parts": "স্বপন + এ",
+     "role": "Adverbial describing the state or space of the vision.",
+     "meaning_here": "In sleep, in a dream.",
+     "note": "স্বপন is a poetic variant of স্বপ্ন. Initial স্ব is pronounced sh, without v."
+    }
+   ],
+   "structure": "Two adverbials refer to the predicate in the next line: where did I see Him? In the campaka grove; in what state? In a sweet dream. The adjective মধুর modifies স্বপনে.",
+   "literal": "Campaka in the grove, in a sweet dream...",
+   "natural": "In the campaka grove, in a sweet dream,",
+   "image_note": "The fragrant grove and the dream establish the sensory setting of the encounter. The word “my” is absent from the original."
+  },
+  {
+   "index": 1,
+   "words": [
+    {
+     "gloss": "Him",
+     "form": "Literary third-person object form with the ending -কে.",
+     "parts": "তাহা + কে",
+     "role": "Direct object of “have seen.”",
+     "meaning_here": "The one being sung about; in a spiritual reading, Him.",
+     "note": "The Bengali pronoun does not express grammatical gender. Capitalization in the translation conveys the context."
+    },
+    {
+     "gloss": "[I] have seen",
+     "form": "First-person perfect form expressing a completed action with present relevance: have seen, have had the chance to see.",
+     "parts": "দেখ- + -েছি",
+     "role": "Predicate; the subject “I” is expressed by the verb form.",
+     "meaning_here": "I have seen Him.",
+     "note": "The form does not indicate the speaker’s gender; the masculine form in the Russian translation is conventional."
+    },
+    {
+     "gloss": "in magic mirror",
+     "form": "Compound noun with the locative ending -এ.",
+     "parts": "মায়া “magic, illusion” + মুকুর “mirror” + এ",
+     "role": "Adverbial indicating where the image appeared.",
+     "meaning_here": "In a magic mirror, in the mirror of an illusory vision.",
+     "note": "“Mirror of the mind” is a contextual interpretation. There is no separate word for “mind” in this compound."
+    }
+   ],
+   "structure": "The subject [I] is implied; the predicate is দেখেছি; the object is তাহাকে; the adverbial is মায়ামুকুরে. The adverbials in the first line also refer to this predicate.",
+   "literal": "Him [I] have seen in a magic mirror.",
+   "natural": "I have seen Him in the magic mirror.",
+   "image_note": "The mirror connects the vision with a reflection. Understanding it as an inner space of consciousness belongs to interpretation."
+  },
+  {
+   "index": 2,
+   "words": [
+    {
+     "gloss": "in a gentle",
+     "form": "Invariable adjective.",
+     "role": "Modifier of বাতাসে.",
+     "meaning_here": "Quiet, calm."
+    },
+    {
+     "gloss": "breeze",
+     "form": "Form with the ending -এ, indicating the surrounding environment.",
+     "parts": "বাতাস + এ",
+     "role": "Adverbial modifying “have seen.”",
+     "meaning_here": "In a gentle wind, in calm air.",
+     "note": "The diminutive “little breeze” is convenient in Russian, but there is no separate diminutive suffix here."
+    },
+    {
+     "gloss": "in an intoxicating",
+     "form": "Invariable adjective.",
+     "role": "Modifier of সুবাসে.",
+     "meaning_here": "Intoxicating, stupefying in its sweetness.",
+     "note": "Here this describes the fragrance, without indicating literal intoxication."
+    },
+    {
+     "gloss": "fragrance",
+     "form": "Noun with the ending -এ.",
+     "parts": "সুবাস + এ; within the stem, সু- “good” + বাস “smell”.",
+     "role": "Adverbial describing the surroundings.",
+     "meaning_here": "Amid a pleasant fragrance.",
+     "note": "The composition concerns the word সুবাস “fragrance,” rather than any modern meaning of বাস taken separately."
+    }
+   ],
+   "structure": "Two parallel groups of “adjective + noun ending in -এ.” They continue the description of the setting of the encounter; the line has no subject or predicate of its own.",
+   "literal": "In a gentle wind, in an intoxicating fragrance...",
+   "natural": "In a light breeze, amid intoxicating fragrance,"
+  },
+  {
+   "index": 3,
+   "words": [
+    {
+     "gloss": "with an enthralled",
+     "form": "Invariable adjective.",
+     "role": "Modifier of নয়নে.",
+     "meaning_here": "Enchanted by what is seen."
+    },
+    {
+     "gloss": "gaze",
+     "form": "Poetic word for “eye” with the ending -এ; here it expresses the means or manner of perception.",
+     "parts": "নয়ন + এ",
+     "role": "Adverbial of manner: with what kind of eyes the speaker looked.",
+     "meaning_here": "With enchanted eyes, with an enthralled gaze.",
+     "note": "There is no grammatical plural marker; both “with eyes” and “with a gaze” are natural in Russian."
+    },
+    {
+     "gloss": "of the river",
+     "form": "Poetic noun without a separate genitive ending, forming the first part of the phrase.",
+     "role": "Specifies whose bank it is.",
+     "meaning_here": "River.",
+     "note": "The Bengali source joins সরিতা-তীরে with a hyphen."
+    },
+    {
+     "gloss": "on the bank",
+     "form": "Locative form with the ending -এ.",
+     "parts": "তীর + এ",
+     "role": "Adverbial of the place of the encounter.",
+     "meaning_here": "On the bank of the river."
+    }
+   ],
+   "structure": "মুগ্ধ নয়নে expresses the manner of perception, and সরিতা তীরে expresses the place. Both groups refer to দেখেছি in line 1; the line introduces no new action.",
+   "literal": "With an enthralled gaze, of the river on the bank [I have seen Him].",
+   "natural": "With enthralled eyes I have seen Him on the riverbank.",
+   "image_note": "The repeated reference to seeing in the Russian translation makes explicit the connection with the verb in line 1."
+  },
+  {
+   "index": 4,
+   "words": [
+    {
+     "gloss": "there",
+     "form": "Poetic adverb of place.",
+     "role": "Adverbial of place.",
+     "meaning_here": "There, in the space described."
+    },
+    {
+     "gloss": "flower",
+     "form": "Poetic noun meaning “flower,” modifying the following noun.",
+     "role": "First part of the phrase “flower pollen.”",
+     "meaning_here": "Flower; in the phrase, rendered adjectivally as “flower.”",
+     "note": "The source writes কুসুম-পরাগ with a hyphen."
+    },
+    {
+     "gloss": "pollen",
+     "form": "Noun without an ending.",
+     "role": "Subject of “having arrived” and “drifts away.”",
+     "meaning_here": "Flower pollen."
+    },
+    {
+     "gloss": "invisibly",
+     "form": "Poetic form ending in -এ, from a stem meaning invisible or unseen.",
+     "parts": "অলখ + এ",
+     "role": "Adverbial modifying আসিয়া.",
+     "meaning_here": "Invisibly, imperceptibly to the eye.",
+     "note": "The translation “from the invisible world” occurs among the supplied translations, but the word has no separate marker meaning “from.”"
+    },
+    {
+     "gloss": "having come",
+     "form": "Literary conjunct participle ending in -ইয়া; the modern short variant is এসে.",
+     "parts": "আস- + -ইয়া",
+     "role": "Prior action by the same subject as in the next line.",
+     "meaning_here": "Having come, having appeared.",
+     "note": "This is a grammatical form of a single word; singing out the ending does not create a new word."
+    }
+   ],
+   "structure": "The subject is কুসুম পরাগ. সেথা indicates the place, and অলখে characterizes the appearance. The conjunct participle আসিয়া depends on the predicate যায় in the next line.",
+   "literal": "There flower pollen, invisibly having come...",
+   "natural": "There flower pollen appears invisibly",
+   "image_note": "The invisible appearance of the pollen allows a spiritual reading, but the word অলখে itself names neither a higher source nor a separate world."
+  },
+  {
+   "index": 5,
+   "words": [
+    {
+     "gloss": "invisibly",
+     "form": "Poetic form ending in -এ.",
+     "parts": "অলখ + এ",
+     "role": "Adverbial modifying “drifts away.”",
+     "meaning_here": "Invisibly, imperceptibly to the eye.",
+     "note": "“Into the invisible world” is a possible expansion of the image, but a direction into another world is not explicitly expressed."
+    },
+    {
+     "gloss": "floating",
+     "form": "Literary conjunct participle ending in -ইয়া; the modern variant is ভেসে.",
+     "parts": "ভাস- + -ইয়া",
+     "role": "Expresses the manner of movement in combination with যায়.",
+     "meaning_here": "Floating, drifting, carried by the air.",
+     "note": "Together with যায়, it is naturally translated by a single Russian verb meaning “drifts away.”"
+    },
+    {
+     "gloss": "goes away",
+     "form": "Third-person simple present.",
+     "role": "Finite predicate with “flower pollen” as its subject.",
+     "meaning_here": "Is carried away, drifts away."
+    }
+   ],
+   "structure": "The subject “flower pollen” is carried over from line 4. The predicate ভাসিয়া যায় expresses a gentle movement away; অলখে characterizes it as invisible.",
+   "literal": "Invisibly, floating, goes away.",
+   "natural": "And invisibly drifts away."
+  },
+  {
+   "index": 6,
+   "words": [
+    {
+     "gloss": "there",
+     "form": "Poetic adverb of place.",
+     "role": "Adverbial of place modifying the action in the next line.",
+     "meaning_here": "In that same place."
+    },
+    {
+     "gloss": "of [my] mind",
+     "form": "Genitive form with the ending -এর.",
+     "parts": "মন + এর",
+     "role": "Dependent modifier of “peacock.”",
+     "meaning_here": "Of the mind, of the inner world.",
+     "note": "“My” is implied by the context. In this Bengali spelling there is no separate final vowel after r."
+    },
+    {
+     "gloss": "the peacock",
+     "form": "Noun without an ending.",
+     "role": "Subject of the action in the next line.",
+     "meaning_here": "The peacock as an image of the inner world.",
+     "note": "The pronunciation follows Bengali ময়ূর; psbot gives a poetic variant with a final o."
+    }
+   ],
+   "structure": "The subject মনের ময়ূর is introduced, literally “the peacock of the mind.” The predicate is in line 7. Initial সেথা repeats the construction of line 4.",
+   "literal": "There of [my] mind the peacock...",
+   "natural": "There the peacock of my mind,",
+   "image_note": "The mind is represented as a peacock. This is a metaphor conveyed by the whole phrase, rather than a separate dictionary meaning of ময়ূর."
+  },
+  {
+   "index": 7,
+   "words": [
+    {
+     "gloss": "into blue sky",
+     "form": "Compound noun with the ending -এ; here it expresses the direction of the gaze.",
+     "parts": "নীল “blue” + আকাশ “sky” + এ",
+     "role": "Dependent phrase modifying “looking.”",
+     "meaning_here": "At the blue sky, into the blue sky.",
+     "note": "The ending -এ is translated into Russian according to its connection with the verb."
+    },
+    {
+     "gloss": "looking",
+     "form": "Poetic shortened conjunct participle from চাহিয়া.",
+     "parts": "চাহ- + -ই",
+     "role": "Accompanying action of the subject “peacock.”",
+     "meaning_here": "Looking, directing its gaze.",
+     "note": "The source marks চাহি' with an apostrophe. Here the context requires the meaning “to look,” rather than “to desire.”"
+    },
+    {
+     "gloss": "its tail",
+     "form": "Noun without an ending.",
+     "role": "Direct object of “spreads out.”",
+     "meaning_here": "Peacock plumage, a fanlike tail.",
+     "note": "The meaning is specified by the word “peacock” in the previous line."
+    },
+    {
+     "gloss": "having unfolded",
+     "form": "Literary conjunct participle ending in -ইয়া; the modern variant is মেলে.",
+     "parts": "মেল- + -ইয়া",
+     "role": "Semantic component of the compound predicate মেলিয়া দেয়.",
+     "meaning_here": "Unfolding, spreading out."
+    },
+    {
+     "gloss": "gives [to unfold]",
+     "form": "Third-person simple present; auxiliary component of the verb combination.",
+     "role": "Finite component of the predicate.",
+     "meaning_here": "In the combination মেলিয়া দেয়: spreads out, unfolds.",
+     "note": "There is no separate recipient of a gift here. The whole combination translates as “spreads out its tail.”"
+    }
+   ],
+   "structure": "The subject is “the peacock of the mind” from line 6. চাহি expresses the accompanying gaze, and নীলাকাশে indicates its direction. The main predicate is মেলিয়া দেয়, and the object is কলাপ.",
+   "literal": "Into the blue sky looking, its tail spreads out.",
+   "natural": "Looking into the blue sky, spreads out its fanlike tail.",
+   "image_note": "The peacock looks at the sky and spreads its plumage. Flight or movement through the sky is not mentioned in the text."
+  },
+  {
+   "index": 8,
+   "words": [
+    {
+     "gloss": "on a moonlit",
+     "form": "Noun meaning “moonlight,” forming the first part of the phrase জ্যোৎস্না-নিশীথে.",
+     "role": "Specifies the character of the night.",
+     "meaning_here": "Moonlight; in the phrase: a night bathed in moonlight.",
+     "note": "The Russian adjective meaning “moonlit” conveys the relationship between the nouns. The য-phala is represented by a soft sign in the Cyrillic transcription."
+    },
+    {
+     "gloss": "night, on deserted",
+     "form": "Two independent words are joined in the main text: নিশীথে, the locative form of নিশীথ “deep night,” and বিজন, an invariable adjective meaning “deserted.”",
+     "parts": "নিশীথ + এ; then the separate word বিজন.",
+     "role": "নিশীথে expresses time; বিজন modifies the following বীথিতে.",
+     "meaning_here": "Deep in the night; on a deserted path.",
+     "note": "A single words entry preserves the exact token of the main text. In the Bengali source and the other versions, these are two words pronounced separately."
+    },
+    {
+     "gloss": "path",
+     "form": "Locative form with the ending -তে.",
+     "parts": "বীথি + তে",
+     "role": "Adverbial of place modifying “dances” in the next line.",
+     "meaning_here": "On an avenue, on a path."
+    }
+   ],
+   "structure": "জ্যোৎস্না নিশীথে expresses time, and বিজন বীথিতে expresses place. Both groups refer to নাচে in line 9. The joined spelling NISHIITHEVIJANA crosses the boundary between these groups.",
+   "literal": "On a moonlit deep night, on a deserted path...",
+   "natural": "Deep in a moonlit night, on a deserted path,",
+   "image_note": "বিজন describes the absence of people, rather than necessarily a feeling of loneliness."
+  },
+  {
+   "index": 9,
+   "words": [
+    {
+     "gloss": "love",
+     "form": "Noun without an ending; identical in spelling to the verbal noun for “to love.”",
+     "parts": "Lexicalized formation ভাল + বাসা; here the whole word means “love”.",
+     "role": "Subject.",
+     "meaning_here": "Love, portrayed as dancing.",
+     "note": "There are no separate words meaning “my heart” in the line."
+    },
+    {
+     "gloss": "dances",
+     "form": "Third-person simple present.",
+     "parts": "নাচ- + -এ",
+     "role": "Predicate with “love” as its subject.",
+     "meaning_here": "Dances.",
+     "note": "The text does not specify the tempo of the dance."
+    }
+   ],
+   "structure": "The subject is ভালবাসা; the predicate is নাচে. Time and place are supplied by line 8, and the direction of the dance is revealed in line 10.",
+   "literal": "Love dances...",
+   "natural": "Love keeps dancing",
+   "image_note": "Love is personified. Translating this as “the heart dances” would replace the original subject."
+  },
+  {
+   "index": 10,
+   "words": [
+    {
+     "gloss": "Him",
+     "form": "Third-person object form with the ending -কে; the short modern variant of তাহাকে.",
+     "parts": "Object stem তা- + কে",
+     "role": "Object of ঘিরে: whom the action surrounds.",
+     "meaning_here": "Him, the same one whom the lyrical speaker saw.",
+     "note": "The pronoun does not indicate grammatical gender."
+    },
+    {
+     "gloss": "around",
+     "form": "Conjunct participle meaning “surrounding”; the first part of the repetition.",
+     "role": "Adverbial modifying “dances,” connecting the action with the object তাকে.",
+     "meaning_here": "Around Him, surrounding Him.",
+     "note": "In this phrase, the conjunct participle functions much like a postposition meaning “around.”"
+    },
+    {
+     "gloss": "again and again",
+     "form": "Repetition of the same conjunct participle.",
+     "parts": "ঘিরে ঘিরে, repetition of the whole word.",
+     "role": "Intensifies the adverbial, conveying continuing circular movement.",
+     "meaning_here": "Circle after circle, around again and again.",
+     "note": "This is a written repetition of a word, rather than the musical prolongation of a syllable."
+    }
+   ],
+   "structure": "The line depends on “love dances.” তাকে is the object of ঘিরে; the repetition ঘিরে ঘিরে conveys continuous or repeated movement around Him.",
+   "literal": "Him surrounding, surrounding.",
+   "natural": "Around Him, circle after circle."
+  }
+ ],
+ "heard": [],
+ "uncertain": [
+  "No video or audio recording is attached. The value video.same_song=false indicates a lack of video confirmation, rather than an established mismatch between songs. Subtitles, sound, and performance order have not been checked.",
+  "In line 8, NISHIITHEVIJANA is a joined spelling of the two words NISHIITHE and VIJANA. The Bengali script has been restored with a space according to the supplied Bengali source; the exact Roman token has been preserved as a single words entry.",
+  "The supplied sources contain an additional line after line 10: “তাহাকে পেয়েছি মায়ামুকুরে”, “I have found Him in the magic mirror.” It is absent from the main text, so it has not been added to lines.",
+  "The supplied roman_as_sung_psnet version contains repetitions and an additional concluding line, but without a recording it cannot be regarded as a verified order of the canonical AMPS performance.",
+  "For মনের and ময়ূর, the pronunciation follows the supplied Bengali spelling: “moner,” “moyur.” The Cyrillic transcription in psbot gives “monero,” “moyuro”; without a recording, the final vowels cannot be confirmed as features of the performance.",
+  "অলখে has been translated adverbially as “invisibly.” The translations “from the invisible world” and “into the invisible world” expand the image, but the original form itself does not express a contrast between “from” and “into.”"
+ ],
+ "interpretation": "In a spiritual reading, the “Him” who is seen may be understood as the Supreme Beloved Being. The dream, magic mirror, fragrance, and riverbank create a space of inner contemplation. The peacock of the mind, spreading its tail before the blue sky, may express the opening of the inner world toward the boundless. In the final lines, love itself becomes the acting figure and circles around Him. This is an interpretation of the imagery; the words “Supreme Being,” “boundless,” and “inner contemplation” are not directly named in the lines.",
+ "generated": {
+  "by": "codex",
+  "model": "gpt-6.1-sol",
+  "date": "2026-10-21",
+  "verified": false,
+  "from": "ru"
+ },
+ "problems": []
+}
