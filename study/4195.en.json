@@ -1,0 +1,577 @@
+{
+ "number": 4195,
+ "lang": "en",
+ "title": "You Have Come, You Have Come",
+ "lead": "A song in Hindi about the arrival of the Beloved and the longstanding call to Him. Students will benefit from tracing the jin… unhi… construction, “since the days when… since those very days…,” and recognizing the whole words behind the spaces in merī, tumhārī and sāre.",
+ "lines": [
+  {
+   "index": 0,
+   "words": [
+    {
+     "gloss": "have come",
+     "form": "Perfective participial form; together with ho, it forms the 2nd person perfect.",
+     "role": "Lexical part of the predicate.",
+     "meaning_here": "Have come, have appeared.",
+     "note": "The song is written in Hindi. The Bengali script here has been reconstructed as a transcription of the text, rather than its original language."
+    },
+    {
+     "gloss": "[You]",
+     "form": "Present-tense auxiliary verb used with tum.",
+     "role": "Auxiliary part of the predicate.",
+     "meaning_here": "In āye ho: “You have come.”"
+    },
+    {
+     "gloss": "You",
+     "form": "2nd person personal pronoun.",
+     "role": "Subject.",
+     "meaning_here": "You, the addressee of the song."
+    },
+    {
+     "gloss": "have come",
+     "form": "Perfective participial form.",
+     "role": "Lexical part of the repeated predicate.",
+     "meaning_here": "Have come."
+    },
+    {
+     "gloss": "[You]",
+     "form": "Auxiliary verb used with tum.",
+     "role": "Auxiliary part of the predicate.",
+     "meaning_here": "Forms the perfect."
+    },
+    {
+     "gloss": "You",
+     "form": "2nd person personal pronoun.",
+     "role": "Subject.",
+     "meaning_here": "You."
+    }
+   ],
+   "structure": "Tum is the subject; āye ho means “You have come.” The predicate + subject order emphasizes the arrival. The statement is repeated twice.",
+   "literal": "Have come You, have come You.",
+   "natural": "You have come, You have come!"
+  },
+  {
+   "index": 1,
+   "words": [
+    {
+     "gloss": "eras",
+     "form": "Plural, oblique form before the postpositional phrase ke bād.",
+     "parts": "yug + -on",
+     "role": "Dependent word in the adverbial of time.",
+     "meaning_here": "Eras, ages.",
+     "note": "In Hindi, the ending contains a nasal vowel; the final “n” here is a conventional representation. psbot gives “jugo.”"
+    },
+    {
+     "gloss": "[after]",
+     "form": "Component of the compound postposition ke bād.",
+     "role": "Links yugon with bād.",
+     "meaning_here": "Not translated separately here.",
+     "note": "Ke bād is translated as a whole: “after.”"
+    },
+    {
+     "gloss": "after",
+     "form": "Component of the phrase ke bād.",
+     "role": "Adverbial of time together with yugon ke.",
+     "meaning_here": "After, following."
+    },
+    {
+     "gloss": "beloved",
+     "form": "Masculine, vocative form ending in -e.",
+     "parts": "pyārā → pyāre",
+     "role": "Address.",
+     "meaning_here": "Dear, beloved.",
+     "note": "The word “Lord” is absent from this line."
+    }
+   ],
+   "structure": "The adverbial yugon ke bād modifies āye ho in the preceding line. Pyāre is an address.",
+   "literal": "Eras after, beloved.",
+   "natural": "After so many eras, beloved.",
+   "image_note": "“So many” conveys the emotional sense; there is no separate word with this meaning."
+  },
+  {
+   "index": 2,
+   "words": [
+    {
+     "gloss": "papihā",
+     "form": "Bird name, singular.",
+     "role": "Subject of the first clause.",
+     "meaning_here": "The papihā bird.",
+     "note": "The precise zoological identification cannot be established from the supplied materials; “nightingale” is an inaccurate translation."
+    },
+    {
+     "gloss": "sings",
+     "form": "Poetic 3rd person form; here it describes what is happening.",
+     "parts": "bol- + -e",
+     "role": "First predicate.",
+     "meaning_here": "Calls, sings.",
+     "note": "Of a bird, bolnā also means “to cry, to call.”"
+    },
+    {
+     "gloss": "koel",
+     "form": "Bird name, singular.",
+     "role": "Subject of the second clause.",
+     "meaning_here": "The koel, a bird of the cuckoo family.",
+     "note": "psbot gives “koele,” but the main text has no final -e; this discrepancy cannot be resolved without a recording."
+    },
+    {
+     "gloss": "sings",
+     "form": "The same poetic 3rd person form.",
+     "parts": "bol- + -e",
+     "role": "Second predicate.",
+     "meaning_here": "Calls."
+    }
+   ],
+   "structure": "Two parallel clauses without a conjunction: papihā + bole; koyal + bole.",
+   "literal": "The papihā sings, the koel sings.",
+   "natural": "The papihā sings, the koel sings,",
+   "image_note": "The birds’ calls accompany the addressee’s arrival. That they specifically announce His arrival follows from the context."
+  },
+  {
+   "index": 3,
+   "words": [
+    {
+     "gloss": "sing",
+     "form": "Present participle, masculine plural; part of bolte hain.",
+     "parts": "bol- + -te",
+     "role": "Lexical part of the predicate.",
+     "meaning_here": "Call.",
+     "note": "In ordinary Hindi pronunciation, bolte; the vowel in the Roman transcription does not necessarily indicate a separate audible syllable."
+    },
+    {
+     "gloss": "[sing]",
+     "form": "Present-tense auxiliary verb, plural.",
+     "role": "Auxiliary part of the predicate.",
+     "meaning_here": "Forms the present tense with bolte.",
+     "note": "The Cyrillic transcription follows psbot’s approximation; in Hindi, hain has a nasal vowel."
+    },
+    {
+     "gloss": "peacocks",
+     "form": "Masculine; number is determined by the plural predicate.",
+     "role": "Subject.",
+     "meaning_here": "Peacocks.",
+     "note": "AO here is not read as two separate vowels."
+    },
+    {
+     "gloss": "to me",
+     "form": "Beginning of the poetic form written separately as mo re; its precise morphology has not been established.",
+     "parts": "mo re",
+     "role": "Presumably denotes the listener to the birds’ calls.",
+     "meaning_here": "According to the supplied translations: “to me.”",
+     "note": "Mo should not confidently be treated as an independent word."
+    },
+    {
+     "gloss": "[to me]",
+     "form": "Ending of the sequence mo re; its independent function has not been established.",
+     "parts": "mo + re, probably a single form",
+     "role": "Part of a tentatively analyzed expression.",
+     "meaning_here": "There is no reliable separate translation.",
+     "note": "Not automatically taken as a vocative particle: it may represent the single form more."
+    }
+   ],
+   "structure": "Mor is the subject, and bolte hain is the predicate. Mo re is understood as “to me” in the supplied translations, but its precise form remains unclear.",
+   "literal": "Sing peacocks [to me].",
+   "natural": "And the peacocks sing to me."
+  },
+  {
+   "index": 4,
+   "words": [
+    {
+     "gloss": "which",
+     "form": "Relative pronoun, oblique plural form.",
+     "role": "Modifier of dinon.",
+     "meaning_here": "Which.",
+     "note": "Jin dinon se means “since the days when…”"
+    },
+    {
+     "gloss": "days",
+     "form": "Plural, oblique form before se.",
+     "parts": "din + -on",
+     "role": "Head of the adverbial indicating the starting time.",
+     "meaning_here": "Days.",
+     "note": "The ending is nasal; “n” represents it conventionally."
+    },
+    {
+     "gloss": "since",
+     "form": "Postposition following the oblique form of a noun.",
+     "role": "Indicates the starting point in time.",
+     "meaning_here": "Since, starting from."
+    },
+    {
+     "gloss": "game",
+     "form": "Feminine singular.",
+     "role": "Nominal basis of an incomplete clause.",
+     "meaning_here": "The addressee’s game; in a religious context, divine play.",
+     "note": "The verb “commenced” is absent and is supplied from the sense."
+    },
+    {
+     "gloss": "Your",
+     "form": "Initial part of the possessive pronoun tumhārī.",
+     "parts": "TUMHÁ + RII = tumhārī",
+     "role": "Part of the modifier of līlā.",
+     "meaning_here": "Your.",
+     "note": "The space in the source splits a single word."
+    },
+    {
+     "gloss": "[Your]",
+     "form": "Final part of tumhārī; -ī agrees with the feminine noun.",
+     "parts": "tumhā-rī",
+     "role": "Completes the possessive modifier.",
+     "meaning_here": "Has no independent meaning.",
+     "note": "This is neither a separate particle nor a new word in the melodic phrasing."
+    }
+   ],
+   "structure": "Jin dinon se introduces a relative temporal clause, answered by unhi dinon se in line 5. Līlā is the nominal basis; tumhārī modifies it. The predicate [commenced] is implied.",
+   "literal": "Which days since [commenced] game Your…",
+   "natural": "Since the days when Your divine game commenced,",
+   "image_note": "The word līlā can denote divine play, but does not in itself describe how it works."
+  },
+  {
+   "index": 5,
+   "words": [
+    {
+     "gloss": "those very",
+     "form": "Oblique plural form of the demonstrative pronoun, emphasized by hī.",
+     "parts": "un + hī",
+     "role": "Modifier of dinon; answers jin.",
+     "meaning_here": "Precisely those, those very."
+    },
+    {
+     "gloss": "days",
+     "form": "Plural, oblique form.",
+     "parts": "din + -on",
+     "role": "Head of the adverbial of time.",
+     "meaning_here": "Days."
+    },
+    {
+     "gloss": "since",
+     "form": "Postposition indicating a starting point.",
+     "role": "Forms the adverbial of time.",
+     "meaning_here": "Starting from."
+    },
+    {
+     "gloss": "call",
+     "form": "Feminine singular.",
+     "role": "Nominal basis of an incomplete clause.",
+     "meaning_here": "A call directed to the addressee.",
+     "note": "“Yearning” brings out the emotional sense, but the direct meaning here is “call.”"
+    },
+    {
+     "gloss": "my",
+     "form": "Beginning of the possessive pronoun merī.",
+     "parts": "ME + RII = merī",
+     "role": "Part of the modifier of pukār.",
+     "meaning_here": "My.",
+     "note": "This is not the postposition meṃ, “in.”"
+    },
+    {
+     "gloss": "[my]",
+     "form": "Final part of merī; feminine in agreement with pukār.",
+     "parts": "me-rī",
+     "role": "Completes the modifier.",
+     "meaning_here": "Has no independent meaning.",
+     "note": "The source transcription splits a single word."
+    }
+   ],
+   "structure": "Unhi dinon se answers jin dinon se: “since those very days.” Pukār merī means “my call”; the verb [has been sounding/began] is omitted.",
+   "literal": "Those very days since [sounds] call my.",
+   "natural": "My yearning, too, has sounded since those very days."
+  },
+  {
+   "index": 6,
+   "words": [
+    {
+     "gloss": "weep",
+     "form": "Present participle, feminine; together with hain, it forms the present tense.",
+     "parts": "ro- + -tī",
+     "role": "Lexical part of the predicate.",
+     "meaning_here": "Weep."
+    },
+    {
+     "gloss": "[weep]",
+     "form": "Present-tense auxiliary verb, plural.",
+     "role": "Auxiliary part of the predicate.",
+     "meaning_here": "Forms rotī hain."
+    },
+    {
+     "gloss": "eyes",
+     "form": "Poetic feminine plural form; the nasal ending is not indicated in the Roman transcription.",
+     "parts": "āṅkh + poetic -iyā̃",
+     "role": "Subject.",
+     "meaning_here": "The eyes [of the singer].",
+     "note": "“My” follows from the context; there is no separate possessive word here."
+    },
+    {
+     "gloss": "with tears",
+     "form": "Noun with plural meaning in combination with bharī.",
+     "role": "Denotes what fills the eyes.",
+     "meaning_here": "Tears.",
+     "note": "The initial vowel is nasal; the Cyrillic transcription represents this approximately."
+    },
+    {
+     "gloss": "filled",
+     "form": "Beginning of bharī, a feminine participial modifier.",
+     "parts": "BHA + RII = bharī",
+     "role": "Part of the modifier of ankhiyā.",
+     "meaning_here": "Filled.",
+     "note": "Not an independent word."
+    },
+    {
+     "gloss": "[filled]",
+     "form": "End of bharī; -ī indicates feminine gender.",
+     "parts": "bha-rī",
+     "role": "Completes the modifier.",
+     "meaning_here": "Has no independent meaning."
+    }
+   ],
+   "structure": "Ankhiyā is the subject; rotī hain is the predicate. Ānsū bharī modifies the eyes: “filled with tears.”",
+   "literal": "Weep eyes, with tears filled.",
+   "natural": "My eyes are weeping, filled with tears,"
+  },
+  {
+   "index": 7,
+   "words": [
+    {
+     "gloss": "sway",
+     "form": "Present participle, masculine plural.",
+     "parts": "jhūm- + -te",
+     "role": "Lexical part of the predicate.",
+     "meaning_here": "Sway, swing in rapture.",
+     "note": "In ordinary Hindi, jhūmte; the initial consonant is not doubled."
+    },
+    {
+     "gloss": "[sway]",
+     "form": "Present-tense auxiliary verb, plural.",
+     "role": "Auxiliary part of the predicate.",
+     "meaning_here": "Forms jhūmte hain."
+    },
+    {
+     "gloss": "hearts",
+     "form": "Masculine; the direct plural form is identical to the singular.",
+     "role": "Subject.",
+     "meaning_here": "Minds, inner feelings; rendered as “hearts” in the Russian translation.",
+     "note": "This does not refer to the anatomical heart."
+    },
+    {
+     "gloss": "all",
+     "form": "Beginning of sāre, a masculine plural form.",
+     "parts": "SÁ + RE = sāre",
+     "role": "Part of the modifier of man.",
+     "meaning_here": "All.",
+     "note": "Not an independent word."
+    },
+    {
+     "gloss": "[all]",
+     "form": "Final part of sāre, agreeing with man.",
+     "parts": "sā-re",
+     "role": "Completes the modifier.",
+     "meaning_here": "Has no independent meaning.",
+     "note": "Here re is not a vocative particle."
+    }
+   ],
+   "structure": "Man sāre is the subject: “all minds/hearts.” Jhūmte hain is the predicate.",
+   "literal": "Sway hearts all.",
+   "natural": "And the minds of all are swinging in rapture.",
+   "image_note": "The verb conveys swaying, including from joy or absorption in music; “in rapture” brings out this nuance."
+  },
+  {
+   "index": 8,
+   "words": [
+    {
+     "gloss": "there is",
+     "form": "Present tense, 3rd person singular.",
+     "role": "Existential predicate.",
+     "meaning_here": "There is, exists."
+    },
+    {
+     "gloss": "not",
+     "form": "Negative particle.",
+     "role": "Negates the existence of tapasya.",
+     "meaning_here": "No, not.",
+     "note": "In Hindi, the final vowel is nasal."
+    },
+    {
+     "gloss": "my",
+     "form": "Beginning of merī, a feminine possessive form.",
+     "parts": "ME + RII = merī",
+     "role": "Part of the modifier of tapasya.",
+     "meaning_here": "My."
+    },
+    {
+     "gloss": "[my]",
+     "form": "Final part of merī.",
+     "parts": "me-rī",
+     "role": "Completes the modifier.",
+     "meaning_here": "Has no independent meaning."
+    },
+    {
+     "gloss": "austerity",
+     "form": "Feminine singular.",
+     "role": "Subject of the negated existential predicate.",
+     "meaning_here": "Ascetic spiritual practice, austerity.",
+     "note": "There is no word for “power” or “ability”; it has been added in the supplied translations."
+    }
+   ],
+   "structure": "Merī tapasyā is the subject; hai nahī̃ negates its existence. The inverted word order foregrounds the negation.",
+   "literal": "There is not my austerity.",
+   "natural": "I have no ascetic achievements,",
+   "image_note": "The translation “I have no power for austerity” is an explanatory reading rather than the literal meaning of the line."
+  },
+  {
+   "index": 9,
+   "words": [
+    {
+     "gloss": "light",
+     "form": "Regional or poetic noun; the precise dictionary form has not been established.",
+     "role": "Topic of the negative first clause.",
+     "meaning_here": "Light, illumination; possibly moonlight.",
+     "note": "The meaning “light” agrees with all the supplied translations; a narrower meaning is not asserted."
+    },
+    {
+     "gloss": "is absent",
+     "form": "Poetic or regional variant of the negative nahī̃.",
+     "role": "Negates the presence of light.",
+     "meaning_here": "There is none."
+    },
+    {
+     "gloss": "[there is]",
+     "form": "Present tense, 3rd person singular.",
+     "role": "Copula; most likely introduces amāvasyā.",
+     "meaning_here": "Prevails, has come; literally “is.”",
+     "note": "Possible division: “there is no light; there is a new moon.”"
+    },
+    {
+     "gloss": "new moon",
+     "form": "Feminine singular.",
+     "role": "Nominal component of the second clause of the line.",
+     "meaning_here": "New moon, moonless night.",
+     "note": "The image of darkness is connected with the absence of a visible Moon."
+    }
+   ],
+   "structure": "Two short clauses are likely: injor nāhī̃, “there is no light”; hai amāvasyā, “it is the new moon.” There is no conjunction between them.",
+   "literal": "Light is absent, there is a new moon.",
+   "natural": "There is no light; the night is moonless.",
+   "image_note": "The moonless night creates an image of darkness; seeing inner darkness here is an interpretation."
+  },
+  {
+   "index": 10,
+   "words": [
+    {
+     "gloss": "remains",
+     "form": "Verb stem in the compound rah gayī.",
+     "parts": "rah + gayī",
+     "role": "Main part of the predicate.",
+     "meaning_here": "Remains."
+    },
+    {
+     "gloss": "[remains]",
+     "form": "Resultative perfective verb, feminine singular.",
+     "parts": "rah gayī",
+     "role": "Completes the compound predicate.",
+     "meaning_here": "Indicates the outcome: remains.",
+     "note": "Here it does not denote a separate movement, “went away.”"
+    },
+    {
+     "gloss": "only",
+     "form": "Restrictive particle.",
+     "role": "Restricts the number of remaining desires.",
+     "meaning_here": "Only, just.",
+     "note": "The final A in the Roman transcription is not pronounced in ordinary Hindi."
+    },
+    {
+     "gloss": "one",
+     "form": "Cardinal numeral.",
+     "role": "Modifier of cikirśā.",
+     "meaning_here": "One."
+    },
+    {
+     "gloss": "alone",
+     "form": "Emphatic restrictive particle following ek.",
+     "role": "Emphasizes uniqueness.",
+     "meaning_here": "One single.",
+     "note": "Sirf ek hī is naturally translated together: “only one.”"
+    },
+    {
+     "gloss": "desire",
+     "form": "Literary feminine noun, singular.",
+     "role": "Subject of rah gayī.",
+     "meaning_here": "A desire to accomplish something; the following line reveals its content.",
+     "etymology": "Sanskrit cikīrṣā denotes a desire to act or do something and is related to the desiderative stem of the root kṛ, “to do.”",
+     "note": "It should not be confused with cikitsā, “treatment.” “Ardent” is absent from the word itself."
+    }
+   ],
+   "structure": "Cikirśā is the feminine subject; rah gayī agrees with it. Sirf ek hī means “only one.” The following line reveals the content of the desire.",
+   "literal": "Remains only one alone desire.",
+   "natural": "Only one desire remains:"
+  },
+  {
+   "index": 11,
+   "words": [
+    {
+     "gloss": "[I may] become",
+     "form": "1st person singular subjunctive; a nasal final vowel, banū̃, is expected.",
+     "parts": "ban- + -ū̃",
+     "role": "Predicate expressing the desired action.",
+     "meaning_here": "That I may become, may I become.",
+     "note": "The subject “I” is expressed by the verb form."
+    },
+    {
+     "gloss": "of feet",
+     "form": "Nominal stem in the combination caraṇ rajakaṇ.",
+     "role": "Specifies the origin or belonging of the speck of dust.",
+     "meaning_here": "The addressee’s feet.",
+     "note": "The poetic combination conveys the relationship without a separately expressed postposition meaning “from/at.”"
+    },
+    {
+     "gloss": "a dust-speck",
+     "form": "Compound noun; predicative nominal with banū̃.",
+     "parts": "raj “dust” + kaṇ “particle”",
+     "role": "Denotes what the singer wishes to become.",
+     "meaning_here": "A speck of dust, a particle of dust.",
+     "note": "Raj here means “dust,” not “kingdom.” In the supplied performance version, reṇu, “dust,” appears instead of this word."
+    },
+    {
+     "gloss": "Your",
+     "form": "Beginning of the possessive pronoun tumhāre.",
+     "parts": "TUMHÁ + RE = tumhāre",
+     "role": "Part of a modifier semantically referring to caraṇ.",
+     "meaning_here": "Your.",
+     "note": "Its position after the whole phrase is poetic."
+    },
+    {
+     "gloss": "[Your]",
+     "form": "End of tumhāre, a masculine plural form.",
+     "parts": "tumhā-re",
+     "role": "Completes the possessive modifier.",
+     "meaning_here": "Has no independent meaning.",
+     "note": "Not a separate address."
+    }
+   ],
+   "structure": "The subject [I] is expressed in banū̃. Caraṇ rajakaṇ names the desired state: “a speck of dust [at] the feet.” Tumhāre semantically modifies caraṇ. The entire line reveals the content of cikirśā in the preceding line.",
+   "literal": "[That I may] become of feet a speck of dust Your.",
+   "natural": "That I may become a speck of dust at Your feet.",
+   "image_note": "A speck of dust at the feet is an image of utter smallness and closeness to the addressee."
+  }
+ ],
+ "heard": [],
+ "uncertain": [
+  "This is a song in Hindi with poetic and regional forms, rather than in Bengali. The Bengali script of all the lines has been reconstructed as an approximate transcription of Hindi; no Bengali original has been supplied.",
+  "No video or audio is attached. The value video.same_song=false means that no match has been confirmed, rather than that a different song has been identified. The presence of subtitles and the actual performance order are unknown.",
+  "The pronunciation of line 2 should read “papihā bole koyal bole”; “koyadl” in the general pronunciation field is a typo, while the word-by-word field contains the correct version.",
+  "The Cyrillic transcription is approximate: Hindi nasal vowels have no exact Russian equivalent. The forms yugon and dinon contain a nasal vowel, rather than necessarily a separate consonant n.",
+  "psbot renders YUGON as “jugo” and KOYAL as “koele.” The ordinary Hindi readings “yugon” and “koyal” are adopted here; differences in performance cannot be established without a recording.",
+  "The spaces in TUMHÁ RII, ME RII, BHA RII, SÁ RE and TUMHÁ RE split the whole words tumhārī, merī, bharī, sāre, tumhāre. The words items preserve the original tokenization; the final fragments are not treated as independent words.",
+  "The precise segmentation of MO RE has not been established. The translation “to me” is taken from the supplied translations; the possible single form more cannot be confidently analyzed without an additional source.",
+  "The meaning of INJOR as “light” is supported by the supplied translations; the precise regional form and the possible meaning “moonlight” have not been verified.",
+  "The supplied roman_as_sung_psnet text has CARAŃ REŃU instead of CARAŃ RAJAKAŃA in the last line. This is a textual discrepancy between sources, rather than a difference confirmed by listening.",
+  "The composition of rajakaṇ is given as raj + kaṇ. Its joined Bengali spelling and pronunciation have been reconstructed; the author’s precise spelling is unknown.",
+  "In the supplied performance text, the opening lines and line 4 are repeated, and a vocal “ÁÁ…” appears. These have not been carried over into sung_order and refrain because the recording has not been checked."
+ ],
+ "interpretation": "As a spiritual interpretation, the song can be read as an address to the Divine Beloved. His arrival is experienced as the end of a long wait; the birds’ calls and swaying hearts become a response to the encounter. The singer claims no ascetic merit and ends the address with the wish to become a speck of dust at the addressee’s feet. This image can be understood as humility and a desire for closeness; this is an interpretation of the whole, rather than an individual dictionary meaning of the words.",
+ "generated": {
+  "by": "codex",
+  "model": "gpt-6.1-sol",
+  "date": "2026-11-01",
+  "verified": false,
+  "from": "ru"
+ },
+ "problems": []
+}
