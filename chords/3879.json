@@ -1,0 +1,379 @@
+{
+ "number": 3879,
+ "title": "Ра́джа́ туми монер ра́джа́",
+ "key": "Am",
+ "shapes": [
+  {
+   "name": "Am",
+   "f": [
+    -1,
+    0,
+    2,
+    2,
+    1,
+    0
+   ],
+   "fn": [
+    0,
+    0,
+    2,
+    3,
+    1,
+    0
+   ]
+  },
+  {
+   "name": "G",
+   "f": [
+    3,
+    2,
+    0,
+    0,
+    0,
+    3
+   ],
+   "fn": [
+    2,
+    1,
+    0,
+    0,
+    0,
+    3
+   ]
+  }
+ ],
+ "stanzas": [
+  [
+   {
+    "index": 0,
+    "chunks": [
+     [
+      "Am",
+      "РА́ДЖА́ "
+     ],
+     [
+      "G",
+      "ТУМИ "
+     ],
+     [
+      null,
+      "МОНЕР "
+     ],
+     [
+      "Am",
+      "РА́ДЖА́"
+     ]
+    ]
+   },
+   {
+    "index": 1,
+    "chunks": [
+     [
+      "Am",
+      "БИШО "
+     ],
+     [
+      null,
+      "ТОМА́Р "
+     ],
+     [
+      "G",
+      "ОДХИ́НЕ"
+     ]
+    ]
+   },
+   {
+    "index": 2,
+    "chunks": [
+     [
+      "G",
+      "НИ́ХА́РИКА́ "
+     ],
+     [
+      null,
+      "ТХЕ"
+     ],
+     [
+      "Am",
+      "КЕ "
+     ],
+     [
+      null,
+      "ОН́У"
+     ]
+    ]
+   },
+   {
+    "index": 3,
+    "chunks": [
+     [
+      "Am",
+      "ПОРОМА́Н́У "
+     ],
+     [
+      "G",
+      "ША́ШОНЕ"
+     ]
+    ]
+   }
+  ],
+  [
+   {
+    "index": 4,
+    "chunks": [
+     [
+      "G",
+      "ТОМА́Р "
+     ],
+     [
+      "Am",
+      "А́ДЕШЕ "
+     ],
+     [
+      null,
+      "ПХУ́Л "
+     ],
+     [
+      null,
+      "ПХОТ́Е"
+     ]
+    ]
+   },
+   {
+    "index": 5,
+    "chunks": [
+     [
+      "Am",
+      "ИНГИТО "
+     ],
+     [
+      null,
+      "ЭЛЕИ "
+     ],
+     [
+      null,
+      "УЛКА́ "
+     ],
+     [
+      "G",
+      "ЧХОТ́Е"
+     ]
+    ]
+   },
+   {
+    "index": 6,
+    "chunks": [
+     [
+      "G",
+      "ТУНГА́ДРИ "
+     ],
+     [
+      "Am",
+      "ЧОРОН́Е "
+     ],
+     [
+      null,
+      "ЛОТ́Е"
+     ]
+    ]
+   },
+   {
+    "index": 7,
+    "chunks": [
+     [
+      "Am",
+      "ПОБОН "
+     ],
+     [
+      "G",
+      "БОХЕ "
+     ],
+     [
+      null,
+      "ШОНОНЕ"
+     ]
+    ]
+   }
+  ],
+  [
+   {
+    "index": 8,
+    "chunks": [
+     [
+      "G",
+      "ШОБА́Р "
+     ],
+     [
+      "Am",
+      "ПРОБХУ "
+     ],
+     [
+      null,
+      "БОРОН́И́Ё"
+     ]
+    ]
+   },
+   {
+    "index": 9,
+    "chunks": [
+     [
+      "Am",
+      "ШОБА́Й "
+     ],
+     [
+      null,
+      "ДЖЕ "
+     ],
+     [
+      null,
+      "ТОМА́РЕУ "
+     ],
+     [
+      "G",
+      "ПРИЁ"
+     ]
+    ]
+   },
+   {
+    "index": 10,
+    "chunks": [
+     [
+      "G",
+      "МОР "
+     ],
+     [
+      "Am",
+      "Э "
+     ],
+     [
+      null,
+      "ОНУРОДХО "
+     ],
+     [
+      null,
+      "МА́НИО"
+     ]
+    ]
+   },
+   {
+    "index": 11,
+    "chunks": [
+     [
+      "G",
+      "ШОРОН́О "
+     ],
+     [
+      null,
+      "ДИУ "
+     ],
+     [
+      "Am",
+      "ЧОРОН́Е"
+     ]
+    ]
+   }
+  ]
+ ],
+ "refrain": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "road": [
+  0,
+  1,
+  0,
+  2,
+  0
+ ],
+ "tala": null,
+ "recordings": [
+  {
+   "name": "sarkarverse-1",
+   "url": "https://sarkarverse.org/PS/3000-3999-f/3879%20RA%27JA%27%20TUMI%20MANER%20RA%27JA%27%2C%20VISHVA%20TOM%C3%81R.mp3",
+   "singer": "Acarya Tattvavedananda Avadhuta",
+   "tonic": "C#",
+   "mode": "minor",
+   "cents": 43,
+   "capo": 4,
+   "heard": [
+    8,
+    12
+   ],
+   "clashes": 0,
+   "bpm": 136.0
+  },
+  {
+   "name": "sarkarverse-2",
+   "url": "https://sarkarverse.org/PS/3000-3999-f/3879%20RA%27JA%27%20TUMI%20MANER%20RA%27JA%27.mp3",
+   "singer": "Rudrashiis",
+   "tonic": "A#",
+   "mode": "minor",
+   "cents": -19,
+   "capo": 1,
+   "heard": [
+    9,
+    12
+   ],
+   "clashes": 1,
+   "bpm": 143.6
+  },
+  {
+   "name": "psnet-1",
+   "url": "https://www.prabhatasamgiita.net/3000-3999/3879%20RA%27JA%27%20TUMI%20MANER%20RA%27JA%27%2C%20VISHVA%20TOMA%CC%81R.mp3",
+   "singer": "",
+   "tonic": "C#",
+   "mode": "minor",
+   "cents": 43,
+   "capo": 4,
+   "heard": [
+    9,
+    12
+   ],
+   "clashes": 0,
+   "bpm": 136.0
+  },
+  {
+   "name": "psnet-2",
+   "url": "https://www.prabhatasamgiita.net/3000-3999/3879%20RA%27JA%27%20TUMI%20MANER%20RA%27JA%27.mp3",
+   "singer": "",
+   "tonic": "A#",
+   "mode": "minor",
+   "cents": -19,
+   "capo": 1,
+   "heard": [
+    12,
+    12
+   ],
+   "clashes": 0,
+   "bpm": 143.6
+  }
+ ],
+ "source": "Аккорды подобраны программой по голосу ролика AMPS: под пением бурдон, гармонии в записи нет, и аккорды сочинены к держанным нотам по привычкам песенника. Сверены с 4 записями.",
+ "origin": "voice",
+ "notes": [
+  "ПРИЁ: у Rudrashiis голос держит G#, с G он спорит, ложится Am. Так в 1 записи из 4, в листе G оставлен."
+ ],
+ "checks": [
+  {
+   "line": 9,
+   "word": 3,
+   "text": "ПРИЁ",
+   "chord": "G",
+   "fits": "Am",
+   "held": [
+    "G#"
+   ],
+   "recs": [
+    "sarkarverse-2"
+   ],
+   "kept": true
+  }
+ ],
+ "generated": {
+  "by": "chords.py",
+  "date": "2026-11-05",
+  "verified": false
+ }
+}
