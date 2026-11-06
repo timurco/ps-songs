@@ -23,25 +23,6 @@
    ]
   },
   {
-   "name": "C",
-   "f": [
-    -1,
-    3,
-    2,
-    0,
-    1,
-    0
-   ],
-   "fn": [
-    0,
-    3,
-    2,
-    0,
-    1,
-    0
-   ]
-  },
-  {
    "name": "G",
    "f": [
     3,
@@ -59,6 +40,50 @@
     0,
     3
    ]
+  },
+  {
+   "name": "D",
+   "f": [
+    -1,
+    -1,
+    0,
+    2,
+    3,
+    2
+   ],
+   "fn": [
+    0,
+    0,
+    0,
+    1,
+    3,
+    2
+   ]
+  },
+  {
+   "name": "F",
+   "f": [
+    1,
+    3,
+    3,
+    2,
+    1,
+    1
+   ],
+   "fn": [
+    1,
+    3,
+    4,
+    2,
+    1,
+    1
+   ],
+   "barre": [
+    1,
+    0,
+    5
+   ],
+   "note": "баррэ"
   }
  ],
  "stanzas": [
@@ -71,7 +96,7 @@
       "THIS "
      ],
      [
-      "C",
+      null,
       "LIFE "
      ],
      [
@@ -92,11 +117,11 @@
     "index": 1,
     "chunks": [
      [
-      "G",
+      null,
       "THIS "
      ],
      [
-      null,
+      "G",
       "MIND "
      ],
      [
@@ -104,7 +129,7 @@
       "IS "
      ],
      [
-      "Am",
+      null,
       "FOR "
      ],
      [
@@ -117,11 +142,11 @@
     "index": 2,
     "chunks": [
      [
-      "G",
+      null,
       "THIS "
      ],
      [
-      "Am",
+      "D",
       "SOUL "
      ],
      [
@@ -136,7 +161,11 @@
       null,
       "HIM."
      ]
-    ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 1
+    }
    }
   ],
   [
@@ -152,7 +181,7 @@
       "UNIVERSE "
      ],
      [
-      null,
+      "G",
       "WE "
      ],
      [
@@ -160,7 +189,7 @@
       "WILL "
      ],
      [
-      "G",
+      null,
       "SERVE"
      ]
     ]
@@ -169,18 +198,26 @@
     "index": 4,
     "chunks": [
      [
-      "G",
+      null,
       "IN "
      ],
      [
-      "Am",
+      "F",
       "COORDINATING "
      ],
      [
-      null,
-      "TEAM."
+      "G",
+      "TE"
+     ],
+     [
+      "Am",
+      "AM."
      ]
-    ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 1
+    }
    }
   ],
   [
@@ -200,7 +237,7 @@
       "TO "
      ],
      [
-      "G",
+      null,
       "HIM,"
      ]
     ]
@@ -213,7 +250,7 @@
       "NIGHT "
      ],
      [
-      "Am",
+      null,
       "BELONGS "
      ],
      [
@@ -230,11 +267,11 @@
     "index": 7,
     "chunks": [
      [
-      "G",
+      "D",
       "MIGHT "
      ],
      [
-      "Am",
+      null,
       "BELONGS "
      ],
      [
@@ -245,7 +282,11 @@
       null,
       "HIM."
      ]
-    ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 1
+    }
    }
   ],
   [
@@ -274,15 +315,15 @@
     "index": 9,
     "chunks": [
      [
-      "G",
+      null,
       "HIS "
      ],
      [
-      "Am",
+      "F",
       "GRACE "
      ],
      [
-      null,
+      "G",
       "WE "
      ],
      [
@@ -290,44 +331,26 @@
       "WILL "
      ],
      [
-      null,
+      "Am",
       "SING."
      ]
-    ]
+    ],
+    "repeat": {
+     "times": 2,
+     "span": 1
+    }
    }
   ]
  ],
- "refrain": [
-  0,
-  1,
-  2
- ],
+ "refrain": [],
  "road": [
   0,
   1,
-  0,
-  3,
-  0,
-  1,
-  0
+  2,
+  3
  ],
  "tala": "kaharva",
  "recordings": [
-  {
-   "name": "amps-CPgX1iXB890",
-   "url": "https://www.youtube.com/watch?v=CPgX1iXB890",
-   "singer": "AMPS",
-   "tonic": "C",
-   "mode": "minor",
-   "cents": 27,
-   "capo": 3,
-   "heard": [
-    8,
-    10
-   ],
-   "clashes": 0,
-   "bpm": 80.7
-  },
   {
    "name": "sarkarverse",
    "url": "https://sarkarverse.org/PS/4000-5018-f/5009%20-%20This%20life%20is%20for%20Him.mp3",
@@ -346,22 +369,22 @@
   {
    "name": "psnet-1",
    "url": "https://www.prabhatasamgiita.net/4000-5018/5009%20THIS%20LIFE%20IS%20FOR%20HIM%2C%20THIS%20MIND%20IS%20FOR%20HIM%202.mp3",
-   "singer": "prabhatasamgiita.net, запись 1",
-   "tonic": "G#",
+   "singer": "",
+   "tonic": "D#",
    "mode": "minor",
    "cents": 1,
-   "capo": 11,
+   "capo": 6,
    "heard": [
     10,
     10
    ],
-   "clashes": 3,
+   "clashes": 1,
    "bpm": 143.6
   },
   {
    "name": "psnet-2",
    "url": "https://www.prabhatasamgiita.net/4000-5018/5009%20THIS%20LIFE%20IS%20FOR%20HIM%2C%20THIS%20MIND%20IS%20FOR%20HIM.mp3",
-   "singer": "prabhatasamgiita.net, запись 2",
+   "singer": "",
    "tonic": "C#",
    "mode": "minor",
    "cents": 43,
@@ -372,18 +395,45 @@
    ],
    "clashes": 0,
    "bpm": 86.1
+  },
+  {
+   "name": "amps-CPgX1iXB890",
+   "url": "https://www.youtube.com/watch?v=CPgX1iXB890",
+   "singer": "",
+   "tonic": "C",
+   "mode": "minor",
+   "cents": 27,
+   "capo": 3,
+   "heard": [
+    8,
+    10
+   ],
+   "clashes": 0,
+   "bpm": 80.7
   }
  ],
- "source": "Аккорды подобраны программой по голосу ролика AMPS: под пением бурдон, гармонии в записи нет, и аккорды сочинены к держанным нотам по привычкам песенника. Сверены с 4 записями.",
- "origin": "voice",
+ "source": "Аккорды из песенника, сверены по голосу с 4 записями.",
+ "origin": "sheet",
  "notes": [
-  "COORDINATING: у psnet-1 голос не держит ни одной ноты долго, но с Am спорит, ложится D. Так в 1 записи из 4, в листе Am оставлен.",
-  "HIM,: у psnet-1 голос держит F#, с Am он спорит, ложится F#m. Так в 1 записи из 4, в листе Am оставлен.",
-  "WE: у psnet-1 голос не держит ни одной ноты долго, но с Am спорит, ложится D. Так в 1 записи из 4, в листе Am оставлен."
+  "COORDINATING: у prabhatasamgiita.net, запись 1 голос не держит ни одной ноты долго, но с F спорит, ложится G. Так в 1 записи из 4, в листе F оставлен."
+ ],
+ "checks": [
+  {
+   "line": 4,
+   "word": 1,
+   "text": "COORDINATING",
+   "chord": "F",
+   "fits": "G",
+   "held": [],
+   "recs": [
+    "psnet-1"
+   ],
+   "kept": true
+  }
  ],
  "generated": {
   "by": "chords.py",
-  "date": "2026-10-20",
+  "date": "2026-11-06",
   "verified": false
  }
 }
